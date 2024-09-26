@@ -1,0 +1,66 @@
+{{Short description|German band}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Texas Lightning
+| image                 = Jane&Jonny.png
+| caption            = [[Jane Comerford]] and Jon Flemming Olsen
+| image_size            = <!-- Only for images narrower than 220 pixels -->
+| landscape           = yes
+| background          = group_or_band
+| alias               = 
+| origin              = [[Hamburg]], [[Germany]]
+| instrument          = 
+| genre               = [[Country pop]]
+| occupation          = 
+| years_active        = 2000–present
+| label               = 
+| associated_acts     = 
+| website                 = http://www.texaslightning.net
+| current_members     = [[Jane Comerford]]<br />Malte Pittner<br />Markus Schmidt<br />Uwe Frenzel<br />[[Olli Dittrich]]
+| past_members        = Chris Walther<br />Little Mick Schulz<br />Miss Susu Belle<br />Stefan Hansch<br />Larry Kils<br />Jonny Olsen
+}}
+
+'''Texas Lightning''' is a German [[quintet]] from Hamburg which fits in the [[country music]] genre and describes itself as old fashioned and hip.  Their music is a mix of country and [[Popular music|pop]] drawing from country classic stars like [[Patsy Cline]], [[Loretta Lynn]], [[Johnny Cash]] and [[Tammy Wynette]] and pop stars such as [[ABBA]], [[Nancy Sinatra]], [[Linda Ronstadt]], [[Madonna (entertainer)|Madonna]], [[Michael Jackson]] and the [[Beatles]], performed with some country humour. The band members are [[Olli Dittrich]] as Ringofire (drums and vocals), [[Jon Flemming Olsen]] as The Flame (vocals and guitar), [[Markus Schmidt (musician)|Markus Schmidt]] as Fastfinger (electric guitar and banjo), [[Uwe Frenzel]] as Friendly (doublebass and vocals) and Australian [[Jane Comerford]] (vocals and ukulele). The band's first performance took place on December 23, 2000, in the music club "Knust" in [[Hamburg]], as Texas Lightning & The Rodeo Rockets, although there have been various changes in the lineup of the band since.
+
+==Eurovision Song Contest==
+On March 9, 2006, Texas Lightning won the German heat for the [[Eurovision Song Contest 2006]] and represented Germany in the Finals on May 20, 2006, in [[Athens]], [[Greece]].  The winning song was "[[No No Never]]", written and composed by Jane Comerford.{{Citation needed|date=May 2022}} They became the first country band to participate in the ESC.  The song finished 14th place with 36 points.
+
+"No No Never" was released as a single in Germany, Austria and Switzerland.  It reached number 1 on the German [[Media Control Charts]], number 4 in Austria and number 6 in Switzerland.
+
+== Honorary Texas Citizenship ==
+Through a nomination by Steve Sivek of [[Baytown, Texas]] and the submittal by [[Texas Senate|Texas State Senator]] [[Tommy Williams (Texas politician)|Tommy Williams]], the members of Texas Lightning were, by Proclamation 603 before the Texas Senate, declared to be Honorary Texans. The proclamation was passed by the senate in June 2006.<ref>{{Cite web |last=Klier |first=Marcus |date=2006-08-25 |title=Eurovision Texas Lightning become honorary citizens - in Texas! - ESCToday.com |url=https://esctoday.com/6353/texas_lightning_become_honorary_citizens_-_in_texas/ |access-date=2022-05-30 |website=Eurovision News, Polls and Information by ESCToday |language=en-US}}</ref>
+
+== Discography ==
+=== Album ===
+*2006 "[[Meanwhile, Back at the Ranch (album)|Meanwhile, Back at the Ranch]]" (Gold Status)
+*2009 "[[Western Bound]]"
+
+=== Singles ===
+*2005 "Like a Virgin"
+*2006 "No No Never" (Platinum Status)
+*2006 "I Promise"
+*2009 "Seven Ways to Heaven"
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons category-inline|Texas Lightning}}
+* [http://www.texaslightning.net Texas Lightning] website in German and English
+
+{{s-start}}
+{{succession box
+| before=[[Gracia Baur|Gracia]]<br>with ''[[Run & Hide (Gracia Baur song)|Run & Hide]]''
+| title=[[Germany in the Eurovision Song Contest]]
+| years='''[[Eurovision Song Contest 2006|2006]]'''
+| after=[[Roger Cicero]]<br>with ''[[Frauen regier'n die Welt]]''
+}}
+{{s-end}}
+{{Germany in the Eurovision Song Contest|state=autocollapse}}
+{{Eurovision Song Contest 2006|state=autocollapse}}
+{{Authority control}}
+
+[[Category:German country music groups]]
+[[Category:Eurovision Song Contest entrants for Germany]]
+[[Category:Eurovision Song Contest entrants of 2006]]
+[[Category:Musical groups from Hamburg]]
+[[Category:Culture in Hamburg]]

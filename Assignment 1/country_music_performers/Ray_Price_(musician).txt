@@ -1,0 +1,5 @@
+#REDIRECT [[Ray Price (singer)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

@@ -1,0 +1,5 @@
+#REDIRECT [[Kingston (duo)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

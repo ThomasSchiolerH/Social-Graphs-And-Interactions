@@ -1,0 +1,118 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{More citations needed|date=April 2020}}
+{{Infobox musical artist
+| name                = Keith Palmer
+| image               = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = 
+| alias               = 
+| birth_date          = {{Birth date|1957|6|23}}
+| origin              = [[Hayti, Missouri]], United States
+| death_date          = {{death date and age|1996|6|13|1957|6|23}}
+| death_place         = [[White House, Tennessee]]
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1975–1992
+| label               = [[Epic Records|Epic]]
+| associated_acts     = [[Reba McEntire]]
+| website             = 
+}}
+
+'''Keith Palmer''' (June 23, 1957 – June 13, 1996)<ref name="whitburn">{{cite book|author=Joel Whitburn|authorlink=Joel Whitburn|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=314|isbn=978-0-89820-177-2}}</ref> was an American [[country music]] artist. He was born Bryon Keith Palmer on June 23, 1957, in [[Hayti, Missouri]], United States, and was raised in [[Corning, Arkansas]]. His name was actually supposed to be "Byron", but there was a mistake on the birth certificate.
+
+He began his music career in 1975 as pianist for [[the Dixie Echoes]], where he remained for three years. In 1991, Palmer released an album for [[Epic Records]] which produced two singles: "Don't Throw Me in the Briarpatch" and "Forgotten but Not Gone", both of which entered the U.S. Hot Country Singles & Tracks chart (now [[Hot Country Songs]]). He also co-wrote [[Reba McEntire]]'s 1991 single "[[For My Broken Heart (song)|For My Broken Heart]]". Palmer died of cancer on June 13, 1996, in [[White House, Tennessee]], at age 38.
+
+==''Keith Palmer'' (1991)==
+{{Infobox album
+| italic_title = no
+| name         = Keith Palmer
+| type         = studio
+| artist       = Keith Palmer
+| cover        = keithpalmer.jpg
+| alt          =
+| released     = {{start date|1991|11|05}}
+| recorded     =
+| venue        =
+| studio       = The Bennett House, [[Franklin, TN]]
+| genre        = Country
+| length       = 31:43
+| label        = Epic No.&nbsp;48611
+| producer     = [[Bob Montgomery (songwriter)|Bob Montgomery]]
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+
+===Track listing===
+#"Memory Lane" ([[Lonnie Wilson]], [[Joe Diffie]]) – 3:15
+#"Forgotten but Not Gone" (Johnny MacRae, [[Buzz Cason]]) – 3:27
+#"If You Want to Find Love" ([[Skip Ewing]], [[Max D. Barnes]]) – 2:31
+#"That's Enough to Keep Me Hangin' On" (Keith Palmer) – 3:51
+#"My Arms Tonight" (Jeff Tweel, Larry Shell) – 2:47
+#"Don't Throw Me in the Briarpatch" ([[Kix Brooks]], [[Chris Waters]]) – 2:54
+#"She Left Me Yesterday" ([[Gary Harrison]], Patrick Finch, [[Tim Mensy]]) – 3:31
+#"Livin' on What's Left of Your Love" ([[Sanger D. Shafer]], Diffie) – 2:53
+#"[[When I Close My Eyes (Keith Palmer song)|When I Close My Eyes]]" (Nettie Musick, Mark Alan Springer) – 3:37
+#"I Picked a San Antonio Rose" (James Dean Hicks, Bobby P. Barker) – 2:55
+
+===Personnel===
+As listed in liner notes.<ref>{{cite AV media notes |title=Keith Palmer |others=Keith Palmer |year=1991 |type=CD insert |publisher=Epic Records |id=48611}}</ref>
+*[[Jerry Douglas]] – [[Dobro]]
+*[[Paul Franklin (musician)|Paul Franklin]] – [[steel guitar]]
+*Rob Hajacos – [[fiddle]]
+*Bill Hullett – acoustic guitar
+*[[Brent Mason]] – electric guitar
+*[[Tim Mensy]] – acoustic guitar, [[background vocals]], arrangement
+*Ron Oates – keyboards, arrangement
+*Keith Palmer – vocals
+*[[Matt Rollings]] – keyboards
+*Jim Vest – steel guitar
+*Lonnie Wilson – drums
+*Bob Wray – bass
+*Jonathan Yudkin – [[mandolin]]
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1991
+! scope="row"| "Don't Throw Me in the Briarpatch"
+| 54
+| —
+|-
+| 1992
+! scope="row"| "Forgotten but Not Gone"
+| 60
+| 58
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Palmer, Keith}}
+[[Category:1957 births]]
+[[Category:1996 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Epic Records artists]]
+[[Category:Singer-songwriters from Missouri]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:People from Hayti, Missouri]]
+[[Category:Country musicians from Missouri]]
+[[Category:20th-century American male singers]]

@@ -1,0 +1,257 @@
+{{Short description|American country music singer-songwriter (1940–2001)}}
+{{other people|Johnny Russell|John Russell (disambiguation){{!}}John Russell}}
+{{Use mdy dates|date=December 2020}}
+{{one source|date=August 2012}}
+{{Infobox musical artist 
+| name            = Johnny Russell
+| image           = 
+| caption         = 
+| image_size      = 
+| background      = solo_singer
+| birth_name      = John Bright Russell
+| alias           = 
+| birth_date      = {{birth date|1940|01|23}}
+| birth_place     = [[Moorhead, Mississippi]], U.S.
+| origin          =
+| death_date      = {{Death date and age|2001|07|03|1940|01|23}}
+| death_place     = [[Nashville, Tennessee]], U.S.
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1965–2000
+}}
+
+'''John Bright Russell''' (January 23, 1940 – July 3, 2001)<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/johnny-russell-mn0000818494|title=Johnny Russell &#124; Biography & History|website=[[AllMusic]]|access-date=August 10, 2021}}</ref> was an American [[country music]] singer, songwriter, and comedian best known for his song "[[Act Naturally]]", which was made famous by [[Buck Owens]], who recorded it in 1963, and [[The Beatles]] in 1965.  His songs have been recorded by [[Gene Watson]], [[Burl Ives]], [[Jim Reeves]], [[Jerry Garcia]], [[Dolly Parton]], [[Emmylou Harris]], [[Loretta Lynn]], and [[Linda Ronstadt]].
+
+==Biography==
+Born in [[Moorhead, Mississippi]], United States, he moved with his family at age 11 to [[Fresno, California]].<ref name="AMG"/>  He began writing songs and entering talent contests while still attending Fresno High School, from which he graduated in 1958.<ref name="AMG"/> He had his first song published that year, "In a Mansion Stands My Love," which was recorded by Jim Reeves as the [[A-side and B-side]] of his 1960 hit, "[[He'll Have to Go]]."<ref name="AMG"/>
+
+Russell's recording of his song, "[[Rednecks, White Socks and Blue Ribbon Beer]]", was his only top 10 hit, peaking at No. 4 on the ''[[Billboard magazine|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart in October 1973.<ref name="AMG"/> The song was nominated later that year for a [[Grammy Award]]. Russell is also known for hits such as "The Baptism of Jesse Taylor", "[[Catfish John]]", and "Hello, I Love You".<ref name="AMG"/>
+
+Years later, [[George Strait]] topped the ''Billboard'' [[Hot Country Songs]] chart with Russell's song "[[Let's Fall to Pieces Together]]".<ref name="AMG"/>
+
+In 1987, Russell hosted his first annual concert in Moorhead, at the Mississippi Delta Community College Coliseum. These went on for 13 years, his final on April 29, 2000.
+
+By 2001, Russell's health had been in a state of decline (for years, he had used his [[obesity]] as a running joke on the [[Grand Ole Opry]]),<ref name="AMG"/> and in April 2001, both of his legs were amputated because of [[diabetes]]. Russell died July 3, 2001, in [[Nashville, Tennessee]], at the age of 61 from diabetes-related complications.<ref name="AMG"/>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1971
+| ''Mr. and Mrs. Untrue''
+| align="center"| —
+| rowspan="5"| RCA Victor
+|-
+| rowspan="2"| 1973
+| ''Catfish John / Chained''
+| align="center"| 32
+|-
+| ''Rednecks, White Socks and Blue Ribbon Beer''
+| align="center"| 19
+|-
+| 1974
+| ''She's in Love with a Rodeo Man''
+| align="center"| —
+|-
+| 1975
+| ''Here Comes Johnny Russell''
+| align="center"| 45
+|-
+| 1979
+| ''Perspectives''
+| align="center"| —
+| Mercury
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1971
+| "Open Up the Door to Your Heart"
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| "Mr. and Mrs. Untrue"
+| align="center"| 64
+| align="center"| —
+| ''Mr. and Mrs. Untrue''
+|-
+| rowspan="4"| 1972
+| "What a Price"
+| align="center"| 57
+| align="center"| —
+| rowspan="5"| ''Catfish John / Chained''
+|-
+| "Mr. Fiddle Man"
+| align="center"| 59
+| align="center"| —
+|-
+| "Rain Falling On Me"
+| align="center"| 36
+| align="center"| —
+|-
+| "[[Catfish John]]"
+| align="center"| 12
+| align="center"| 3
+|-
+| rowspan="3"| 1973
+| "Chained"
+| align="center"| 31
+| align="center"| 35
+|-
+| "[[Rednecks, White Socks and Blue Ribbon Beer]]"
+| align="center"| 4
+| align="center"| 1
+| rowspan="2"| ''Rednecks, White Socks and Blue Ribbon Beer''
+|-
+| "The Baptism of Jesse Taylor"
+| align="center"| 14
+| align="center"| 21
+|-
+| rowspan="2"| 1974
+| "She's in Love with a Rodeo Man"
+| align="center"| 39
+| align="center"| —
+| rowspan="2"| ''She's in Love with a Rodeo Man''
+|-
+| "She Burnt the Little Roadside Tavern Down"
+| align="center"| 38
+| align="center"| 42
+|-
+| rowspan="3"| 1975
+| "That's How My Baby Builds a Fire"
+| align="center"| 23
+| align="center"| 32
+| rowspan="4"| ''Here Comes Johnny Russell''
+|-
+| "Hello I Love You"
+| align="center"| 13
+| align="center"| 29
+|-
+| "Our Marriage Was a Failure"
+| align="center"| 45
+| align="center"| —
+|-
+| rowspan="2"| 1976
+| "I'm a Trucker"
+| align="center"| 57
+| align="center"| —
+|-
+| "This Man and Woman Thing"
+| align="center"| 45
+| align="center"| —
+| rowspan="5"| singles only
+|-
+| rowspan="3"| 1977
+| "[[The Son of Hickory Holler's Tramp|The Son of Hickery Holler's Tramp]]"
+| align="center"| 32
+| align="center"| 36
+|-
+| "I Wonder How She's Doing Now"
+| align="center"| flip
+| align="center"| —
+|-
+| "Obscene Phone Call"
+| align="center"| 91
+| align="center"| —
+|-
+| rowspan="3"| 1978
+| "Leona"
+| align="center"| 64
+| align="center"| —
+|-
+| "[[You'll Be Back (Every Night in My Dreams)]]"
+| align="center"| 24
+| align="center"| —
+| rowspan="3"| ''Perspectives''
+|-
+| "How Deep in Love Am I?"
+| align="center"| 29
+| align="center"| —
+|-
+| rowspan="2"| 1979
+| "I Might Be Awhile in New Orleans"
+| align="center"| 57
+| align="center"| —
+|-
+| "Ain't No Way to Make a Bad Love Grow"
+| align="center"| 56
+| align="center"| —
+| rowspan="8"| singles only
+|-
+| rowspan="2"| 1980
+| "While the Choir Sang the Hymn (I Thought of Her)"
+| align="center"| 57
+| align="center"| —
+|-
+| "We're Back in Love Again"
+| align="center"| 59
+| align="center"| —
+|-
+| rowspan="2"| 1981
+| "[[Song of the South (song)|Song of the South]]"
+| align="center"| 57
+| align="center"| —
+|-
+| "Here's to the Horses"
+| align="center"| 49
+| align="center"| —
+|-
+| 1982
+| "George"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1987
+| "Butterbeans" <small>(w/ [[Little David Wilkins]])</small>
+| align="center"| 72
+| align="center"| —
+|-
+| "It's Quittin' Time" <small>(w/ Little David Wilkins)</small>
+| align="center"| —
+| align="center"| —
+|}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+*Roy, Don. (1998). "Johnny Russell." In ''The Encyclopedia of Country Music.'' Paul Kingsbury, Ed. New York: Oxford University Press. pp.&nbsp;462–463.
+
+==External links==
+{{Portal|Biography}}
+* [https://web.archive.org/web/20040604030244/http://www.cmt.com/artists/az/russell_johnny/bio.jhtml  CMT.com Biography]
+* {{Find a Grave|5919118}}
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Russell, Johnny}}
+[[Category:1940 births]]
+[[Category:2001 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:Grand Ole Opry members]]
+[[Category:People from Moorhead, Mississippi]]
+[[Category:Musicians from Fresno, California]]
+[[Category:RCA Victor artists]]
+[[Category:Mercury Records artists]]
+[[Category:MGM Records artists]]
+[[Category:Writers from Fresno, California]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from California]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:Country musicians from California]]
+[[Category:Country musicians from Mississippi]]

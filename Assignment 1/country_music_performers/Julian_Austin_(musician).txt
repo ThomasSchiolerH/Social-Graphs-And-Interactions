@@ -1,0 +1,261 @@
+{{short description|Canadian country music singer|bot=PearBOT 5}}
+{{Use mdy dates|date=January 2020}}
+{{BLP sources|date=July 2012}}
+{{Infobox musical artist
+|image= | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Julian Austin |
+| image_size        = <!-- Only for images smaller than 220 pixels --> |
+|
+| background      = solo_singer
+| birth_name          = 
+| alias               = 
+| birth_date          = {{birth date and age|1963|08|24}}
+| birth_place         = [[Sussex, New Brunswick|Sussex]], New Brunswick
+| origin              = 
+| death_date          = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place         = 
+| instrument      = Guitar |
+| genre           = [[Country music|Country]] |
+| occupation      = singer |
+| years_active    = 1997–present |
+| label           = [[ViK. Recordings|ViK.]], Civilian, LMG, Little Ol' Records |
+| associated_acts = |
+| website             = {{URL|www.julianaustin.com}}
+}}
+
+'''Julian Austin''' (born August 24, 1963) is a Canadian [[country music]] singer. He has released more than fifteen singles in Canada, including the Number One hit "[[Little Ol' Kisses]]" (1997). In addition, Austin has recorded five studio albums.
+
+==Biography==
+Austin released his first album, ''[[What My Heart Already Knows]]'', on May 6, 1997. The album was certified [[Music recording sales certification|gold]] by the [[Canadian Recording Industry Association]] for sales of 50,000 copies,<ref>{{cite web|url=http://www.julianaustin.com/Bio2.html |accessdate=June 1, 2007 |url-status=dead |archiveurl=https://web.archive.org/web/20070402093631/http://www.julianaustin.com/Bio2.html |archivedate=April 2, 2007 |title=Julian Austin Official Site }}</ref> and the first single, "[[Little Ol' Kisses]]," went to No.&nbsp;1 the Canadian country singles chart. That same year, Austin won the Wrangler Rising Star Award from the [[Canadian Country Music Association]] (CCMA). All of the additional singles released from the album reached the top 20, including the No.&nbsp;3 song, "Diamond." In 1998, Austin was nominated for Best Country Male Vocalist at the [[Juno Award]]s, but lost to [[Paul Brandt]].
+
+He moved to [[Calgary]], Alberta in 1998 to work on his second album. However, the project was put on hold when he was injured in a bull-riding accident on January 9, 1999. Austin was left with several broken and cracked ribs, a punctured right lung, and a gaping hole in his right leg.<ref>[http://www.julianaustin.com/Bio3.html ] {{webarchive |url=https://web.archive.org/web/20070402093314/http://www.julianaustin.com/Bio3.html |date=April 2, 2007 }}</ref> After his recovery, ''[[Back in Your Life (Julian Austin album)|Back in Your Life]]'' was released on March 7, 2000. The album included a cover of the [[Steve Miller (musician)|Steve Miller]] classic "[[Take the Money and Run (Steve Miller Band song)|Take the Money and Run]]," which reached No.&nbsp;4 on the Canadian country singles chart. The album earned Austin six CCMA nominations, and he was again nominated for Best Country Male at the Juno's, once again losing to Paul Brandt.
+
+Austin left his record label, [[ViK. Recordings]], in 2001. The following year, he was approached by Civilian Records president [[Myles Goodwyn]]. His third album, ''Bulletproof'', was released on August 13, 2002. Singles from the album didn't perform well on the charts, and Austin left the label due to creative differences.<ref>[http://www.julianaustin.com/Bio4.html ] {{webarchive |url=https://web.archive.org/web/20070402093517/http://www.julianaustin.com/Bio4.html |date=April 2, 2007 }}</ref>
+
+He began work on his fourth album in 2005, ''The Red and White'', which was released by LMG Records in 2007. His fifth studio album, ''One for One'', was released be Little Ol' Records on May 26, 2009.
+
+==Personal life==
+Austin currently lives in Airdrie, Alberta with his wife Angela and their dog,Chippy. Austin is an avid supporter of the [[Canadian Armed Forces|Canadian Forces]]. He has done performances for the troops and has made a tribute song to raise money for the Sapper Mike McTeague Wounded Warriors fund, called "The Red and White Brigade".
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! Peak positions
+! rowspan="2"| [[Music recording sales certification|Certifications]]
+|- style="font-size:smaller;"
+! style="width:65px;"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Julian+Austin&ChartEn=Country+Albums%2fCDs&|title=Julian Austin - Country Albums/CDs|work=[[RPM (magazine)|RPM]]|date=July 17, 2013 |access-date=June 15, 2023}}</ref>
+|-
+! scope="row"| ''[[What My Heart Already Knows]]''
+| 
+* Release date: May 6, 1997
+* Label: [[ViK. Recordings]]
+| 9
+| 
+* [[Music Canada|CAN]]: Gold<ref>{{cite web|url=https://musiccanada.com/gold-platinum/?_gp_search=Julian%20Austin|title=Gold/Platinum: Music Canada (Julian Austin)|work=[[Music Canada]]|date=April 22, 1998 |access-date=June 15, 2023}}</ref>
+|-
+! scope="row"| ''[[Back in Your Life (Julian Austin album)|Back in Your Life]]''
+| 
+* Release date: March 7, 2000
+* Label: ViK. Recordings
+| 10
+| 
+|-
+! scope="row"| ''Bulletproof''
+| 
+* Release date: August 13, 2002
+* Label: Civilian Records
+| ×
+| 
+|-
+! scope="row"| ''The Red and White''
+| 
+* Release date: May 11, 2007
+* Label: LMG Records
+| ×
+| 
+|-
+! scope="row"| ''One for One''
+| 
+* Release date: May 26, 2009
+* Label: Little Ol' Records
+| ×
+| 
+|-
+| colspan="4" style="font-size:8pt"| "×" indicates that no relevant chart existed or was archived
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:65px;"| CAN Country<br/>{{efn|Peak positions from ''[[RPM (magazine)|RPM]]'' Country Singles from 1997 to 2000 and [[Canada Country]] in 2008.}}<ref name="RPM Country">{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Julian+Austin&ChartEn=Country+Singles&|title=Julian Austin - Country Singles|work=RPM|date=July 17, 2013 |access-date=June 15, 2023}}</ref><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2008-05-31/|title=Canada Country|magazine=[[Billboard (magazine)|Billboard]]|date=May 31, 2008|access-date=June 15, 2023}}</ref>
+|-
+| rowspan="2"| 1997
+! scope="row"| "[[Little Ol' Kisses]]"
+| 1
+| rowspan="5"| ''What My Heart Already Knows''
+|- 
+! scope="row"| "[[Diamond (Julian Austin song)|Diamond]]"
+| 3
+|- 
+| rowspan="3"| 1998
+! scope="row"| "[[Two Out of Three Ain't Bad]]"
+| 20
+|- 
+! scope="row"| "[[What My Heart Already Knows (song)|What My Heart Already Knows]]"
+| 12
+|- 
+! scope="row"| "[[Hard Time Loving You]]"
+| 13
+|- 
+| 1999
+! scope="row"| "Back in Your Life"
+| 14
+| rowspan="5"| ''Back in Your Life''
+|- 
+| rowspan="3"| 2000
+! scope="row"| "[[Take the Money and Run (Steve Miller Band song)|Take the Money and Run]]"
+| 4
+|- 
+! scope="row"| "[[Forever Loving You]]"
+| 5
+|- 
+! scope="row"| "Baby Bye Bye"
+| 40{{Efn|"Baby Bye Bye" reached number 40 when ''[[RPM (magazine)|RPM]]'' ceased publication in November 2000.<ref name="RPM Country"/>}}
+|-
+| 2001
+! scope="row"| "Should Be Over You"
+| ×
+|- 
+| rowspan="2"| 2002
+! scope="row"| "Pussycat"
+| ×
+| rowspan="3"| ''Bulletproof''
+|- 
+! scope="row"| "I'm So Over You"
+| ×
+|- 
+| 2003
+! scope="row"| "Only God Knows"
+| ×
+|- 
+| rowspan="2"| 2006
+! scope="row"| "He's Got What It Takes"
+| —
+| rowspan="5"| ''The Red and White''
+|- 
+! scope="row"| "The Red and White"
+| —
+|- 
+| 2007
+! scope="row"| "Harbour Town"
+| —
+|- 
+| rowspan="2"| 2008
+! scope="row"| "Back to Me"
+| 32
+|-
+! scope="row"| "Marie"
+| —
+|-
+| rowspan="3"| 2009
+! scope="row"| "[[Fat Bottomed Girls]]"
+| —
+| rowspan="4"| ''One for One''
+|-
+! scope="row"| "She Knows About Cryin'"
+| —
+|-
+! scope="row"| "If Houston Doesn't Want You"
+| —
+|-
+| rowspan="2"| 2010
+! scope="row"| "Goodbye Exit Sign"
+| —
+|-
+! scope="row"| "Me and This Town"
+| —
+| rowspan="5" {{n/a|Non-album singles}}
+|-
+| 2011
+! scope="row"| "Christmas Was Born"
+| —
+|-
+| 2014
+! scope="row"| "[[Margaritaville]]"
+| —
+|-
+| 2015
+! scope="row"| "Let's Get Outta Here"
+| —
+|-
+| 2018
+! scope="row"| "Love Train"
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart<br/>"×" indicates that no relevant chart existed or was archived
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 1997
+! scope="row"| "Little Ol' Kisses"
+| 
+|- 
+! scope="row"| "Diamond"
+| 
+|- 
+| rowspan="2"| 2000
+! scope="row"| "Take the Money and Run"
+| Josh Levy
+|- 
+! scope="row"| "Forever Loving You"
+| 
+|- 
+| 2002
+! scope="row"| "Pussycat"
+| 
+|-
+| 2009
+! scope="row"| "If Houston Doesn't Want You"
+| Alex Colthart
+|}
+
+==Awards==
+[[Canadian Country Music Association|Canadian Country Music Awards]]
+*Wrangler Rising Star Award (1997)
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://www.julianaustin.com}}
+*[http://www.canadianbands.com/Julian%20Austin.html CanadianBands.com entry]
+* {{Discogs artist|Julian Austin}}
+* {{IMDb name|id=|11368819}}
+
+{{Julian Austin (musician)}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Austin, Julian}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:People from Sussex, New Brunswick]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singers]]
+[[Category:Singers from New Brunswick]]
+[[Category:Canadian Country Music Association Rising Star Award winners]]
+[[Category:Canadian male singer-songwriters]]

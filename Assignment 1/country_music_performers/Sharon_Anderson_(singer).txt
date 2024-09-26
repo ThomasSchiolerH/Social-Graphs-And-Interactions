@@ -1,0 +1,206 @@
+{{Short description|Canadian country music singer|bot=PearBOT 5}}
+{{Use mdy dates|date=April 2023}}
+{{Infobox musical artist
+|name = Sharon Anderson
+|image = Sharon Anderson.jpg
+|background = solo_singer
+| alias               = 
+| birth_date          = 
+| birth_place         = 
+| origin              = [[Edmonton]], Alberta, Canada
+| death_date          =
+| death_place         = 
+|instrument = Vocals, guitar
+|genre =  [[country music|Country]], [[folk music|folk]]
+|occupation = singer/songwriter
+|years_active         = 1988{{dash}}present
+|label = [[Curb Records|Curb]], [[Capitol Records|Capitol]], [[Liberty Records|Liberty]], [[Royalty Records|Royalty]]
+|associated_acts = Trinity Lane<br />[[Lisa Brokop]]
+| website             = {{URL|sharonlenoreanderson.com}}
+}}
+
+'''Sharon Lenore Anderson'''<ref name="cmrra.ca"/> is a Canadian [[country music]] singer.  During the late 1980s Anderson was a member of country group Trinity Lane, who charted three singles on ''Billboard'' [[Hot Country Songs|Hot Country Singles]] chart in 1988.<ref>{{harvtxt|Whitburn|2008|p=427}}</ref> In 1991, she signed to [[Capitol Records|Capitol Nashville]] and released her solo debut album, ''The Bottom Line'', the same year. The album produced two singles that charted on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada. Another album, ''Bringing It Home'', was released on [[Royalty Records]] in 1995.
+
+As a songwriter Anderson co-wrote fellow Canadian country singer [[Lisa Brokop]]'s 1994 Top 20 single "[[Give Me a Ring Sometime (song)|Give Me a Ring Sometime]]".<ref name="cmrra.ca"/><ref name="allmusic.com"/> Anderson recorded her own version, as "Gimme a Ring Sometime", on her 1995 album.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''The Bottom Line''
+| 
+* Release date: June 4, 1991
+* Label: [[Capitol Records|Capitol Nashville]]
+|-
+! scope="row"| ''Bringing It Home''
+| 
+* Release date: January 1, 1995
+* Label: [[Royalty Records]]
+|-
+! scope="row"| ''Life and Times''
+| 
+* Release date: April 2011
+* Label: RDR Music
+
+|-
+! scope="row"| ''Enchanted Trails''
+| 
+* Release date: 2016
+* Available to listen or purchase: CDbaby and YouTube
+
+|-
+! scope="row"| ''Trinity Lane''
+| 
+* Release date: 2016
+* Available to listen or purchase: Cdbaby and YouTube
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[RPM (magazine)|CAN Country]]
+! width="45"| [[Hot Country Songs|US Country]]
+|-
+| rowspan=3| 1988
+! scope="row"| "For a Song"
+| —
+| 75
+| align="left" rowspan=3| Non-album song<br /><small>(with Trinity Lane)</small>
+|-
+! scope="row"| "Someday, Somenight"
+| —
+| 70
+|-
+! scope="row"| "Ready to Take That Ride"
+| —
+| 90
+|-
+| rowspan=3|1991
+! scope="row"| "Unbelievable Love"
+| 52
+| —
+| align="left" rowspan=4| ''The Bottom Line''
+|-
+! scope="row"| "Go for Broke"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1991/BB-1991-07-20.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=July 20, 1991}}</ref>
+| —
+| —
+|-
+! scope="row"| "Pony"
+| —
+| —
+|-
+| 1992
+! scope="row"| "The Wheel of Love"
+| 84
+| —
+|-
+| 1995
+! scope="row"| "I Take It Back"
+| 47
+| —
+| align="left" rowspan=2| ''Bringing It Home''
+|-
+| 1996
+! scope="row"| "Too Cool"
+| 57
+| —
+|-
+| rowspan=3|2011
+! scope="row"| "Springtime Johnny"
+| —
+| —
+| align="left" rowspan=3| ''Life and Times''
+|-
+! scope="row"| "Long Gone Free"
+| —
+| —
+|-
+! scope="row"| "I Got Love"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==See also==
+{{Portal|Music|Canada}}
+*[[Music of Canada]]
+*[[List of Canadian musicians]]
+
+==References== <!-- use dmy format for references (footnotes & citations) -->
+;Citations
+{{Reflist
+| colwidth = 
+| refs     =
+
+<ref name="allmusic.com">
+{{cite web
+| url         = http://www.allmusic.com/artist/p1505/songs/songs-composed-by
+| title       = Sharon Anderson > Songs > Songs Composed By
+|publisher=AllMusic
+| access-date  = January 17, 2012
+}}
+</ref>
+
+<!--(unused ref)<ref name="avtrust.ca_RPM(The Wheel of Love)">
+{{cite web
+| url         = http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.2094&type=1&interval=50&PHPSESSID=e72vkqu8nf6jmiejpnkust54t2.pdf
+| title       = Country Singles – Volume 55, No. 15, April 11, 1992
+| author      = RPM (magazine)
+| author-link      = RPM (magazine)
+| date        = April 11, 1992
+| work        = {{URL|www.collectionscanada.gc.ca/rpm/028020-100.01-e.php|collectionscanada.gc.ca/rpm}}
+| publisher   = ([[Ottawa]]:  [[Library and Archives Canada]])
+| oclc        = 352936026
+| access-date  = January 17, 2012
+}}
+</ref>-->
+
+<ref name="cmrra.ca">
+{{cite web
+| url         = https://www.cmrra.ca/song%20lookup/song.nsf/cbb705d4b1b1516b852566ab006720c9/d722080bcbe5b263852579470047e60e?OpenDocument
+| title       = Song Title: GIVE ME A RING SOMETIME > Song Details (Song Number: 413114)
+| work        = cmrra.ca
+| publisher   = [[Canadian Musical Reproduction Rights Agency]]
+| access-date  = January 17, 2012
+}}
+</ref>
+
+}}
+
+;Bibliography
+{{refbegin}}
+*{{cite book
+|last           = Whitburn
+|first          = Joel
+|author-link     = Joel Whitburn
+|title          = Joel Whitburn Presents Hot Country Songs: Billboard 1944 to 2008
+|year           = 2008
+|publisher      = Record Research
+|location       = [[Menomonee Falls]] 
+|isbn           = 978-0-89820-177-2
+|oclc           = 309145635
+}}
+{{refend}}
+
+==External links==
+*[http://www.sharonlenoreanderson.com/ Sharon Anderson] website
+* [http://www.sharonandersonmusic.com/ Sharon Anderson] Official website
+{{Authority control}}
+
+{{DEFAULTSORT:Anderson, Sharon Lenore}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Canadian women country singers]]
+[[Category:Musicians from Edmonton]]
+[[Category:Capitol Records artists]]
+[[Category:Singers from Alberta]]

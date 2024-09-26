@@ -1,0 +1,139 @@
+{{short description|American singer-songwriter}}
+
+{{BLP sources|date=November 2008}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Brian Collins
+| image                 = Brian Collins (cropped).jpg
+| caption            = 
+| image_size            = 
+| landscape           = 
+| birth_name          = 
+| alias               = 
+| birth_date          = {{birth date and age|1950|10|19}}
+| origin              = [[Baltimore, Maryland]], United States
+| instrument          = [[Singing|Vocals]]
+| occupation          = Singer
+| years_active        = 1971–1983
+| label               = [[Mega Records|Mega]], [[ABC Records|ABC]]/[[Dot Records|Dot]], [[RCA Records|RCA]], Primero 
+| associated_acts     = [[Jack Greene]]
+| URL                 = 
+}}
+'''Brian Collins''' (born October 19, 1950 in [[Baltimore, Maryland]]<ref>{{cite book |title=The Billboard Book of Top 40 Country Hits |last=Whitburn |first=Joel |authorlink=Joel Whitburn |pages=85}}</ref>) is an American [[country music]] artist. Between 1973 and 1974, he recorded two albums for [[Dot Records]]. In that same time span, he charted three Top 40 singles on the ''[[Billboard (magazine)|Billboard]]'' country charts. His highest-charting single was a #10 cover of [[Jack Greene]]'s "Statue of a Fool."
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+|-
+!Year
+!Album
+!width="45"|<small>[[Top Country Albums|US Country]]</small>
+|- 
+|1973
+|''This Is Brian Collins''
+|align="center"|34
+|-
+|1974
+|''That's the Way Love Should Be''
+|align="center"|—
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="2"|Chart Positions
+!rowspan="2"|Album
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small>
+!width="50"|<small>CAN Country</small>
+|- 
+|1971
+|"All I Want to Do Is Say I Love You"
+|align="center"|67
+|align="center"|—
+|rowspan="3"|singles only
+|-
+|rowspan=2|1972
+|"[[There's a Kind of Hush|There's a Kind of Hush (All Over the World)]]"
+|align="center"|47
+|align="center"|—
+|-
+|"Spread It Around"
+|align="center"|61
+|align="center"|—
+|-
+|1973
+|"I Wish (You Had Stayed)"
+|align="center"|24
+|align="center"|16
+|rowspan="3"|''This Is Brian Collins''
+|-
+|rowspan=3|1974
+|"I Don't Plan on Losing You"
+|align="center"|43
+|align="center"|31
+|-
+|"[[Statue of a Fool]]"
+|align="center"|10
+|align="center"|6
+|-
+|"That's the Way Love Should Be"
+|align="center"|23
+|align="center"|—
+|rowspan="2"|''That's the Way Love Should Be''
+|-
+|rowspan=2|1975
+|"I'd Still Be in Love with You"
+|align="center"|84
+|align="center"|—
+|-
+|"Queen of Temptation"
+|align="center"|83
+|align="center"|—
+|rowspan="7"|singles only
+|-
+|1976
+|"To Show You That I Love You"
+|align="center"|65
+|align="center"|—
+|-
+|1977
+|"[[If You Love Me (Let Me Know)]]"
+|align="center"|83
+|align="center"|—
+|-
+|1978
+|"[[Old Flames Can't Hold a Candle to You|Old Flames (Can't Hold a Candle to You)]]"
+|align="center"|86
+|align="center"|—
+|-
+|1979
+|"Hello Texas"
+|align="center"|94
+|align="center"|—
+|-
+|1982
+|"Before I Got to Know Her"
+|align="center"|80
+|align="center"|—
+|-
+|1983
+|"Nickel's Worth of Heaven"
+|align="center"|80
+|align="center"|—
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Collins, Brian}}
+[[Category:1950 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from Baltimore]]
+[[Category:Singer-songwriters from Maryland]]
+[[Category:Country musicians from Maryland]]

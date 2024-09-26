@@ -1,0 +1,102 @@
+{{Short description|Russian country music band}}
+{{Refimprove|date=April 2020}}
+{{Infobox musical artist
+| name            = Bering Strait
+| image           =
+| alias           = Siberian Heatwave
+| origin          = [[Obninsk]], Russia
+| genre           = [[Country music|Country]]
+| years_active    = 1995–2006
+| label           = [[Universal South Records|Universal South]]
+| associated_acts =
+| website         =
+| past_members    = {{hlist|Andrei Misikhin|Alexander Arzamastsev|Natasha Borzilova|Sergey "Spooky" Olkhovsky|Sergei Passov|Lydia Salnikova|Sasha Ostrovsky|Ilya Toshinsky}}
+}}
+
+'''Bering Strait''' was a Russian [[country music]] band, whose style was sometimes called "redgrass". In 2003, the band was nominated for a Grammy Award and appeared on the TV show ''[[60 Minutes]]''. The group disbanded in 2006. The lineup on their first album was Alexander Arzamastsev (drums), Natasha Borzilova (lead vocals),  Sergey "Spooky" Olkhovsky (bass guitar), Sergei Passov (mandolin, fiddle), Lydia Salnikova (keyboards, background vocals), Sasha Ostrovsky (steel guitar, Dobro) and Ilya Toshinsky (electric guitar, banjo).<ref>{{Cite AV media notes |title=Bering Strait |others=Bering Strait |year=2003 |type=CD booklet |publisher=Universal South Records |id=088 170 218-2}}</ref>
+
+==History==
+Bering Strait was the band's third name, beginning with Cheerful Diligence. In 1996, they recorded in the US under the name Siberian Heatwave and were guests on ''Prime Time Country'' on the Nashville Network. The band dissolved in late May 2006, but the  announcement was not made until June 1, 2006. At the time of its dissolution, the band comprised five musicians: Alexander Arzamastsev (drums), Natasha Borzilova (lead vocals, acoustic guitar), Sergei "Spooky" Olkhovsky (bass), Alexander "Sasha" Ostrovsky (dobro, steel guitar, lap steel), and Lydia Salnikova (lead vocals, keyboards).
+
+Ilya Toshinsky played electric guitar, acoustic guitar, and banjo on the band's first album but left the band after recording the second album. Other former Bering Strait musicians included Sergei Passov (mandolin and fiddle), and Andrei Misikhin (bass).<ref>{{cite web|url=http://www.thecommonspace.org/2002/11/sliff.html |title=> 2002 SLIFF Reviews |website=Thecommonspace.org |access-date=2020-04-24}}</ref> Chris Pandolfi, of the bluegrass band the [[Infamous Stringdusters]], played banjo on their tours. Natasha Borzilova is the daughter of a nuclear scientist who died from the results of the [[Chernobyl disaster]].
+
+Bering Strait's [[Bering Strait (album)|self-titled debut album]] was released in 2003 on Universal South Records, now known as [[Show Dog-Universal Music]]. The song "Bearing Straight" was nominated for a Grammy Award for [[Grammy Award for Best Country Instrumental Performance|Best Country Instrumental]].<ref>{{cite magazine | url=https://books.google.com/books?id=aQ4EAAAAMBAJ&dq=%22bering+strait%22+%22bearing+straight%22&pg=PA86 | title=Complete nominations for 45th Annual Grammy Awards | magazine=Billboard | pages=86 | date=January 18, 2003}}</ref> Universal South released the instrumental track as a radio single in order to qualify it for the Grammy Awards.<ref>{{cite news | url=https://www.newspapers.com/image/113598955 | title=Bering Strait weathers the storm for a chance at country stardom | work=The Tennessean | date=January 18, 2003 | accessdate=March 17, 2022 | author=Craig Havighurst | pages=1D, 2D}}</ref>
+
+A documentary, ''The Ballad of Bering Strait'', chronicled the band's career over two and a half years and was released to theaters and broadcast on [[Country Music Television]]. The second album, ''[[Pages (Bering Strait album)|Pages]]'' was released in 2005 and featured a more rootsy, less polished sound. The first single from the album was a cover version of "[[You Make Loving Fun]]" by [[Fleetwood Mac]].
+
+After their second album, Bering Strait disbanded. Toshinsky became a [[session musician]], playing guitar and banjo for various artists. He also released one solo album, ''Red Grass'', in 2016.<ref>{{Cite web|url=https://www.countrystandardtime.com/d/cdreview.asp?xid=6170|title = Ilya Tolshinskiy - Red Grass}}</ref>
+
+== Discography ==
+=== Albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Top Country Albums|US Country]]
+! style="width:45px;"| [[Billboard 200|US]]
+|-
+! scope="row"| ''[[Bering Strait (album)|Bering Strait]]''
+| 
+* Release date: January 14, 2003
+* Label: [[Universal South Records|Universal South]]
+| 17
+| 98
+|-
+! scope="row"| ''[[Pages (Bering Strait album)|Pages]]''
+| 
+* Release date: June 28, 2005
+* Label: Universal South
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Single
+! Album
+|- 
+| 2001
+! scope="row"| "[[Jagged Edge of a Broken Heart]]"
+| rowspan="2"| ''Bering Strait''
+|-
+| 2002
+! scope="row"| "Bearing Straight"
+|-
+| 2005
+! scope="row"| "You Make Lovin' Fun"
+| ''Pages''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2001
+! scope="row"| "Jagged Edge of a Broken Heart"<ref>{{cite web|url=http://www.cmt.com/videos/bering-strait/387567/jagged-edge-of-a-broken-heart.jhtml|archive-url=https://web.archive.org/web/20121024093553/http://www.cmt.com/videos/bering-strait/387567/jagged-edge-of-a-broken-heart.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Bering Strait : Jagged Edge of a Broken Heart|publisher=[[Country Music Television]]|access-date=September 19, 2011}}</ref>
+| [[Deaton-Flanigen Productions]]
+|-
+| 2003
+! scope="row"| "Bearing Straight"<ref>{{cite web|url=http://www.cmt.com/videos/bering-strait/26249/bearing-straight.jhtml|archive-url=https://web.archive.org/web/20121024093619/http://www.cmt.com/videos/bering-strait/26249/bearing-straight.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Bering Strait : Bearing Straight|publisher=[[Country Music Television]]|access-date=September 19, 2011}}</ref>
+| Stephen Shepherd
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20080320095521/http://www.woodsongs.com/showlist.asp Audio/Video] - All six members are the only guest in program 254 of the [[WoodSongs Old-Time Radio Hour]]
+
+{{Authority control}}
+[[Category:Russian country music groups]]
+[[Category:Show Dog-Universal Music artists]]
+[[Category:Musical groups established in 1996]]
+[[Category:Musical groups disestablished in 2006]]

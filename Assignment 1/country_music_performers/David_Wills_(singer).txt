@@ -1,0 +1,194 @@
+{{short description|American country music singer-songwriter (born 1951)}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = David Wills
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = David Steinfath
+| alias           =
+| birth_date      = {{birth date and age|1951|10|23}}
+| origin          = [[Pulaski, Tennessee]]
+| death_date      =
+| instrument      = Guitar
+| genre           = [[Country music|Country]], [[Christian music]]
+| occupation      = Singer-songwriter
+| years_active    = 1975–present
+| label           = [[Epic Records|Epic]], [[United Artists]], [[RCA Records|RCA]], Tugalo
+| associated_acts = Charlie Rich, Deborah Ann Smith, Jordan Wills
+| website         = 
+}}
+
+'''David Wills''' (born October 23, 1951, in [[Pulaski, Tennessee]]<ref>[{{AllMusic|class=artist|id=p138728|pure_url=yes}} David Wills Biography]</ref>) is an American [[country music]] singer-songwriter. Wills released three studio albums and charted more than twenty singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart between 1975 and 1988. Two of his songs, "There's a Song on the Jukebox" and "From Barrooms to Bedrooms," reached the Top 10 in 1975. Wills was a BMI songwriter for Pride Music Group, along with Blake Mevis and Bob Moulds. David was married to Deborah Ann Smith (from Dallas, TX) who owned Alcorn Music, Inc. publishing company.
+
+As a songwriter, Wills wrote [[George Strait]]'s "[[If You're Thinking You Want a Stranger (There's One Coming Home)]]" and [[Garth Brooks]]' "[[Wild Horses (Garth Brooks song)|Wild Horses]]."<ref>[{{AllMusic|class=artist|id=p138728/songs/songs-composed-by|pure_url=yes}} Songs Composed by David Wills]</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| rowspan="2"| 1975
+| ''Barrooms to Bedrooms''
+| align="center"| 13
+| rowspan="2"| Epic
+|-
+| ''Everybody's Country''
+| align="center"| 31
+|-
+| 1984
+| ''New Beginnings''
+| align="center"| 62
+| RCA
+|-
+| 2022
+| ''The Singer the Songwriter''
+| align="center"| -
+| rowspan=2| Tugalo
+|-
+| 2023
+| ''Just for the Record''
+| align="center"| -
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="4"| 1975
+| "There's a Song on the Jukebox"
+| align="center"| 10
+| align="center"| 5
+| rowspan="3"| ''Barrooms to Bedrooms''
+|-
+| "From Barrooms to Bedrooms"
+| align="center"| 10
+| align="center"| 7
+|-
+| "The Barmaid"
+| align="center"| 31
+| align="center"| —
+|-
+| "She Deserves My Very Best"
+| align="center"| 35
+| align="center"| 48
+| rowspan="2"| ''Everybody's Country''
+|-
+| rowspan="3"| 1976
+| "Queen of the Starlight Room"
+| align="center"| 47
+| align="center"| —
+|-
+| "Woman"
+| align="center"| 55
+| align="center"| 32
+| rowspan="10"| singles only
+|-
+| "(I'm Just Pouring Out) What She Bottled Up in Me"
+| align="center"| 66
+| align="center"| —
+|-
+| rowspan="3"| 1977
+| "The Best Part of My Days (Are My Nights with You)"
+| align="center"| 52
+| align="center"| —
+|-
+| "Cheatin' Turns Her On"
+| align="center"| 91
+| align="center"| —
+|-
+| "[[Do You Wanna Make Love]]"
+| align="center"| 82
+| align="center"| —
+|-
+| 1978
+| "You Snap Your Fingers (And I'm Back in Your Hands)"
+| align="center"| 70
+| align="center"| —
+|-
+| rowspan="2"| 1979
+| "I'm Being Good"
+| align="center"| 50
+| align="center"| —
+|-
+| "Endless"
+| align="center"| 82
+| align="center"| —
+|-
+| rowspan="2"| 1980
+| "She's Hangin' in There (I'm Hangin' Out)"
+| align="center"| 91
+| align="center"| —
+|-
+| "The Light of My Life (Has Gone Out Again Tonight)"
+| align="center"| 65
+| align="center"| —
+|-
+| rowspan="2"| 1983
+| "Those Nights, These Days"
+| align="center"| 52
+| align="center"| —
+| rowspan="4"| ''New Beginnings''
+|-
+| "The Eyes of a Stranger"
+| align="center"| 19
+| align="center"| —
+|-
+| rowspan="3"| 1984
+| "Miss Understanding"
+| align="center"| 26
+| align="center"| 44
+|-
+| "Lady in Waiting"
+| align="center"| 31
+| align="center"| —
+|-
+| "Macon Love"
+| align="center"| 69
+| align="center"| —
+| rowspan="2"| singles only
+|-
+| 1988
+| "Paper Thin Walls"
+| align="center"| 85
+| align="center"| —
+|-
+| 2022 
+| "Poor Boys"
+| align="center"| -
+| align="center"| —
+| ''The Singer the Songwriter''
+|-
+| 2023
+| "Before You're Through Hurting Me"
+| align="center"| -
+| align="center"| —
+| single only 
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p138728|pure_url=yes}} David Wills] at ''[[Allmusic]]''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wills, David}}
+[[Category:1951 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Pulaski, Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Country musicians from Tennessee]]

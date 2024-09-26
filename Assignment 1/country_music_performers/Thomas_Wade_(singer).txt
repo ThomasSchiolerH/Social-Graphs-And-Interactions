@@ -1,0 +1,175 @@
+{{BLP sources|date=October 2021}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name                = Thomas Wade
+| background          = solo_singer
+| image               = Thomas Wade Head shot.png
+| image_size            = 
+| birth_name          = 
+| alias               = 
+| birth_date                = {{Birth date and age|1961|05|09}}
+| origin              = [[Burford, Ontario]], Canada <ref name="opry">{{Cite web |url=http://www.oprynorth.com/indieartistprofiles/Iindie%20july%202001.htm |title=New Page 2 |access-date=October 15, 2008 |archive-date=May 9, 2008 |archive-url=https://web.archive.org/web/20080509104440/http://www.oprynorth.com/indieartistprofiles/Iindie%20july%202001.htm |url-status=dead }}</ref>
+| genre               = [[Country music|Country]], [[blues]]
+| occupation          = Singer-songwriter
+| instrument          = Vocals, guitar
+| years_active        = 1996–present
+| label               = Peg Music<br />Shoreline Records<br />Spin Records
+| associated_acts     = 
+| website                 = http://www.thomaswade.ca
+}}
+
+'''Thomas Wade''' (born May 9, 1961) is a Canadian [[country music|country]] artist. He was the lead singer of the group '''Thomas Wade & Wayward''', who released their eponymous debut album in 1996.<ref name="xentel">{{Cite web |url=http://www.xentel.com/xentel/events/wright.htm |title=Archived copy |access-date=October 15, 2008 |archive-date=June 1, 2016 |archive-url=https://web.archive.org/web/20160601190314/http://www.xentel.com/xentel/events/wright.htm |url-status=dead }}</ref> The album produced seven singles on the Canadian country music chart, including the top 10s "Zero to Sixty" and "She's Getting Serious". Between 1997 and 1999, Thomas Wade & Wayward received seven CCMA awards, winning best group or duo three times, and both independent single and song awards for '97 and '98. The group was also nominated for three [[Juno Award]]s for [[Juno Award for Country Recording of the Year|Best Country Group or Duo]] in 1997, 1998 and 1999. Between 1996 and 2001, Wade placed twelve videos in the top twenty on [[CMT (Canadian TV channel)|CMT]], including the number one "Lying Here with You'".
+
+Wade launched a solo career in 2000 when he signed to Shoreline Records and released his debut album, ''Lucky 13''. Five singles were released from the album, including the top 10 "Running Away with You". Following the release of a career retrospective in 2001, ''So Far'', Wade was diagnosed with [[oromandibular dystonia]].<ref name="cmn">{{Cite web |url=http://www.countrymusicnews.ca/news.ihtml?step=2&article_id=1168 |title=Archived copy |access-date=October 15, 2008 |archive-date=April 30, 2020 |archive-url=https://web.archive.org/web/20200430043546/http://www.countrymusicnews.ca/news.ihtml?step=2&article_id=1168 |url-status=dead }}</ref> While he was forced to end his recording career, he has continued his career as a songwriter. [[Celine Dion]] included one of Wade's songs, "Come to Me", on her 2004 album ''[[Miracle (Celine Dion album)|Miracle]]''.<ref name="cmn" /> Due to cutting-edge work in [[neuroplasticity]], Wade began to heal early in 2010 and as of May 2015 went into the studio to record a new album called ''Blue Country Soul'' at Phase One Studios in [[Toronto|Toronto, Ontario]]. Largely co-written with Canadian songwriter Tim Taylor, this record is a return to Wade's musical roots, the music of the fifties, [[classic country]] and [[blues]] as well as a musical reunion with bassist John Dymond, keyboardist Steve O'Connor and drummer Gary Craig. As of 2016, Wade has been touring again as a headlining act. A book and a documentary is in production about his career and battle with dystonia.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders"
+! style="width:14em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Thomas Wade & Wayward''
+| 
+* Release date: 1996
+* Label: Peg Music
+|-
+! scope="row"| ''Lucky 13''
+| 
+* Release date: 2000
+* Label: AME/Shoreline Records
+|-
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders"
+! style="width:14em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''So Far''
+| 
+* Release date: 2002
+* Label: Spin Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| 1991
+! scope="row"| "Breakin' in a Broken Heart"
+| 78
+| align="left"| Single only
+|-
+| rowspan="2"| 1996
+! scope="row"| "Sittin' Pretty"
+| 14
+| align="left" rowspan="7"| ''Thomas Wade & Wayward''
+|-
+! scope="row"| "[[Zero to Sixty (song)|Zero to Sixty]]"
+| 8
+|-
+| rowspan="3"| 1997
+! scope="row"| "Lying Here with You"
+| 19
+|-
+! scope="row"| "[[She's Getting Serious]]"
+| 6
+|-
+! scope="row"| "[[There's a Song in There Somewhere]]"
+| 12
+|-
+| rowspan="2"| 1998
+! scope="row"| "[[I Read Lips]]"
+| 12
+|-
+! scope="row"| "For Better or Worse"
+| 39
+|-
+| rowspan="2"| 1999
+! scope="row"| "[[Running Away with You]]"
+| 9
+| align="left" rowspan="5"| ''Lucky 13''
+|-
+! scope="row"| "If You Ain't Got It"
+| 25
+|-
+| 2000
+! scope="row"| "Some Guys"
+| 25
+|-
+| rowspan="2"| 2001
+! scope="row"| "Wild, Wild, Wild Ride"
+| *
+|-
+! scope="row"| "The Loser Wins Again"
+| *
+|-
+| 2002
+! scope="row"| "I'd Say It Again"
+| *
+| align="left" rowspan="2"| ''So Far''
+|-
+| 2003
+! scope="row"| "Angel's Wings"
+| *
+|-
+| colspan="4" style="font-size:8pt"| * denotes unknown peak positions
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+|-
+| rowspan="2"| 1996
+! scope="row"| "Sittin' Pretty"
+|-
+! scope="row"| "Zero to Sixty"
+|-
+| rowspan="2"| 1997
+! scope="row"| "Lying Here with You"
+|-
+! scope="row"| "She's Getting Serious"
+|-
+| rowspan="2"| 1998
+! scope="row"| "I Read Lips"
+|-
+! scope="row"| "For Better or Worse"
+|-
+| rowspan="2"| 1999
+! scope="row"| "Running Away with You"
+|-
+! scope="row"| "If You Ain't Got It"
+|-
+| 2000
+! scope="row"| "Some Guys"
+|-
+| rowspan="2"| 2001
+! scope="row"| "Wild, Wild, Wild Ride"
+|-
+! scope="row"| "The Loser Wins Again"
+|-
+| 2002
+! scope="row"| "I'd Say It Again"
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wade, Thomas}}
+[[Category:1961 births]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Canadian blues singers]]
+[[Category:Singers from Ontario]]
+[[Category:Musicians with dystonia]]

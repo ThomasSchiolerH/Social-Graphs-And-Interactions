@@ -1,0 +1,127 @@
+{{Short description|Canadian country singer-songwriter (1933–2015)}}
+{{About|the Canadian country singer|'Hal Willis, student at law' the 19th century English writer|Charles Robert Forrester}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox person
+| birth_name = Léonald Francis Gauthier 
+| alias = 
+| birth_date = {{Birth date|1933|07|15}} 
+| death_date = {{Death date and age|2015|9|4|1933|07|15}} 
+| birth_place = [[Rouyn-Noranda|Rouyn-Noranda, Quebec]], Canada
+| death_place=[[Nashville, Tennessee]], U.S.
+| spouse=Ginger Willis
+|module=
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+|embed=yes
+| name = Hal Willis 
+| image = 
+| caption = 
+| image_size = <!-- Only for images smaller than 220 pixels --> 
+| background = solo_singer 
+| instruments = Guitar 
+| genre = [[Country music|Country]], [[rockabilly]] 
+| occupation = Singer-songwriter
+| years_active = 1950s–2015
+| label = [[Sims Records]]<br>[[Decca Records]]<br>[[Atlantic Records]]<br>[[Mercury Records]]<br>[[Arc international Records]]<br>[[Bonanza Records]]
+| associated_acts = 
+| website         =
+| current_members = 
+| past_members = 
+}}
+}}
+'''Hal Willis''' (born '''Léonald Francis Gauthier'''; July 15, 1933 – September 4, 2015) was a Canadian country singer who lived in [[Nashville, Tennessee]], USA. He was born in [[Rouyn-Noranda|Rouyn-Noranda, Quebec]] the youngest son of Alfred and Evelina Gauthier.<ref>{{cite web |url=http://www.musicrow.com/2015/09/lifenotes-canadian-country-star-hal-willis-passes/ |title=LifeNotes: Canadian Country Star Hal Willis Passes |work=MusicRow – Nashville's Music Industry Publication – News, Songs From Music City|date=September 9, 2015 }}</ref>
+
+==Career==
+His famous country single was "[[The Lumberjack (Hal Willis song)|The Lumberjack]]," an international hit that sold over 1.5&nbsp;million copies. In 1965, it peaked at number 5 on the ''[[Billboard (magazine)|Billboard]]'' country charts in the USA. This success was such a phenomenon that he was nicknamed "Mr. Lumberjack."
+
+His popularity started rising in 1956 when he and his wife, Ginger Willis, were hired by [[Colonel Tom Parker]] to tour with the music phenomenon of the hour, [[Elvis Presley]]. At this time, Hal and Ginger were also [[rock and roll]] singers recording songs like "My Pink Cadillac" and "Bop a Dee Bop a Doo." Hal and Ginger, along with [[Hank Snow]], were the only Canadian performers to tour with [[Elvis Presley]]. He also performed and toured through his career with many American [[Country Music Hall of Fame and Museum|Country Music Hall of Fame]] singers such as [[Patsy Cline]], [[Webb Pierce]], [[Loretta Lynn]], [[Dolly Parton]], [[Porter Wagoner]], [[Johnny Cash]] and [[Willie Nelson]].
+
+Hal and Ginger Willis were inducted into the [[Canadian Country Music Hall of Fame]] in 2010.<ref name="ccma">{{cite web |url=http://www.ccma.org/halloffame/hofprofile.cfm?AwardID=809 |title=Hal & Ginger Willis biography |work=[[Canadian Country Music Association]] |access-date=November 1, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110929074708/http://www.ccma.org/halloffame/hofprofile.cfm?AwardID=809 |archive-date=September 29, 2011 }}</ref>
+
+On May 27, 2012, Hal Willis was also inducted to the Quebec Museum of Rock & Roll through a ceremony held in Rouyn-Noranda, Quebec, Canada at the international ''Festival des guitares du monde de l'Abitibi-Témiscamingue''.
+
+In March 2013, at the age of 79 years, Hal Willis released a new single "Working in the Goldmine".
+
+==Death==
+Willis died in [[Nashville, Tennessee]] on September 4, 2015.<ref>{{cite magazine |last1=Oermann |first1=Robert K. |title=LifeNotes: Canadian Country Star Hal Willis Passes |url=https://musicrow.com/2015/09/lifenotes-canadian-country-star-hal-willis-passes/ |magazine=MusicRow |accessdate=September 13, 2018 |date=September 9, 2015}}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+| 1966
+| ''Mr. Lumberjack''
+| rowspan="2"| Arc
+|-
+| 1967
+| ''Mr. Lumberjack: Volume 2''
+|-
+| 1972
+| ''Hal Willis''
+| Bonanza
+|-
+| 1999
+| ''Santa's Clones''
+| rowspan="4"| Pearl
+|-
+| 2000
+| ''Coast to Coast''
+|-
+| rowspan="2"| 2006
+| ''A Cut Above''
+|-
+| ''Better 'N Ever''
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="3"| Chart Positions
+|-
+! style="width:45px;"| <small>CAN Country</small>
+! style="width:45px;"| <small>[[Hot Country Songs|US Country]]</small>
+! style="width:45px;"| <small>[[Billboard Hot 100|US]]</small>
+|-
+| 1964
+| "[[The Lumberjack (Hal Willis song)|The Lumberjack]]"
+| style="text-align:center;"| 1
+| style="text-align:center;"| 5
+| style="text-align:center;"| 120
+|-
+| rowspan=2|1965
+| "Nopper the Topper"
+| style="text-align:center;"| 7
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Klondike Mike"
+| style="text-align:center;"| 1
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1966
+| "Doggin' in the US Mail"
+| style="text-align:center;"| —
+| style="text-align:center;"| 45
+| style="text-align:center;"| —
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://repertoire.bmi.com/writer.asp?blnWriter=True&blnPublisher=True&blnArtist=True&page=1&fromrow=1&torow=25&querytype=WriterID&cae=33007923&affiliation=BMI&keyid=372151&keyname=WILLIS%20HAL Hal Willis' songs with BMI Music]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Willis, Hal}}
+[[Category:1933 births]]
+[[Category:2015 deaths]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:People from Rouyn-Noranda]]

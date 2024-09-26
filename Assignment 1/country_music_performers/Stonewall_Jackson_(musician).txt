@@ -1,0 +1,5 @@
+#REDIRECT [[Stonewall Jackson (singer)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

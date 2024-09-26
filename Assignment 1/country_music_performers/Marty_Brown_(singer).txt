@@ -1,0 +1,235 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Marty Brown
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = Dennis Martin Brown<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=65|isbn=978-0-89820-177-2}}</ref>
+| birth_date                = {{Birth date and age|1965|07|25}}
+| origin              = [[Maceo, Kentucky]], United States
+| instrument          = Vocals<br />rhythm guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1991–1996, 2013–present
+| label               = [[MCA Records|MCA]]<br />[[HighTone Records|HighTone]]<br />Plowboy Records
+| associated_acts     = 
+| website                 = http://www.martybrownmusic.com
+}}
+'''Dennis Marty Brown''' (born July 25, 1965) is an American [[country music]] artist. Active between 1991 and 1996, he has released six studio albums and has charted one single on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts. Marty Brown and his wife, Shellie, currently reside in Simpson County, Franklin, Kentucky, since July 2004.
+
+==Career==
+Brown's first recording contract was with [[MCA Records]] in 1991. While on that label, he recorded three studio albums: 1991's ''High and Dry'', 1993's ''Wild Kentucky Skies'', and 1994's ''Cryin', Lovin', Leavin'''. Although all three of these albums received critical acclaim for his [[neotraditionalist country]] style and solid songwriting,<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p1536/biography|pure_url=yes}} |title=Marty Brown biography |access-date=March 14, 2008 |last=Huey |first=Steve |work=[[Allmusic]]}}</ref><ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Marty-Brown.html |title=Marty Brown biography |access-date=March 14, 2008 |work=Oldies.com}}</ref> none of them produced any major hits.<ref name="allmusic"/> His fourth studio album, ''Here's to the Honky Tonks'', was released in 1996 on [[HighTone Records]].  He also co-wrote [[Tracy Byrd]]'s "[[I'm from the Country (song)|I'm from the Country]]", [[Perfect Stranger (band)|Perfect Stranger]]'s "The Hits", [[Trace Adkins]]' "When I Stop Loving You", [[Brooks & Dunn]]' "It Ain't Me If It Ain't You", and [[William Michael Morgan]]' "I Pulled a Hank".
+
+Brown was a contestant on [[America's Got Talent (season 8)|season eight]] of ''[[America's Got Talent]]'' and advanced as far as the semi-final rounds.  After competing on ''America's Got Talent'', he signed a record deal with Independent Label, Dreamlined Entertainment. His new single, Make You Feel My Love, was available for download on February 5, 2016. Brown is currently signed to Plowboy Records in Nashville. Brown released his first studio album in 25 years, American Highway on May 17, 2019.  Marty Brown's music career is currently on display at the Kentucky Music Hall of Fame in Mt. Vernon, Kentucky.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]
+! width="60"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[High & Dry (Marty Brown album)|High & Dry]]''<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-09-07.pdf|title=Album Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=66|date=September 7, 1991}}</ref>
+| 
+* Release date: August 20, 1991
+* Label: [[MCA Records]]
+| 44
+| 17
+|-
+! scope="row"| ''[[Wild Kentucky Skies]]''
+| 
+* Release date: March 16, 1993
+* Label: MCA Records
+| —
+| —
+|-
+! scope="row"| ''Cryin', Lovin', Leavin'''
+| 
+* Release date: April 26, 1994
+* Label: MCA Records
+| —
+| —
+|-
+! scope="row"| ''Here's to the Honky Tonks''
+|
+* Release date: September 17, 1996
+* Label: [[HighTone Records]]
+| —
+| —
+|-
+! scope="row"| ''Country Strong''
+|
+* Release date: 2013
+* Label: self-released
+| &mdash;
+| &mdash;
+|-
+! scope="row"| ''[[American Highway]]''
+| 
+* Release date: May 17, 2019
+* Label: Plowboy Records
+| —
+| —
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1991
+! scope="row"| "Every Now and Then"<ref name="dry">{{cite magazine | url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-11-02.pdf | title=Guitar In Hand, Marty Brown Hits Wal-Mart Circuit | author=Debbie Halley | magazine=Billboard | pages=32A | date=June 1, 1991}}</ref>
+| —
+| —
+| align="left" rowspan="3"|''High & Dry''
+|- 
+! scope="row"| "High and Dry"<ref name="dry"/><ref>{{cite magazine|url=https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-08-17.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=69|date=August 17, 1991}}</ref>
+| —
+| —
+|-
+! scope="row"| "Wildest Dreams"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-11-16.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=81|date=November 16, 1991}}</ref>
+| —
+| —
+|-
+| rowspan="2"| 1993
+! scope="row"| "[[It Must Be the Rain]]"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1993/BB-1993-04-17.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=76|date=April 17, 1993}}</ref>
+| 74
+| 62
+| rowspan="2" align="left"| ''Wild Kentucky Skies''
+|-
+! scope="row"| "I Don't Want to See You Again"
+| &mdash;
+| &mdash;
+|- 
+| rowspan="2"| 1994
+! scope="row"| "Cryin', Lovin', Leavin'"
+| —
+| —
+| rowspan="2" align="left"| ''Cryin', Lovin', Leavin'''
+|- 
+! scope="row"| "You Must Be Mistakin' Me"
+| —
+| —
+|-
+| 1996
+! scope="row"| "You Can't Wrap Your Arms Around a Memory"
+| —
+| —
+| align="left"| ''Here's to the Honky Tonks''
+|-
+| 2013
+! scope="row"| "Whatever Makes You Smile"
+| —
+| —
+| align="left"| ''Country Strong''
+|-2015        I'm Gonna Make It Fly
+| 2016
+! scope="row"| "Make You Feel My Love"
+| &mdash;
+| &mdash;
+| align="left"| single only
+|-
+| 2019
+! scope="row"| "Umbrella Lovers"
+| &mdash;
+| —
+| align="left"| ''American Highway''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! Video
+! Director
+|-
+| rowspan="2"| 1991
+! scope="row"| "Every Now and Then"
+| rowspan="2"| [[John Lloyd Miller]]
+|-
+! scope="row"| "High and Dry"
+|-
+| 1992
+! scope="row"| "Wildest Dreams"
+| Marc Ball
+|-
+| 1993
+! scope="row"| "It Must Be the Rain"
+| rowspan="4"| [[John Lloyd Miller]]
+|-
+| rowspan="2"| 1994
+! scope="row"| "Cryin', Lovin', Leavin'"
+|-
+! scope="row"| "You Must Be Mistakin' Me"
+|-
+| 1996
+! scope="row"| "You Can't Wrap Your Arms Around a Memory"
+|-
+| 2012
+! scope="row"| "Put Your Love Right Here"
+|-
+| 2013
+! scope="row"| "Whatever Makes You Smile"
+|-
+| 2014
+! scope="row"| "God's Dance Floor"
+|-
+| 2015
+! scope="row"| "Gonna Make It Fly"
+|-
+| 2019
+! scope="row"| "Umbrella Lovers"
+|}
+
+==Chart Singles written by Marty Brown==
+
+The following is a list of Marty Brown compositions that were chart hits.
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single Title
+! rowspan="2"| Recording Artist
+! colspan="6"| Chart Positions
+|-
+! width="55"| <small>Billboard Country</small>
+! width="55"| <small>Billboard Hot 100</small>
+! width="55"| <small>RPM Country</small>
+|-
+| 1998
+| ''[[I'm from the Country (song)|I'm from the Country]]'' <br /> <small>''co-written with [[The Kentucky Headhunters|Richard Young]] and Stan Webb''</small>
+| [[Tracy Byrd]]
+| align="center"| 3
+| align="center"| 63
+| align="center"| 1
+|}
+
+==References==
+{{Reflist}}
+
+{{America's Got Talent}}
+{{Authority control}}
+
+{{DEFAULTSORT:Brown, Marty (singer)}}
+[[Category:1965 births]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Living people]]
+[[Category:MCA Records artists]]
+[[Category:America's Got Talent contestants]]
+[[Category:Singer-songwriters from Kentucky]]
+[[Category:People from Daviess County, Kentucky]]

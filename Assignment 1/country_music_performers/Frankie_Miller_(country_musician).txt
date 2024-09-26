@@ -1,0 +1,82 @@
+{{short description|American country musician (born 1931)}}
+{{For|the rock musician|Frankie Miller}}
+{{No footnotes|date=November 2011}}
+
+{{Infobox musical artist
+| name            = Frankie Miller
+| image           =
+| alt             =
+| caption         =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{Birth date and age|1931|12|17}}
+| birth_place     =
+| origin          = [[Victoria, Texas]], U.S.
+| instrument      =
+| genre           = [[Country music]]
+| occupation      =
+| years_active    =
+| label           = [[4 Star Records]], [[Columbia Records]], [[Starday Records]], [[United Artists]], [[Bear Family Records]], Heart of Texas Records
+| associated_acts =
+| website         = [http://www.frankiemillercountry.com/Home.html frankiemillercountry.com]
+}}
+
+'''Frankie Miller''' (born December 17, 1931, [[Victoria, Texas]]) is an American former country singer.
+
+==Biography==
+Miller landed time singing on local station [[KITE (AM)|KNAL]] and recorded for [[Gilt-Edge (record label)|Gilt Edge]] a subsidiary of [[4 Star Records]] at the beginning of the 1950s, but served from 1951-53 in the [[United States Military]] during the [[Korean War]]. In 1954 he signed with [[Columbia Records]], releasing several singles, none of which sold well. Through the latter portion of the decade, Miller performed and recorded locally, sporadically releasing singles.
+
+He recorded his biggest hit "Blackland Farmer" for Starday in 1956. In 1959 he signed with [[Starday Records]] and released several singles which became hits on the country charts, including "Blackland Farmer", the 1956 recording, "Family Man", "Baby Rocked Her Dolly", and "A Little South of Memphis". He performed on the ''[[Louisiana Hayride]]'' and the ''[[Grand Ole Opry]]'', and was featured in ''[[Cashbox (magazine)|Cashbox]]'' magazine.
+
+His last charting hit came in 1964, and he recorded with [[United Artists]] in 1965, but quit the music business soon after. He worked as a car salesman in [[Arlington, Texas]] later in life. In the 1980s, [[Bear Family Records]] reissued his LPs.
+
+==Singles==
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>[[Billboard Hot 100|US]]</small>
+|-
+| rowspan="2"| 1959
+| "Black Land Farmer"
+| align="center"| 5
+| align="center"| —
+|-
+| "Family Man"
+| align="center"| 7
+| align="center"| —
+|-
+| 1960
+| "Baby Rocked Her Dolly"
+| align="center"| 15
+| align="center"| —
+|-
+| 1961
+| "Black Land Farmer" <small>(re-release)</small>
+| align="center"| 16
+| align="center"| 82
+|-
+| 1964
+| "A Little South of Memphis"
+| align="center"| 34
+| align="center"| —
+|}
+
+==External links==
+*John Bush, [{{AllMusic|class=artist|id=p4916|pure_url=yes}} Frankie Miller] at [[Allmusic]]
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Miller, Frankie}}
+[[Category:1931 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:Place of birth missing (living people)]]

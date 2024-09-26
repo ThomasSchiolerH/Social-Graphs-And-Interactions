@@ -1,0 +1,102 @@
+{{Short description|Country music trio}}
+{{Infobox musical artist
+| name            = The Ranch
+| image           = 
+| image_size      = 
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             = 
+| caption         = 
+| background      = group_or_band
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]], [[country rock]]
+| years_active    = {{start date|1997}}–{{end date|1998}}
+| label           = [[Capitol Records Nashville|Capitol]]
+| past_members    =
+* Peter Clarke
+* Jerry Flowers
+* [[Keith Urban]]
+}}
+
+'''The Ranch''' was an Australian-American [[country music]] trio, which formed in 1997 by [[Keith Urban]] (guitar, keyboards and vocals), Jerry Flowers (bass guitar and background vocals) and Peter Clarke (drums and vocals).<ref name="NLA 1">{{Citation | author1 = The Ranch | author2=Urban, Keith | authorlink2 = Keith Urban | author3 = Rust, Vernon | title = The Ranch | publication-date = 1997 | publisher = Capitol: Manufactured and distributed by WEA. [[National Library of Australia]] | location = [[Nashville, Tennessee|Nashville, Tenn]] | url = http://trove.nla.gov.au/work/8867792 | access-date = 17 August 2014 }}</ref><ref>{{cite web |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=SAEC&p_theme=saec&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EAFE7FAD5D99D77&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |title="Funktry", Chesney & Willie |access-date=2008-09-05 |last=Alexander |first=Wiley |date=1997-10-10 |work=San Antonio Express-News}}</ref><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|date=2008|page=338|isbn=978-0-89820-177-2}}</ref> Most of the group's material was co-written by Urban and Vernon Rust.<ref name="NLA 1"/><ref name="Ruhlmann"/>
+
+They issued a [[The Ranch (album)|self-titled album]] on [[Capitol Records]] in that year, and two related singles, "Walkin' the Country" and "Just Some Love", which appeared on the country charts before the group disbanded in 1998.<ref name="Ruhlmann">{{cite web | url = http://www.allmusic.com/album/the-ranch-mw0000325776 | title = ''The Ranch'' – Keith Urban | publisher = [[AllMusic]] | author = Ruhlmann, William | access-date=17 August 2014 }}</ref> Besides its two singles, ''The Ranch'' included "[[Some Days You Gotta Dance]]", which was issued in 2001 as a single by the [[Dixie Chicks]], and also had Urban on guitar.<ref>[https://web.archive.org/web/20040405190312/http://www.cmt.com/artists/az/urban_keith/bio.jhtml Keith Urban Biography]</ref> After disbanding The Ranch, Urban resumed his solo career.<ref name="Ruhlmann"/> Due to his solo success, The Ranch's album was re-issued in February 2004 on Capitol/[[EMI Records|EMI]] as ''Keith Urban in The Ranch'' with two bonus tracks: "Billy" and "[[Stuck in the Middle with You]]", the latter is a cover version of a single by the 1970s band [[Stealers Wheel]].<ref name="Ruhlmann 1">{{cite web | url = http://www.allmusic.com/album/release/in-the-ranch-mr0001212200 | title = ''In the Ranch'' – Keith Urban | author = Ruhlmann, William | publisher = [[AllMusic]] | access-date = 17 August 2014 }}</ref> It also featured two music videos, "Walkin' the Country" and "Clutterbilly".<ref name="Ruhlmann 1"/>
+
+After The Ranch disbanded, Urban began a solo career. Many of his solo efforts have included Flowers.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of albums, with selected details and chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Album details
+! scope="col" colspan="2"| Peak positions
+|-
+! scope="col" style="width:3em; font-size:90%"| [[ARIA Charts|AUS]]<br /><ref>{{cite Ryan|page=229}}</ref>
+! scope="col" style="width:3em; font-size:90%"| [[Hot Country Songs|US Country]]
+|- 
+! scope="row"| ''[[The Ranch (album)|The Ranch]]''
+| 
+* Release date: September 1997
+* Label: [[EastWest Records|EastWest]], [[Capitol Records Nashville|Capitol Nashville]]
+* Format: [[Compact disc|CD]], [[Cassette tape|cassette]]
+| 82 || 34<sup>A</sup>
+|}
+*<sup>A</sup>Chart position of 2004 re-release as ''Keith Urban in The Ranch''.
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2"| Year
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+! scope="row"| "Walkin' the Country"
+| 1997
+| 50
+| 65
+| rowspan="2"| ''The Ranch''
+|-
+! scope="row"| "Just Some Love"
+| 1998
+| 61
+| 92
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! style="width:12em;"| Title
+! Year
+! Director
+|-
+! scope="row"| "Walkin' the Country"
+| rowspan="2"| 1997
+| rowspan="2"| Roger Pistole
+|-
+! scope="row"| "Clutterbilly"
+|}
+
+==Awards and nominations==
+===ARIA Music Awards===
+The [[ARIA Music Awards]] are a set of annual ceremonies presented by [[Australian Recording Industry Association]] (ARIA), which recognise excellence, innovation, and achievement across all genres of the [[music of Australia]]. They commenced in 1987. 
+
+{{awards table}}
+! {{Abbr|Ref.|Reference}}
+|-
+| [[ARIA Music Awards of 1997|1997]] || ''The Ranch'' || [[ARIA Award for Best Country Album|Best Country Album]] || {{nom}} || <ref>ARIA Award previous winners. {{cite web|url=http://www.ariaawards.com.au/history/award/Best-Country-Album|title=ARIA Awards Best Country Album|publisher=Australian Recording Industry Association (ARIA)|access-date=9 April 2022}}</ref>
+{{end}}
+
+==References==
+{{Reflist}}
+{{Keith Urban}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ranch, The}}
+[[Category:Country music groups from Tennessee]]
+[[Category:Capitol Records artists]]
+[[Category:American musical trios]]
+[[Category:Keith Urban]]
+[[Category:Musical groups established in 1997]]
+[[Category:Musical groups disestablished in 1998]]

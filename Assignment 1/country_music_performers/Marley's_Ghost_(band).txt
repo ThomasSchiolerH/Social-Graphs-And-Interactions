@@ -1,0 +1,74 @@
+{{Short description|Bluegrass band}}
+{{more citations needed|date=December 2009}}
+{{Infobox musical artist
+| name             = Marley's Ghost
+| image            = 
+| image_size       = 
+| image_upright    = 
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              = 
+| caption          = 
+| background       = group_or_band
+| alias            = 
+| origin           = 
+| genre            = [[Folk music]], [[gospel music]], [[country music]], [[bluegrass music]]
+| years_active     = {{start date|1986}}–present
+| label            = Sage Arts
+| associated_acts  = 
+| website          = {{URL|http://www.marleysghost.com}}
+| current_members  = Mike Phelan<br />Ed Littlefield Jr.<br />Dan Wheetman<br />Jon Wilcox<br />Jerry Fletcher<br />Bob Nichols
+| past_members     = 
+}}
+'''Marley's Ghost''' is a band based in [[Washington (state)|Washington]] and [[Northern California]] which has existed since the mid-1980s and has recorded 12 albums. While their music has a strong [[Bluegrass music|bluegrass]] emphasis, their musical style is diverse. ''[[Paste (magazine)|Paste]]'' magazine has described them as "a decidedly unusual band, as capable of reanimating [[Appalachian folk music|Appalachian folk songs]] as they are traditional [[Celtic music|Celtic]] fare, [[honky tonk]] and [[reggae]]."<ref>{{cite web|url=http://www.cybergrass.com/modules.php?name%3DNews%26file%3Darticle%26sid%3D7059 |title=Cybergrass Bluegrass Music News: Marley's Ghost taps Cowboy Jack Clement for new CD, 'Ghost Town' |access-date=2009-11-30 |url-status=dead |archiveurl=https://web.archive.org/web/20100104033746/http://cybergrass.com/modules.php?name=News&file=article&sid=7059 |archivedate=2010-01-04 }}</ref>
+
+==History==
+Dan Wheetman, Jon Wilcox, and Mike Phelan met in March 1986 in the [[San Fernando Valley]] during [[Saint Patrick's Day]] shows. That winter, Wheetman went to Littlefield's studio to record a solo album, bringing Wilcox and Phelan. They ended up recording the first three Marley's Ghost albums before completing Wheetman's solo album.<ref name=MG-chronicle-2017>{{cite web |url=http://conqueroo.com/marleysghostbio.html|title=Marley's Ghost|work=San Francisco Chronicle|access-date=June 13, 2017|author=Joel Selvin}}</ref>
+
+In 2006, [[Van Dyke Parks]] produced ''Spooked'', and artist [[Robert Crumb]] illustrated the album cover. (Crumb and Wheetman knew each other from an earlier musical venture, [[R. Crumb & His Cheap Suit Serenaders]], of which Wheetman was a member for a short time in the mid-1970s.)<ref>Lynch, Megan. [https://www.allmusic.com/artist/the-cheap-suit-serenaders-mn0001823325/biography "The Cheap Suit Serenaders,"] AllMusic.com. Accessed Nov. 17, 2019.</ref> Guests on the recording included [[Bill Frisell]] (guitar), [[Buell Neidlinger]] (bass), and Don Heffington (drums).<ref name=MG-antimusic-2005>{{cite web |url=http://www.antimusic.com/news/05/nov/1701.shtml|title=Marley's Ghost Taps Van Dyke Parks|work=antiMUSIC|access-date=June 5, 2017|author= }}</ref>
+
+Released in 2012, ''Jubilee'' was produced by [[Cowboy Jack Clement]], and includes performances by [[Emmylou Harris]], [[John Prine]], [[Marty Stuart]], and [[Old Crow Medicine Show]].<ref name=MG-popmatters-2012>{{cite news|last1=Spoerl|first1=Steven|title=Marley's Ghost: Jubilee|url=http://www.popmatters.com/review/160578-marleys-ghost-jubilee/|access-date=June 13, 2017|work=Popmatters|date=12 August 2012}}</ref>
+
+2017's ''The Woodstock Sessions'' was recorded at [[Levon Helm]]’s studio in [[Woodstock, New York]]. [[Larry Campbell (musician)|Larry Campbell]] produced this album of mostly traditional music.<ref name=MG-claremont-2016>{{cite news|last1=Rhodes|first1=Mick|title=Marley's Ghost brings eclectic mix to Claremont|url=https://www.claremont-courier.com/mobile/article/t20129-marley|access-date=June 13, 2017|work=[[Claremont Courier]]|date=August 17, 2016}}</ref>
+
+2019's ''Travelin' Shoes'' was also produced by Larry Campbell and features a host of gone-world gospel gems.
+
+==Personnel==
+* Mike Phelan: [[Guitar]]s, [[Dobro]], [[Bass guitar|bass]], [[fiddle]], lead & harmony vocals, writer. 
+* Ed Littlefield Jr.: [[Pedal steel guitar|Pedal steel]], guitars, bass, fiddle, [[Highland bagpipes]] lead & bass vocals
+* Dan Wheetman: Bass, [[National Steel Guitar|National Steel]], Fiddle, Guitar, lead & harmony vocals, writer. 
+* Jon Wilcox: [[Mandolin]], guitar, [[Irish bouzouki]] lead & harmony vocals, writer 
+* Jerry Fletcher: [[Keyboard instrument|Keyboards]], harmony vocals
+* Bob Nichols: <nowiki>Drums</nowiki>, percussion
+
+==Discography==
+* 1987: ''Haunting Melodies'' (Sage Arts)
+* 1989: ''Let De Groove Rise Up'' (Sage Arts) - remixed and remastered in 2005
+* 1991: ''Ghost Country'' (Sage Arts)
+* 1992: ''How Can I Keep From Singing: Gospel'' (Sage Arts)
+* 1996: ''Four Spacious Guys'' (Sage Arts)
+* 1998: ''Across the River'' (Sage Arts)
+* 2001: ''Live at the Freight'' (Sage Arts)
+* 2006: ''Spooked'' (Sage Arts)
+* 2010: ''Ghost Town'' (Sage Arts)
+* 2012: ''Jubilee'' (Sage Arts)
+* 2016: ''The Woodstock Sessions'' (Sage Arts)
+*2019: ''Travelin' Shoes'' (Sage Arts)
+
+==References==
+{{Reflist|1}}
+
+==External links==
+* {{Official website|http://www.marleysghostband.com/}}
+* {{URL|http://www.sagearts.com/mg.html/|Marley's Ghost at Sage Arts}}
+* {{AllMusic | id= marleys-ghost-mn0000847784 | label= Marley's Ghost}}
+* {{discogs artist|3061725-Marleys-Ghost|Marley's Ghost}}
+* [https://web.archive.org/web/20091214072714/http://www.mikegreenassociates.com/index.php?page=bio&display=1328 Biography] from Mike Green Associates
+
+{{Authority control}}
+
+[[Category:Musical groups from California]]
+[[Category:American bluegrass music groups]]
+[[Category:Appalachian music]]
+
+
+{{US-band-stub}}

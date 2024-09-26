@@ -1,0 +1,145 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Mike Walker
+| image                 = 
+| caption            = 
+| image_size            = 
+| birth_name = Michael Aubrey Walker<ref>{{cite web | url=https://repertoire.bmi.com/Search/Catalog?num=bsu9NQDuQL6ck3QFOJIOaA%253d%253d&cae=YmUbMnyKbQkfNzXLZ%252fbLAQ%253d%253d&partType=WriterList&search=%7B%22Main_Search_Text%22%3A%22If%20There%5Cu0027s%20a%20Chance%20to%20Say%20I%20Love%20You%22%2C%22Sub_Search_Text%22%3Anull%2C%22Main_Search%22%3A%22Title%22%2C%22Sub_Search%22%3Anull%2C%22Search_Type%22%3A%22all%22%2C%22View_Count%22%3A100%2C%22Page_Number%22%3A0%2C%22Part_Type%22%3Anull%2C%22Part_Id%22%3Anull%2C%22Part_Id_Sub%22%3Anull%2C%22Part_Name%22%3Anull%2C%22Part_Cae%22%3Anull%2C%22Original_Search%22%3Anull%2C%22DisclaimerViewed%22%3Anull%7D&resetPageNumber=True&partIdSub=YO0HedHMatLb45JzS23DVw%253d%253d | title=Search results for Michael Aubrey Walker | publisher=BMI | accessdate=June 26, 2022}}</ref>
+| origin              = [[Jackson, Tennessee]], U.S.<ref name="aboutbio">{{cite web |url=http://countrymusic.about.com/library/blmikewalkerbio.htm |title=Mike Walker biography |accessdate=2009-02-05 |work=[[About.com]]}}</ref>
+| instrument          = Vocals, Guitar 
+| genre               = [[Country music|Country]]
+| occupation          = Singer, songwriter
+| years_active        = 1998-present
+| label               = [[DreamWorks Nashville]]
+| associated_acts     = 
+}}
+'''Michael Aubrey Walker''' is an American [[country music]] artist. In 2000 he was signed by [[DreamWorks Nashville]] and in 2001, he released his self-titled debut album. This album produced his only chart single in "Honey Do", which peaked at number 42 on the ''[[Billboard (magazine)|Billboard]]'' country charts. He also toured with [[Brooks & Dunn]] on the first annual "Neon Circus Tour" which also featured [[Toby Keith]], [[Montgomery Gentry]], [[Keith Urban]] and [[Cledus T. Judd]] after the release of his album,<ref name="aboutbio"/> although its second through fifth singles all failed to chart. Included on the album were covers of [[Rodney Crowell]]'s 1990 single "[[What Kind of Love]]", [[Billy "Crash" Craddock]]'s 1974 single "[[Rub It In]]", and [[T. Graham Brown]]'s 1999 single "Memphis Women and Chicken". [[Gary Allan]] also recorded the song "See If I Care" on his album of the [[See If I Care (Gary Allan album)|same name]], and "Honey Do" was originally recorded by [[Keith Harling]] on his 1999 album ''[[Bring It On (Keith Harling album)|Bring It On]]''.
+
+In the late 2000s, Walker began performing in [[Branson, Missouri]].
+
+==''Mike Walker'' (2001)==
+{{Infobox album
+| italic_title = no
+| name         = Mike Walker
+| type         = studio
+| artist       = Mike Walker
+| cover        =
+| alt          =
+| released     = {{Start date|2001|10|09}}
+| recorded     =
+| venue        =
+| studio       =
+| genre        = Country
+| length       =
+| label        = DreamWorks Nashville
+| producer     = [[James Stroud]]<br />[[Don Cook]]
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+{{Album ratings
+| rev1 = [[Allmusic]]
+| rev1Score = {{Rating|4|5}}<ref name="allmusic">{{cite web|url={{AllMusic|class=album|id=r555769|pure_url=yes}}|title=''Mike Walker'' review|last=Widran|first=Jonathan|work=[[Allmusic]]|accessdate=August 5, 2011}}</ref>
+| rev2 = [[About.com]]
+| rev2Score = (favorable)<ref name="aboutreview">{{cite web|url=http://countrymusic.about.com/library/blmikewalkerrev.htm|title=CD Review: Mike Walker – ''Mike Walker''|last=Attebury|first=Carrie|work=[[About.com]]|accessdate=August 5, 2011}}</ref>
+}}
+
+===Track listing===
+#"Honey Do" ([[Jeffrey Steele]], [[Al Anderson (NRBQ)|Al Anderson]], [[Kent Blazy]]) – 3:11
+#"Stones in the Road" ([[James House (singer)|James House]], [[Wally Wilson]]) – 4:32
+#"This Is That" (Anderson, [[Tom Shapiro]]) – 4:01
+#"Who's Your Daddy?" ([[Frank J. Myers]], Bernie Nelson) – 2:31
+#"See If I Care" ([[Jamie O'Hara (singer)|Jamie O'Hara]]) – 3:18
+#"[[What Kind of Love]]" ([[Rodney Crowell]], [[Will Jennings]], [[Roy Orbison]]) – 3:14
+#"It's Too Late" (House, Wilson, [[Drew Womack]]) – 3:26
+#"I Want a Little More" ([[Don Cook]], [[Jamie Hartford]], Mike Walker) – 2:26
+#"It's Just a Memory" (Joe Collins, Joe Doyle) – 3:05
+#"Long Long Kiss" (Kelly Garrett, Angela Lauer, Tim Lauer) – 2:52
+#"If There's a Chance to Say I Love You" (John Adrian, Dale Morris, Walker) – 3:45
+#"Honey Love Me That Way" (Adrian, Walker) – 3:23
+#"[[Rub It In]]" ([[Layng Martine, Jr.]]) – 3:00
+#"Memphis Women and Chicken" (Donnie Fritts, [[Gary Nicholson (singer)|Gary Nicholson]], Dan Penn) – 3:08
+
+===Personnel===
+* [[Al Anderson (NRBQ)|Al Anderson]] - [[acoustic guitar]]
+* [[Eddie Bayers]] - [[drums]]
+* Mark Casstevens - acoustic guitar
+* [[Don Cook]] - [[timpani]]
+* Smith Curry - electric dobro
+* [[Stuart Duncan]] - [[fiddle]]
+* Sonny Garrish - [[steel guitar]]
+* Wes Hightower - background vocals
+* Jim Horn - [[saxophone]]
+* [[David Hungate]] - [[bass guitar]]
+* [[John Barlow Jarvis]] - [[piano]]
+* Jerry McPherson - electric guitar
+* [[Brent Mason]] - [[electric guitar]]
+* Steve Nathan - [[Keyboard instrument|keyboards]], [[Hammond organ]]
+* [[Matt Rollings]] - keyboards, Hammond organ, piano
+* [[John Wesley Ryles]] - background vocals
+* [[Robby Turner]] - steel guitar
+* Mike Walker - lead vocals
+* [[Biff Watson]] - acoustic guitar
+* Dennis Wilson - background vocals
+* [[Lonnie Wilson]] - drums
+* [[Glenn Worf]] - bass guitar
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="3"| 2001
+! scope="row"| "Honey Do"
+| 42
+|-
+! scope="row"| "[[What Kind of Love]]"
+| —
+|-
+! scope="row"| "Stones in the Road"
+| —
+|-
+| rowspan="2"| 2002
+! scope="row"| "Who's Your Daddy"
+| —
+|-
+! scope="row"| "If There's a Chance to Say I Love You"
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2001
+! scope="row"| "Honey Do"<ref>{{cite web|url=http://www.cmt.com/videos/mike-walker/387555/honey-do.jhtml|archive-url=https://web.archive.org/web/20121024011420/http://www.cmt.com/videos/mike-walker/387555/honey-do.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Mike Walker : Honey Do|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+| David Abbott
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.mikewalkermth.com/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Walker, Mike}}
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:DreamWorks Records artists]]
+[[Category:People from Jackson, Tennessee]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Country musicians from Tennessee]]

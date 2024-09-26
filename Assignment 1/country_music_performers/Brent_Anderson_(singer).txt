@@ -1,0 +1,83 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{Infobox musical artist
+| name            = Brent Anderson
+| image           =
+| alt             =
+| caption         =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| birth_name      =
+| alias           =
+| birth_date      = ca. 1988
+| birth_place     = [[Pascagoula, Mississippi]]
+| origin          = [[Nashville, Tennessee]]
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar, bass guitar
+| years_active    = 2011–present
+| label           = [[Arista Nashville]]
+| associated_acts = [[Brad Paisley]]
+}}
+'''Brent Anderson''' (born in [[Pascagoula, Mississippi]]<ref>{{cite web|url=http://www.brentandersonmusic.com/biography|title=Brent Anderson biography|work=Brent Anderson|accessdate=29 November 2011|archive-url=https://web.archive.org/web/20111114045037/http://www.brentandersonmusic.com/biography|archive-date=14 November 2011|url-status=dead}}</ref>) is an American [[country music]] singer. He has charted on [[Hot Country Songs]] with the single "Amy's Song".
+
+Anderson learned to play [[bass guitar]] at age 7, and later began playing [[acoustic guitar]] in a trio that included his father and father's cousin. By 17, Anderson had signed his first songwriting deal. He then signed with Sea Gayle, a division of [[Arista Nashville]] owned by [[Brad Paisley]].<ref name="weekly">{{cite journal|last=Nicholson|first=Jessica|date=5 December 2011|title=Who's New: Brent Anderson|journal=[[Country Weekly]]|volume=18|issue=50|page=18|issn=1074-3235}}</ref>
+
+In late 2011, he released his debut single "Amy's Song". The song samples [[Pure Prairie League]]'s 1973 hit "[[Amie (song)|Amie]]" and includes backing vocals from [[Vince Gill]] and Pure Prairie League founder [[Craig Fuller]].<ref name="weekly"/> Taste of Country reviewer Billy Dukes gave the song four stars out of five, praising Anderson's "smoky" voice and the lyrics.<ref>{{cite web|url=http://tasteofcountry.com/brent-anderson-amys-song/|title=Brent Anderson — 'Amy's Song' review|last=Dukes|first=Billy|date=7 September 2011|work=Taste of Country|accessdate=29 November 2011}}</ref>
+
+He wrote the 2014 song [[Lonely Tonight]], which was sung by [[Blake Shelton]] and hit number 1 on the [[Billboard (magazine)|''Billboard'']] [[Country Airplay]] charts.
+
+Although Anderson released no more material through Arista, he co-produced [[Chris Janson]]'s album ''[[Buy Me a Boat]]'' and the 2017 single "[[Fix a Drink]]". These songs also feature Anderson on background vocals and acoustic guitar.<ref>{{Cite AV media notes |title=Buy Me a Boat |others=Chris Janson |year=2015 |type=CD booklet |publisher=Warner Bros. Records Nashville |id=552159-2}}</ref><ref>{{Cite AV media notes |title=Everybody |others=Chris Janson |year=2017 |type=CD booklet |publisher=Warner Bros. Records Nashville |id=563377-2}}</ref>
+
+==Discography==
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''8 Track''
+| 
+* Release date: October 8, 2012
+* Label: [[Arista Nashville]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|- 
+| 2011
+! scope="row"| "Amy's Song"
+| 47<ref>{{cite magazine|url=http://www.billboard.biz/bbbiz/billboardbiz/photos/pdf/country_update_1205.pdf|title=Billboard Country Update|date=5 December 2011|magazine=Billboard|page=9|accessdate=5 December 2011|archive-date=16 March 2016|archive-url=https://web.archive.org/web/20160316063828/http://www1.billboard.biz/bbbiz/billboardbiz/photos/pdf/country_update_1205.pdf|url-status=dead}}</ref>
+| align="left"| ''8 Track''
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20111112065027/http://www.brentandersonmusic.com/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Anderson, Brent}}
+[[Category:1980s births]]
+[[Category:Living people]]
+[[Category:People from Pascagoula, Mississippi]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Arista Nashville artists]]
+[[Category:Country musicians from Mississippi]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:Country musicians from Tennessee]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Singer-songwriters from Tennessee]]

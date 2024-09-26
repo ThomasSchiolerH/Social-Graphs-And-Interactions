@@ -1,0 +1,253 @@
+{{short description|American singer}}
+{{About|the singer|other people named Ray Scott|Ray Scott (disambiguation)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Ray Scott
+| image                 = Ray Scott Performing In Destin, FL, Aug 2014.jpg
+| caption            = Ray Scott at Toe Jam in Destin, Florida, August 27, 2014
+| image_size            = 300
+| background          = solo_singer
+| birth_name          = Carlton Ray Scott Jr.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|pages=371|isbn=978-0-89820-177-2}}</ref>
+| birth_date          = {{birth date and age|1969|12|5}}
+| origin              = [[Semora, North Carolina]], United States
+| instrument          = Vocals, acoustic guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2003–present
+| label               = Decibel Nashville, [[Warner Bros. Records|Warner Bros. Nashville]], Jethropolitan
+| website                 = http://www.rayscott.com
+}}
+'''Carlton Ray Scott Jr.''' (born December 5, 1969, in [[Semora, North Carolina]]) is an American [[country music]] artist.  He first gained attention in 2005 with his debut album ''My Kind of Music'', and has since released eleven albums and two EPS.
+
+==Career==
+Scott has a distinctive southern voice and wears a cowboy hat. 
+Warner Brothers released his debut album, ''My Kind of Music'', and its title track became a top 40 single in 2005.<ref name=bio>{{cite web |url=http://www.rayscott.com/bio |title=About Ray Scott |work=Ray Scott }}</ref>
+
+Scott split from the Warner Brothers label two years later. He independently released ''Crazy Like Me'' (2008) and ''Rayality'' (2011), which gave him a physical product on the road and support from [[Sirius XM]].<ref name=procountry>{{cite web |url=https://procountrymusic.com/2019/09/02/nowhere-near-done-the-ray-scott-story-so-far/ |title="Nowhere Near Done;" The Ray Scott Story (So Far) |work=Pro Country |date= September 2, 2019}}</ref> "Drinkin Beer" and "Ain’t Always Thirsty" received Sirius airplay, as did one of his best-known singles: "Those Jeans" from the Rayality album, produced by Dave Brainard (Jerrod Neimann, Brandy Clark). Then came his 5th studio album in 2017 — ''Guitar for Sale'', produced by Michael Hughes.<ref>{{cite web |url=https://countrymusicmatters.com/2017/06/15/ray-scott-celebrates-guitar-sale-fan-party-cmm-interview/ |title=Ray Scott Celebrates "Guitar For Sale" With A Fan Party – CMM Interview |date=June 15, 2017|first=Mary |last=Kay |work=Country Music Matters}}</ref>
+
+Hughes and Scott paired up again for ''Honky Tonk Heart'', an EP released on March 1, 2019.  According to Scott, ""Honky Tonk Heart" is all about who I am, and it's an ode to all the troubadours out there runnin' up and down the highways keeping real country music alive because they love it, live it, and breathe it."<ref>{{cite web |url= https://www.soundslikenashville.com/news/ray-scott-acoustic-honky-tonk-heart/ |title=Ray Scott Puts Acoustic Twist on His Ode to the Troubadours |first= Lauren |last= Laffer |work=Sounds Like Nashville |date=January 18, 2019 }}</ref>
+
+Scott's second EP, ''Nowhere Near Done'', was released in February 2020.<ref name=procountry />
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart<br />positions
+! rowspan="2" style="width:8em;"| Sales
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br /><ref name=country>{{cite magazine |url=https://www.billboard.com/artist/ray-scott/chart-history/clp/ |title=Ray Scott > Top Country Albums |magazine=Billboard }}</ref>
+! width="45"| [[Top Heatseekers|US Heat]]<br /><ref name=heat>{{cite magazine |url=https://www.billboard.com/artist/ray-scott/chart-history/tln/ |title=Ray Scott > Heatseekers Albums |magazine=Billboard }}</ref>
+! width="45"| [[Independent Albums|US Indie]]<br /><ref name=indie>{{cite magazine |url=https://www.billboard.com/artist/ray-scott/chart-history/ind/ |title=Ray Scott > Independent Albums |magazine=Billboard }}</ref>
+|-
+! scope="row"| ''[[My Kind of Music (Ray Scott album)|My Kind of Music]]''
+| 
+* Release date: November 22, 2005
+* Label: [[Warner Bros. Records|Warner Bros. Nashville]]
+| 39
+| 4
+| —
+|
+|-
+! scope="row"| ''Crazy Like Me''
+| 
+* Release date: June 3, 2008
+* Label: Jethropolitan
+| —
+| —
+| —
+|
+|-
+! scope="row"| ''Rayality''
+| 
+* Release date: September 16, 2011
+* Label: Jethropolitan
+| —
+| —
+| —
+|
+|-
+! scope="row"| ''Ray Scott''
+| 
+* Release date: October 10, 2014
+* Label: Jethropolitan
+| —
+| —
+| —
+|
+|-
+! scope="row"| ''Guitar for Sale''
+| 
+* Release date: June 9, 2017
+* Label: Jethropolitan
+| —
+| 12
+| 28
+|
+*US: 1,500<ref>{{cite news |url=http://roughstock.com/news/2017/06/41978-top-10-country-albums-sales-chart-june-19-2017 |title= Top 10 Country Albums Sales Chart: June 19, 2017 |first= Matt |last= Bjorke  |date= June 19, 2017 |work=Roughstock }}</ref>
+|-
+! scope="row"| ''Cover The Earth''
+| 
+*Release date: September 17, 2021
+*Label: Jethropolitan
+| —
+| —
+| —
+|
+|-
+! scope="row"| ''Billboards & Brake Lights''
+| 
+*Release date: November 10, 2023
+*Label: Jethropolitan
+| —
+| —
+| —
+|
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===EPs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+! rowspan="2" style="width:8em;"| Sales
+|- style="font-size:smaller;"
+! width="45"| [[Top Heatseekers|US Heat]]<br /><ref name=heat />
+! width="45"| [[Independent Albums|US Indie]]<br /><ref name=indie />
+|-
+! scope="row"| ''Honky Tonk Heart''
+| 
+* Release date: March 1, 2019
+* Label: Jethropolitan
+| 19
+| 39
+|
+|-
+! scope="row"| ''Nowhere Near Done''
+| 
+* Release date: Early 2020
+* Label: Jethropolitan
+| —
+| —
+|
+*US: 100<ref>{{cite news|url=http://roughstock.com/news/2020/03/44152-top-10-country-albums-in-pure-sales-march-2-2020|title=Top 10 Country Albums In Pure Sales: March 2, 2020|work=Roughstock|first=Matt |last=Bjorke |date=March 3, 2020|accessdate= March 7, 2020}}</ref>
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+|-
+| 2005
+! scope="row"| "My Kind of Music"
+| 39
+| align="left" rowspan="3"| ''My Kind of Music''
+|-
+| rowspan="2"| 2006
+! scope="row"| "Gone Either Way"
+| 53
+|-
+! scope="row"| "I Didn't Come Here to Talk"
+| —
+|-
+| 2008
+! scope="row"| "Sometimes the Bottle Hits You Back"
+| —
+| align="left"| ''Crazy Like Me''
+|-
+| 2012
+! scope="row"| "Those Jeans"
+| —
+| align="left"| ''Rayality''
+|-
+| rowspan="2"| 2014
+! scope="row"| "What Works for Willie"
+| —
+| align="left"| ''Rayality'' <small>(Deluxe)</small>
+|-
+! scope="row"| "Drinkin' Beer"
+| —
+| align="left" rowspan="2"| ''Ray Scott''
+|-
+| 2015
+! scope="row"| "Ain't Always Thirsty"
+| —
+|-
+| rowspan=""| 2017
+! scope="row"| "Livin' This Way"
+| —
+| align="left"| ''Guitar For Sale'' 
+|-
+|-
+| rowspan=""| 2019
+! scope="row"| "Honky Tonk Heart"
+| —
+| align="left"| ''Honky Tonk Heart'' 
+|-
+| rowspan=""| 2022
+! scope="row"| "Santa's Sack"
+| —
+| align="left"| ''N/A''
+|-
+! colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 2005
+! scope="row"| "My Kind of Music"
+| [[Shaun Silva]]
+|-
+| 2012
+! scope="row"| "Those Jeans"
+| [[Marcel (singer)|Marcel]]
+|-
+| 2014
+! scope="row"| "Drinkin' Beer"<ref>{{cite web|url=http://www.yallwire.com/player/rayscottdrinkinbeer.html|title=Ray Scott – Drinkin' Beer|publisher=Yallwire|accessdate=October 21, 2014}}</ref>
+| Sam White
+|-
+| 2015
+! scope="row"| "Ain't Always Thirsty"
+| [[Blake Judd]]
+|-
+| 2016
+! scope="row"| "High Road"
+|-
+| 2022
+! scope="row"| "Santa's Sack"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.rayscott.com/ Ray Scott Official Website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Scott, Ray}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from North Carolina]]
+[[Category:Warner Records artists]]
+[[Category:People from Caswell County, North Carolina]]
+[[Category:1975 births]]

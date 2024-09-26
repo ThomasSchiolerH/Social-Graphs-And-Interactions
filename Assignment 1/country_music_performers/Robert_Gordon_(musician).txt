@@ -1,0 +1,5 @@
+#REDIRECT [[Robert Gordon (singer)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

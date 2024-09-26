@@ -1,0 +1,129 @@
+{{short description|American singer-songwriter}}
+
+{{BLP sources|date=January 2020}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist
+| name            = Bob Woodruff
+| image           = Bob Woodruff.jpg
+| caption         =
+| image_size      =
+| birth_name      =
+| alias           =
+| origin          = New York City, New York, United States
+| instrument      = Vocals<br />guitar<br />drums
+| genre           = [[Country music|Country]]
+| occupation      = Singer, songwriter, musician
+| years_active    = 1994–present
+| label           = [[Asylum Records|Asylum]], [[Imprint Records|Imprint]]
+| associated_acts = The Fields
+| website         = http://www.bobwoodruffmusic.com/
+}}
+'''Bob Woodruff''' (born in New York City<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p139598|pure_url=yes}} |title=Bob Woodruff biography |accessdate=May 4, 2008 |last=Leaver |first=Jack |publisher=[[AllMusic]]}}</ref>) is an American [[country music]] singer and songwriter. Initially, he was a member of a country rock band called The Fields before beginning a career as a solo artist. He released four studio albums (1994's ''Dreams & Saturday Nights'', 1997's ''Desire Road'', 2011's ''The Lost Kerosene Tapes, 1999'' and 2013's ''The Year We Tried to Kill the Pain''<ref name="allmusic"/>) and has charted two singles on the ''[[Billboard (magazine)|Billboard]]'' country music charts, as well as a third on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.
+
+Woodruff's 1994 debut album ''Dreams & Saturday Nights'' was produced by Steve Fishell and included instrumentation from [[James Burton]] and [[Bernie Leadon]].<ref>{{cite news | url=https://www.newspapers.com/image/503560199/ | title=Tillis' Dance one of her best | work=The Province | date=June 10, 1994 | accessdate=June 5, 2022 | author=John P. McLaughlin | pages=B29}}</ref> His second album included [[cover version|cover]]s of songs by [[John Fogerty]] and [[Arthur Alexander]].<ref>{{cite journal|last=Mansfield|first=Brian|date=June 1997|title=Bob Woodruff|journal=New Country|volume=4|issue=6|pages=40|issn=1086-1076}}</ref> His latest album, ''The Year We Tried To Kill The Pain'', was released in Europe in September 2013.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Dreams & Saturday Nights''
+| 
+* Release date: March 29, 1994
+* Label: [[Asylum Records]]
+|- 
+! scope="row"| ''Desire Road''
+| 
+* Release date: March 25, 1997
+* Label: [[Imprint Records]]
+
+|- 
+! scope="row"| ''The Lost Kerosene Tapes, 1999''
+| 
+* Release date: December 31, 2011
+* Label: [[Sound Asleep Records]]
+|-
+ ! scope="row"| ''The Year We Tried To Kill the Pain''
+| 
+* Release date: September 28, 2013
+* Label: [[Rootsy/Warner Music Nordic/Blue Rose Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1994
+! scope="row"| "Hard Liquor, Cold Women, Warm Beer"
+| 70
+| 81
+| align="left" rowspan="3"| ''Dreams & Saturday Nights''
+|-
+! scope="row"| "Bayou Girl"
+| 74
+| 67
+|-
+! scope="row"| "Alright"
+| —
+| —
+|-
+| 1997
+! scope="row"| "[[Almost Saturday Night]]"
+| —
+| 89
+| align="left"| ''Desire Road''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| rowspan="2"| 1994
+! scope="row"| "Hard Liquor, Cold Women, Warm Beer"
+| Studio Productions
+|-
+! scope="row"| "Bayou Girl"
+| Roger Pistole
+|-
+| 1995
+! scope="row"| "Alright"
+| Steve Boyle
+|-
+| 1997
+! scope="row"| "Almost Saturday Night"
+| Marius Penczner
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Woodruff, Bob}}
+[[Category:1961 births]]
+[[Category:Asylum Records artists]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from New York City]]
+[[Category:Imprint Records artists]]
+[[Category:Country musicians from New York (state)]]
+[[Category:Singer-songwriters from New York (state)]]
+
+
+{{US-country-singer-stub}}

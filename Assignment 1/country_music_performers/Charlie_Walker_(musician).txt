@@ -1,0 +1,403 @@
+{{Short description|American country singer-songwriter (1926–2008)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Charlie Walker
+| image           = Charlie Walker dpic ad 1967 10.jpg
+| caption         = Walker in a promotional drawing, 1967
+| image_size      =
+| birth_name      = Charles Levi Walker
+| alias           =
+| birth_date      = {{birth date|1926|11|02}}
+| birth_place     = [[Copeville, Texas]], U.S.
+| death_date      = {{Death date and age|2008|09|12|1926|11|02}}
+| death_place     = [[Hendersonville, Tennessee]], U.S.
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1952–1979
+| label           =
+| associated_acts = 
+}}
+
+'''Charles Levi Walker ''' (November 2, 1926 – September 12, 2008)<ref name='cmt.com/1594705'>{{cite web|url=http://www.cmt.com/news/news-in-brief/1594705/grand-ole-opry-member-charlie-walker-dies-at-age-81.jhtml|archive-url=https://web.archive.org/web/20080916032709/http://www.cmt.com/news/news-in-brief/1594705/grand-ole-opry-member-charlie-walker-dies-at-age-81.jhtml|url-status=dead|archive-date=September 16, 2008|title=Grand Ole Opry Member Charlie Walker Dies at Age 81|access-date=May 17, 2009|date=September 1, 2008|website=Cmt.com}}</ref> was an American country musician. His biggest success was with the song, "[[Pick Me Up on Your Way Down]]".
+
+He held membership in the [[Grand Ole Opry]] from 1967,<ref name="LarkinCountry"/> and was inducted into the Country Radio DJ Hall of Fame in 1981.<ref name="cmt">{{Cite web |url=http://www.cmt.com/artists/az/walker_charlie/bio.jhtml |title=CMT : Charlie Walker : Biography |access-date=September 13, 2008 |archive-date=October 19, 2012 |archive-url=https://web.archive.org/web/20121019234752/http://www.cmt.com/artists/az/walker_charlie/bio.jhtml |url-status=dead }}</ref>
+
+==Career==
+He was born in [[Copeville, Texas]], United States in 1926.<ref name="LarkinCountry">{{cite book| title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=432}}</ref> In 1943, Walker joined [[Bill Boyd (musician)|Bill Boyd]]'s Cowboy Ramblers, and during [[World War II]], he served as a disc jockey for the [[Armed Forces Radio Network]].<ref name="LarkinCountry"/>
+
+Walker worked as a disc jockey from 1951 until 1961 at [[KSLR|KMAC]] and then from 1961 up to 1963 at [[KKYX|KENS]] in [[San Antonio]], Texas, before signing with [[Decca Records]].<ref name="LarkinCountry"/> His first hit, "Only You, Only You" was co-written with Jack Newman and reached No.&nbsp;9 on the country chart in January 1956.<ref name="LarkinCountry"/> Walker later signed with [[Columbia Records]] and reached No.&nbsp;2 with a [[Harlan Howard]] song, "[[Pick Me Up on Your Way Down]]".<ref name="LarkinCountry"/> His other hits include "Who Will Buy the Wine", "Wild as a Wildcat", "Don't Squeeze My Sharmon", and "I Wouldn't Take Her To A Dogfight."<ref name="LarkinCountry"/> Many of his records featured harmony vocals by [[Ray Price (musician)|Ray Price]]. His more popular recordings were of [[honky-tonk]] numbers, such as "Close All the Honky Tonks", and "[[Honky Tonk Women]]".<ref name="LarkinCountry"/> Walker played a minor role in the 1985 [[Patsy Cline]] biographical film, ''[[Sweet Dreams (1985 film)|Sweet Dreams]]''.<ref name="cmt"/>
+
+Walker died of [[colon cancer]] in September 2008, at the age of 81 in [[Hendersonville, Tennessee]].<ref name="cmt"/><ref>{{Cite news|url=https://www.independent.co.uk/news/obituaries/charlie-walker-honky-tonk-singer-of-pick-me-up-on-your-way-down-942768.html|title=Charlie Walker: Honky-tonk singer of 'Pick Me Up On Your Way Down'|date=October 23, 2011|newspaper=[[The Independent]]|access-date=August 11, 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1961
+| ''Greatest Hits''
+| 
+| Columbia
+|-
+| 1965
+| ''Close All the Honky Tonks''
+| 
+| rowspan="5"| Epic
+|-
+| rowspan="2"| 1966
+| ''Born to Lose''
+| 
+|-
+| ''Wine, Women and Walker''
+| 
+|-
+| 1967
+| ''Don't Squeeze My Sharmon''
+| align="center"| 16
+|-
+| rowspan="2"| 1968
+| ''Greatest Hits''
+| 
+|-
+| ''Country Style''
+|
+| rowspan="1"| Vocalion
+|-
+| rowspan="2"| 1969
+| ''He Is My Everything''
+| 
+| rowspan="3"| Epic
+|-
+| ''Recorded Live in Dallas, Texas''
+| 
+|-
+| 1971
+| ''Honky Tonkin'''
+| 
+|-
+| 1972
+| ''I Don't Mind Goin' Under''
+| 
+| rowspan="2"| RCA Victor
+|-
+| 1973
+| ''Break Out the Bottle / Bring On the Music''
+| 
+|-
+| 1978
+| ''Golden Hits''
+| 
+| rowspan="2"| Plantation
+|-
+| 1979
+| ''Texas Gold''
+| 
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="3"| 1952
+| "I'm Looking for Another You"
+| 
+| 
+| rowspan="13"| singles only
+|-
+| "Flaming Jewels"
+| 
+| 
+|-
+| "Out of My Arms"
+| 
+| 
+|-
+| rowspan="2"| 1953
+| "Flock of Memories"
+| 
+| 
+|-
+| "Stay Away from My Heart"
+| 
+| 
+|-
+| rowspan="2"| 1954
+| "Tell Her Lies and Feed Her Candy"
+| 
+| 
+|-
+| "When You Know You Have Lost"
+| 
+| 
+|-
+| 1955
+| "Chocolate Song"
+| 
+| 
+|-
+| rowspan="2"| 1956
+| "Only You, Only You"
+| align="center"| 9
+| 
+|-
+| "Stand Still"
+| 
+| 
+|-
+| rowspan="3"| 1957
+| "Cheaters Never Win"
+| 
+| 
+|-
+| "Dancing Mexican Girl"
+| 
+| 
+|-
+| "Take My Hand"
+| 
+| 
+|-
+| 1958
+| "[[Pick Me Up on Your Way Down]]"
+| align="center"| 2
+| 
+| rowspan="6"| ''Greatest Hits''
+|-
+| rowspan="2"| 1959
+| "I'll Catch You When You Fall"
+| align="center"| 16
+| 
+|-
+| "When My Conscience Hurts the Most"
+| align="center"| 22
+| 
+|-
+| 1960
+| "Who Will Buy the Wine"
+| align="center"| 11
+| 
+|-
+| rowspan="3"| 1961
+| "Facing the Wall"
+| align="center"| 25
+| 
+|-
+| "Right Back at Your Door"
+| 
+| 
+|-
+| "Louisiana Belle"
+| 
+| 
+| rowspan="4"| singles only
+|-
+| rowspan="2"| 1962
+| "Life Goes On (I Wonder Why)"
+| 
+| 
+|-
+| "One in Every Crowd"
+| 
+| 
+|-
+| 1963
+| "That's Where Katie Waits"
+| 
+| 
+|-
+| 1964
+| "Close All the Honky Tonks"
+| align="center"| 17
+| 
+| rowspan="2"| ''Close All the Honky Tonks''
+|-
+| rowspan="2"| 1965
+| "[[Pick Me Up on Your Way Down]]"
+| 
+| 
+|-
+| "Wild as a Wildcat"
+| align="center"| 8
+| 
+| single only
+|-
+| rowspan="5"| 1966
+| "He's a Jolly Good Fellow"
+| align="center"| 39
+| 
+| rowspan="3"| ''Wine, Women and Walker''
+|-
+| "The Man in the Little White Suit"
+| align="center"| 37
+| 
+|-
+| "[[Little Old Wine Drinker Me|Little Old Wine Drinker]]"
+| 
+| 
+|-
+| "Daddy's Coming Home (Next Week)"
+| align="center"| 56
+| 
+| rowspan="3"| singles only
+|-
+| "I'm Gonna Hang Up My Gloves"
+| align="center"| 65
+| 
+|-
+| rowspan="3"| 1967
+| "The Town That Never Sleeps"
+| align="center"| 38
+| 
+|-
+| "Don't Squeeze My Sharmon"
+| align="center"| 8
+| 
+| rowspan="2"| ''Don't Squeeze My Sharmon''
+|-
+| "I Wouldn't Take Her to a Dogfight"
+| align="center"| 33
+| 
+|-
+| rowspan="2"| 1968
+| "Truck Drivin' Cat with Nine Wives"
+| align="center"| 54
+| 
+| rowspan="2"| singles only
+|-
+| "San Diego"
+| align="center"| 31
+| align="center"| 28
+|-
+| rowspan="2"| 1969
+| "Honky-Tonk Season"
+| align="center"| 52
+| 
+| rowspan="2"| ''Recorded Live in Dallas, Texas''
+|-
+| "Moffett, Oklahoma"
+| align="center"| 44
+| 
+|-
+| rowspan="3"| 1970
+| "Honky Tonk Women"
+| align="center"| 56
+| 
+| rowspan="4"| ''Honky Tonkin'''
+|-
+| "Let's Go Fishin' Boys (The Girls Are Bitin')"
+| align="center"| 52
+| 
+|-
+| "God Save the Queen (Of the Honky Tonks)"
+| 
+| 
+|-
+| rowspan="2"| 1971
+| "My Baby Used to Be That Way"
+| align="center"| 71
+| 
+|-
+| "Wild Women"
+| 
+| 
+| single only
+|-
+| 1972
+| "I Don't Mind Goin' Under (If It'll Get Me Over You)"
+| align="center"| 74
+| 
+| ''I Don't Mind Goin' Under''
+|-
+| rowspan="2"| 1973
+| "Soft Lips and Hard Liquor"
+| align="center"| 65
+| align="center"| 81
+| rowspan="2"| ''Break Out the Bottle / Bring On the Music''
+|-
+| "Gonna Drink Milwaukee Dry"
+| 
+| 
+|-
+| rowspan="2"| 1974
+| "Wanting My Women Again"
+| 
+| 
+| rowspan="8"| singles only
+|-
+| "Odds and Ends (Bits and Pieces)"
+| align="center"| 66
+| 
+|-
+| 1975
+| "Say You're Gone"
+| 
+| 
+|-
+| rowspan="2"| 1977
+| "Deep Water"
+| 
+| 
+|-
+| "I've Had a Beautiful Time"
+| 
+| 
+|-
+| rowspan="3"| 1978
+| "T for Texas"
+| 
+| 
+|-
+| "Red Skies Over Georgia"
+| 
+| 
+|-
+| "My Shoes Keep Walkin' Back to You"
+| 
+| 
+|-
+| 1979
+| "Don't Sing a Song About Texas"
+| 
+| 
+| ''Texas Gold''
+|}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+Pugh, Ronnie (1998). "Charlie Walker". In ''The Encyclopedia of Country Music''. Paul Kingsbury, Editor. New York: Oxford University Press. p.&nbsp;567. {{ISBN| 978-0195395631}}
+
+==External links==
+*[https://web.archive.org/web/20071012073109/http://opry.com/MeetTheOpry/Members.aspx?id=113 Charlie Walker's Grand Ole Opry member page]
+*{{Discogs artist|Charlie Walker (2)}}
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Walker, Charlie}}
+[[Category:1926 births]]
+[[Category:2008 deaths]]
+[[Category:People from Collin County, Texas]]
+[[Category:Grand Ole Opry members]]
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Deaths from colorectal cancer in the United States]]
+[[Category:Deaths from cancer in Tennessee]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:20th-century American male singers]]
+
+
+{{US-country-musician-stub}}

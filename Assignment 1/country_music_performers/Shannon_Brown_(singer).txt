@@ -1,0 +1,133 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name            = Shannon Brown
+| image           = Warm up act Shannon Brown (cropped).jpg
+| caption         = Brown in 2004
+| background      = solo_singer
+| birth_name      = Shannon Leigh Brown
+| birth_date      = {{Birth date and age|1973|7|23}}
+| birth_place     = [[Spirit Lake, Iowa]], U.S.
+| genre           = [[country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1997–present
+| label           = [[Arista Nashville]]<br />[[BNA Records|BNA]]<br />[[Warner Bros. Records|Warner Bros.]]
+| website         =
+}}
+'''Shannon Leigh Brown''' (born July 23, 1973) is an American [[country music]] singer from [[Spirit Lake, Iowa]]. Although she has recorded three albums on various labels, only one of these – 2006's ''[[Corn Fed (album)|Corn Fed]]'' — was released. In her career, she has charted four singles on the ''[[Billboard (magazine)|Billboard]]'' country charts, with her highest-charting single being a 2002 cover of [[Deborah Allen]]'s "Baby I Lied," at number 40. She also contributed the song "Half a Man" to the soundtrack for the 1998 film ''[[Happy, Texas (film)|Happy, Texas]]''.
+
+==Biography==
+
+After several years of touring the Midwest with her father running the soundboard and her mom running lights, Shannon decided to make the move to [[Nashville, Tennessee]]. She paid the bills singing songwriters' demo sessions and managed to maintain her touring schedule of 160 dates a year. Her vocal stylings and industrious approach did not go unnoticed. She is married to video director [[Shaun Silva]] who directed the video for "Corn Fed."
+
+==Career==
+Brown's first recording contract was with [[Arista Nashville]] in 1997. A year later, she began work on her debut album ''A Tour of My Heart''. Although the album's lead-off single (titled "I Won't Lie") entered the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts, ''A Tour of My Heart'' was ultimately unreleased. Brown also contributed the song "Half a Man" to the soundtrack of the film ''[[Happy, Texas (film)|Happy, Texas]]'' in 1998
+
+In late 2001, she left for the [[BNA Records|BNA]] label. While on BNA, she began work on a second album, from which two singles were released. The first of these, a song titled "Baby I Lied," was a cover of [[Deborah Allen]]'s Top 5 hit single from 1983. Brown's cover became her only Top 40 hit upon its release. A second single from her BNA album, titled "Untangle My Heart," also charted. Brown's second album also remained unreleased, however, and she exited BNA not long afterward.
+
+[[Warner Bros. Records]] signed Brown to her third recording contract in late 2005. That year, she made her fourth chart entry with the song "Corn Fed." Reaching a peak of 47 on the country music charts, it served as the lead-off single to her first album for Warner Bros., also titled ''[[Corn Fed (album)|Corn Fed]]''. Her third album overall, ''Corn Fed'' was also Brown's first album to be released commercially. The album was produced by [[John Rich (musician)|John Rich]], one half of country music duo [[Big & Rich]]. After its second single, "Pearls," failed to chart, Brown and Warner Bros. parted ways.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[Corn Fed (album)|Corn Fed]]''
+| 
+* Release date: February 28, 2006
+* Label: [[Warner Bros. Records]]
+| 34
+| 163
+| 6
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 1998
+! scope="row"| "I Won't Lie"{{efn|"I Won't Lie" also reached number 67 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.}}<ref>{{Cite news |date=October 23, 1998 |title=Going for Adds: Country |work=[[Radio & Records]] |page=69 |issue=1271}}</ref>
+| 58
+| align="left"| ''A Tour of My Heart'' <small>(unreleased)</small>
+|-
+| 1999
+! scope="row"| "Half a Man"
+| —
+| align="left"| ''[[Happy, Texas (film)|Happy, Texas]]'' <small>(soundtrack)</small>
+|-
+| 2001
+! scope="row"| "[[Baby I Lied]]"
+| 40
+| align="left" rowspan="2"| ''Untangle My Heart'' <small>(unreleased)</small>
+|-
+|2002
+! scope="row" | "Untangle My Heart"<ref>{{Cite news |date=February 15, 2002 |title=Going for Adds: Country |work=[[Radio & Records]] |page=33 |issue=1440}}</ref>
+| 58
+|-
+| 2005
+! scope="row"| "Corn Fed"
+| 47
+| align="left" rowspan="2"| ''Corn Fed''
+|-
+| 2006
+! scope="row"| "Pearls"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Title
+! Director
+|-
+| 1998
+! scope="row"| "I Won't Lie"
+| [[Steven Goldmann]]
+|-
+| 1999
+! scope="row"| "Half a Man"
+|
+|-
+| 2005
+! scope="row"| "Corn Fed"
+| [[Shaun Silva]]
+|}
+
+==Notes==
+{{notelist}}
+
+== External links ==
+{{commons category}}
+*{{AllMusic|class=artist|id=p355563|label=Shannon Brown}}
+
+== References ==
+{{DEFAULTSORT:Brown, Shannon}}
+[[Category:1973 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:BNA Records artists]]
+[[Category:Warner Records artists]]
+[[Category:Arista Nashville artists]]
+[[Category:People from Spirit Lake, Iowa]]
+[[Category:Country musicians from Iowa]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Singer-songwriters from Iowa]]
+
+<references />{{Authority control}}

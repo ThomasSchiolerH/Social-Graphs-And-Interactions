@@ -1,0 +1,39 @@
+{{short description|American singer-songwriter from Texas|bot=PearBOT 5}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name         = Roger Brown
+| image        =
+| caption      =
+| birth_name   = Roger Brown
+| birth_date   =
+| birth_place  = [[Texas]], USA
+| origin       = [[Menard, Texas]], US
+| instrument   = Vocals, guitar
+| genre        = [[country music|Country]]
+| occupation   = Singer-songwriter
+| years_active =
+| label        = Decca Records
+}}
+'''Roger Brown''' is an American singer-songwriter from [[Texas]].<ref name=auto1/>
+
+Born in Fort Worth and raised in central Texas, Roger Brown is the son of Texas ranchers. As a teenager, he began performing at local talent shows and dance halls. After graduating high school, he immersed himself in the thriving music scene in the area. This led to eventually being discovered by Monument Records’ Tex Davis and Wayland Stubblefield. Roger moved to Nashville in late 1982, and by 1985 had his first major recording, "Fool, Fool Heart", by [[Tanya Tucker]]. Since then, Roger has been a professional writer with a long list of recordings by artists as diverse as [[Barbra Streisand]], [[Tammy Wynette]], [[George Strait]], [[Trace Adkins]], [[Gary Allan]], [[Kenny Chesney]], [[John Michael Montgomery]], [[Randy Travis]], [[Rhonda Vincent]], [[Willie Nelson]], and [[Nanci Griffith]].<ref name=auto1>{{cite web|url=https://www.nashvillesongwriters.com/roger-brown|title=Roger Brown|work=Nashville Songwriters Association International|date=November 4, 2014 }}</ref> He was nominated for a Tony Award in 2002 for his two songs which were featured in the Broadway show [[Urban Cowboy (musical)|''Urban Cowboy – The Musical'']], and has had compositions featured on numerous gold & platinum albums, as well as major motion pictures such as "A Fire In The Sky" and "Red Rock West". In 1996, he was signed as an artist by Decca Records, and released the critically acclaimed mini-CD "[[Roger Brown & Swing City]]".  He was honored as the 2012 CCMA Songwriter of the Year for his hit "Is It Friday Yet" recorded by Canadian artist [[Gord Bamford]]. Roger's songs have been recorded by artists in multiple genres, including country, big band, jazz, Texas/Red Dirt, folk, and bluegrass.
+
+Brown continues to write songs and produce and is on the Legislative Committee of the [[Nashville Songwriters Association International]].<ref name=auto1/>
+
+==Albums==
+*''"[[Roger Brown & Swing City]] ''”[[Decca Records]] (Decca/MCA #55203), July 16, 1996.<ref name=all>{{cite web |url=https://www.allmusic.com/album/roger-brown-swing-city-mw0000185257 |title=Review: Roger Brown & Swing City |last=Owens |first=Thom|website=www.allmusic.com|access-date=31 August 2018}}</ref>
+*''"Five Dollars In Change"'' (Prairie Crooner Records), 2021<ref name="production">{{cite web|url=http://www.rogerbrownsongs.com/|title=Roger Brown|work=rogerbrownsongs.com}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Brown, Roger}}
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Canadian Country Music Association Songwriter(s) of the Year winners]]
+
+
+{{US-country-singer-stub}}

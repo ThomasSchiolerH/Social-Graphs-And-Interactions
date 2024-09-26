@@ -1,0 +1,122 @@
+{{short description|American country music singer-songwriter}}
+{{other people|Jim Collins}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Jim Collins
+| image           = Jim Collins singer-songwriter.jpg
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{Birth date and age|1956|06|19}}
+| origin          = [[Nacogdoches, Texas]], U.S.
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1985–present
+| label           = White Gold, TKM, [[Zoo Entertainment (record label)|Zoo]], [[Arista Nashville|Arista]]
+| associated_acts = [[Jason Aldean]], [[Kenny Chesney]], [[Tim McGraw]], [[George Strait]]
+| website         = 
+}}
+
+'''Jim Collins''' (born June 19, 1956) is an American [[country music]] singer-songwriter. Between 1985 and 1998, Collins released three studio albums. Seven of his singles reached ''[[Billboard (magazine)|Billboard]]''{{'s}} [[Hot Country Songs]] chart. The highest of these, "The Next Step," peaked at No.&nbsp;55 in 1997.<ref>{{Cite magazine|url=https://www.billboard.com/music/jim-collins/chart-history|title=Jim Collins|magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+
+As a songwriter, Collins has had 50 of his songs recorded by others, including singles performed by [[Kenny Chesney]] ("[[She Thinks My Tractor's Sexy]]", "[[The Good Stuff]]", "[[Everybody Wants to Go to Heaven]]"), [[Chad Brock]] ("[[Yes! (song)|Yes!]]"), [[Jason Aldean]] ("[[Big Green Tractor]]"), and [[Gretchen Wilson]] ("[[I Don't Feel Like Loving You Today]]") which was nominated for a Grammy Award for Best Country Song.<ref>[http://www.bmi.com/musicworld/entry/234134 BMI.com | Jim Collins]</ref> "The Good Stuff" was ''Billboard''{{'s}} Number One country single for seven weeks of 2002, and it won ASCAP song of the year.
+
+The Thompson Square recording of "Are You Gonna Kiss Me Or Not" was nominated for a Grammy Award for Best Country Song in 2011. In 2014, [[Easton Corbin]]'s performance of "Baby Be My Love Song" rose to number 3 in the US Country Airplay. In 2020, Collins was inducted into the Texas Heritage Songwriters Hall of Fame.<ref>[https://texasheritagesongwriters.com/inductee/jim-collins/   Texas Heritage Songwriters Hall of Fame]</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|-
+
+|-
+! scope="row"| ''The Next Step''
+| 
+* Release date: February 24, 1998
+* Label: [[Arista Nashville]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:26em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1985
+! scope="row"| "You Can Always Say Good-Bye in the Morning"<sup>A</sup>
+| 78
+| —
+| rowspan="5" {{n/a}}
+|-
+! scope="row"| "I Wanna Be a Cowboy 'Til I Die"<sup>A</sup>
+| 59
+| —
+|-
+! scope="row"| "What a Memory You'd Make"<sup>A</sup>
+| 75
+| —
+|-
+| rowspan="2"| 1986
+! scope="row"| "(Because of You) The Things I've Done to Me"<sup>A</sup>
+| 65
+| —
+|-
+! scope="row"| "Romance"<sup>A</sup>
+| 59
+| —
+|-
+
+|-
+| 1997
+! scope="row"| "The Next Step"
+| 55
+| 90
+| align="left" rowspan="2"| ''The Next Step''
+|-
+| 1998
+! scope="row"| "My First, Last, One and Only"
+| 73
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+*<sup>A</sup>Credited to Jimmy Collins.
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 1997
+! scope="row"| "The Next Step"<ref>{{cite news|title=Production Notes|url=https://books.google.com/books?id=5AkEAAAAMBAJ&q=%22jim%20collins%22%20%22next%20step%22%20%22steven%20goldmann%22&pg=PA75|access-date=November 18, 2011|newspaper=[[Billboard (magazine)|Billboard]]|date=November 29, 1997}}</ref>
+| [[Steven Goldmann]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AllMusic|class=artist|id=p291028}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Collins, Jim}}
+[[Category:1959 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Nacogdoches, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Arista Nashville artists]]
+[[Category:Country musicians from Texas]]

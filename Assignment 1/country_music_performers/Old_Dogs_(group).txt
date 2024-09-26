@@ -1,0 +1,139 @@
+{{Short description|American country music supergroup}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Old Dogs
+| image                 = The Old Dogs.jpg
+| image_size            = <!-- Only use for images smaller than 220 pixels -->
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], U.S.
+| genre               = [[Country music|Country]]
+| years_active        = 1998
+| label               = [[Atlantic Records|Atlantic Nashville]]
+| past_members        = [[Bobby Bare]]<br />[[Waylon Jennings]]<br />[[Jerry Reed]]<br />[[Mel Tillis]]
+}}
+
+{{Album ratings
+| rev1 = [[Allmusic]]
+| rev1score = {{Rating|4.5|5}} <ref>{{Allmusic|class=album|id=r382402}}</ref>
+}}
+
+'''Old Dogs''' was an American [[country music]] [[supergroup (music)|supergroup]] composed of singers [[Waylon Jennings]], [[Mel Tillis]], [[Bobby Bare]], and [[Jerry Reed]].<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p352588|pure_url=yes}} |title=The Old Dogs biography |access-date=2008-06-30 |last=Ankeny |first=Jason |work=[[Allmusic]]}}</ref> Signed in 1998 to [[Atlantic Records]], Old Dogs recorded a self-titled studio album for the label that year. The album's content was written primarily by author, poet, and songwriter [[Shel Silverstein]]. Most of the group's songs were based on the realization of [[aging]], after Bare told Silverstein that there were "no good songs about growing old."<ref name="allmusic"/> The album was recorded live in studio, so audience applause can be heard between the tracks. The two discs come in different cases, and has different album art for them. The album was also issued as a single disc. "Still Gonna Die" was released as a single from the project.<ref>{{cite magazine|date=April 17, 1999|title=Singles|magazine=Billboard|page=16|url=https://books.google.com/books?id=Pg0EAAAAMBAJ&q=%22old+dogs%22+%22still+gonna+die%22&pg=PA16}}</ref> The album was one of the last projects Silverstein completed in his lifetime; he died in May 1999, five months after the album was released.<ref name=nytobit>{{cite news |url=https://www.nytimes.com/1999/05/11/books/shel-silverstein-zany-writer-and-cartoonist-dies-at-67.html |title=Shel Silverstein, Zany Writer and Cartoonist, Dies at 67 |quote=Shel Silverstein, whose goofy, gross and macabre yet always enchanting poetry for children sold more than 14&nbsp;million books, was found dead yesterday morning at his home in Key West, Florida. He was 68. ... |work=[[The New York Times]] |date=May 11, 1999 |access-date=December 16, 2009 |page=B10 |author=William Holmes Honan}}</ref>
+
+==''Old Dogs'' (1998)==
+{{Infobox album
+| italic_title = no
+| name       = ''Old Dogs''
+| type       = studio
+| artist     = Old Dogs
+| cover      =
+| alt        =
+| caption    = 
+| released   = December 1, 1998
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Country music|Country]]
+| length     = 64:41 (dual-disc version)
+| label      = [[Atlantic Records|Atlantic]]
+| producer   = [[Bobby Bare]], Brien Fisher
+}}
+
+===Track listing===
+All songs written by Shel Silverstein; "She'd Rather Be Homeless", co-written by Anne Dailey.
+
+====Disc 1====
+# "Old Dogs" - 2:21
+# "Come Back When You're Younger" - 3:35
+# "I Don't Do It No More" - 3:41
+# "She'd Rather Be Homeless" - 3:59
+# "Cut the Mustard" - 3:25
+# "Young Man's Job" - 3:08
+# "When I Was" - 2:07
+# "Couch Potato" - 3:44
+# "Hard When It Ain't" - 2:41
+# "Jittabug" - 2:58
+# "Me and Jimmie Rodgers" - 4:56
+
+====Disc 2====
+# "Elvis Has Left the Building" - 2:55
+# "Wait Until Tomorrow" - 3:16
+# "I Never Expected" - 3:23
+# "Ever Lovin' Machine" - 3:12
+# "Slap My Face" - 2:30
+# "Old Man Blues" - 3:45
+# "Rough on the Livin'" - 2:53
+# "Alimony" - 3:33
+# "Still Gonna Die" - 3:45
+# "Time" - 3:34
+
+===Single-disc version===
+#"Old Dogs"
+#"I Don't Do It No More"
+#"She'd Rather Be Homeless"
+#"Cut the Mustard"
+#"Young Man's Job"
+#"Me and Jimmie Rodgers"
+#"Elvis Has Left the Building"
+#"Rough on the Livin'"
+#"Still Gonna Die"
+#"I Never Expected"
+#"Time"
+
+===Credits===
+* [[Waylon Jennings]] - [[Singing|Vocals]]
+* [[Mel Tillis]] - Vocals
+* [[Bobby Bare]] - Vocals
+* [[Jerry Reed]] - Vocals, Guitar
+* [[Pete Wade]] - [[Electric guitar]]
+* [[Thom Bresh]] - [[Guitar]]
+* Mike Leech - [[Bass guitar|Bass]]
+* Fred Newell - Guitar, [[Steel guitar]]
+* Bobby Emmons - [[Electronic keyboard]]
+* Jamey Whiting - Keyboard
+* [[Hargus "Pig" Robbins]] - [[Piano]]
+* Jay Vern - [[Organ (music)|Organ]]
+* Eddy Anderson - [[Drum kit|Drums]]
+* Michael Clarke - Drums
+* Jonathan Yudkin - [[Fiddle]]
+* Ron De La Vega - [[Cello]]
+* David L. Schnaufer - [[Jew's harp|Jew's Harp]]
+* Gary Kubal - [[Percussion instrument|Percussion]]
+* Robert Lovett - Bass, [[Dobro]]
+* [[Jessi Colter]] - Backing vocals
+* [[Shel Silverstein]] - Backing vocals
+* [[Bobby Bare Jr.]] - Backing vocals
+
+===Chart performance===
+{| class="wikitable"
+!Chart (1998)
+!Peak<br/>Position
+|-
+|align="left"|U.S. ''Billboard'' Top Country Albums
+|align="center"|61
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! Year
+! Single
+|-
+| 1999
+| "Still Gonna Die"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+
+* [http://www.meltillis.com/ Mel Tillis' Official Website]
+
+
+{{Authority control}}
+[[Category:American country music groups]]
+[[Category:Atlantic Records artists]]
+[[Category:American musical quartets]]
+[[Category:American supergroups]]
+[[Category:Musical groups established in 1998]]
+[[Category:Country music supergroups]]
+[[Category:Vocal quartets]]

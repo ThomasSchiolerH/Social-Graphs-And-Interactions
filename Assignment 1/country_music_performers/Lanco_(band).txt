@@ -1,0 +1,5 @@
+#REDIRECT [[LANCO (band)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

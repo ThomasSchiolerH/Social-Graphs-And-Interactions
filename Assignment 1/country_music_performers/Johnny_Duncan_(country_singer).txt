@@ -1,0 +1,404 @@
+{{Short description|American singer-songwriter (1938–2006)}}
+{{Distinguish|Johnny Duncan (bluegrass musician)}}
+{{Use mdy dates|date=December 2019}}
+{{More citations needed|date=June 2007}}
+{{Infobox musical artist
+|name            = Johnny Duncan
+|image           = Johnny Duncan (1971).png
+|caption         = Duncan in 1971
+|image_size      = 200px
+|background      = solo_singer
+|birth_name      = John Richard Duncan
+| birth_date     = {{birth date|1938|10|5}}
+|death_date      = {{death date and age|2006|08|14|1938|10|5}}
+|origin          = [[Dublin, Texas]], U.S.
+|instrument      = Vocals, guitar
+|genre           = [[Country music|Country]]
+|occupation      = Singer
+|years_active    = 1970–2006
+|label           = [[Columbia Records]]
+|associated_acts = [[Janie Fricke]], [http://www.johnnyduncanmusic.com Johnny Duncan Music]
+}}
+
+'''John Richard Duncan''' (October 5, 1938<ref name="LarkinCountry"/> – August 14, 2006)<ref name="AMG"/> was an American [[country music]] singer-songwriter, best known for a string of hits in the mid- to late 1970s. In his career, he released 14 studio albums, including thirteen on [[Columbia Records]]. These albums produced more than 30 chart singles, with three of those reaching number one: "[[Thinkin' of a Rendezvous]]", "[[It Couldn't Have Been Any Better]]", and "[[She Can Put Her Shoes Under my Bed (Anytime)]]" from 1976, 1977, and 1978, respectively. Seven more of his singles were top-10 hits.
+
+==Biography==
+Duncan was born in [[Dublin, Texas]], United States.<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=125/6}}</ref> Before he went to [[Nashville, Tennessee|Nashville]], Duncan attended [[Texas Christian University]] in [[Fort Worth, Texas]]. He then spent a few years in [[Clovis, New Mexico]].<ref name="LarkinCountry"/>
+
+===Early life and influences===
+Duncan's early life was steeped in West Texas music. He picked this up naturally as a boy listening to his mother play rhythm guitar in his uncle's country band. Later, he began sharpening his vocal skills, influenced by his early idols [[Eddy Arnold]], [[Perry Como]], [[Jim Reeves]], and [[Frank Sinatra]]. He was born into a musical family. He was proud of his talented cousins, including Eddie Seals, [[Jimmy Seals]] of [[Seals & Crofts]], and country singer [[Dan Seals]].<ref name="LarkinCountry"/> "He knew when he was 12 years old that playing music and singing songs was going to be his life", said his wife, Connie Duncan.<ref>{{cite news|url=http://www.dallasnews.com/sharedcontent/dws/dn/latestnews/stories/081606glduncanobit.24cdeed.html |title= Country singer Johnny Duncan dies |newspaper=[[The Dallas Morning News]] |date=August 15, 2006}}</ref>
+
+"He grew up here in a small country town and loved music", Jim Harrell said. "His mother played herself and a lot of his cousins played with him." (Jim Harrell, owner and funeral director of Harrell Funeral Home in Dublin, which handled arrangements for his funeral)
+
+After playing and singing with his musically gifted family for a few years, he auditioned demos in April 1959 for [[Norman Petty]] in Clovis.<ref name="LarkinCountry"/> Petty recognized his talent as a gifted songwriter, and Duncan was signed to Leader Records, a subsidiary of the Kapp Records label. After three US singles and one UK release between 1959 and 1962 saw little action, Duncan grew tired of the intent to market him as a pop vocalist, and he decided to pursue the country genre and moved to Nashville.
+
+Duncan wrote many songs recorded by artists such as [[Charley Pride]], [[Marty Robbins]], [[Chet Atkins]], [[Conway Twitty]], and [[Jim Ed Brown]].
+
+===Career===
+In [[Franklin, Tennessee]], Duncan worked as a DJ and performed on local morning TV shows.<ref name="LarkinCountry"/> He began to record for [[Columbia Records]] in the late 1960s.<ref name="LarkinCountry"/> Between 1967 and 1973, Duncan's recordings never reached the top 20 until "Sweet Country Woman" entered at number six.
+
+In the 1970s, Duncan performed duets with [[Janie Fricke]], many of which were successful. Their songs "Stranger" and "Thinking of a Rendezvous" (both 1976), "It Couldn't Have Been Any Better" (1977), and "Come A Little Bit Closer" (1978, a remake of the song first made popular by [[Jay and the Americans]]) were the most successful.<ref name="LarkinCountry"/> "Thinking of a Rendezvous" and "It Couldn't Have Been Any Better" both went to No. 1 on the ''[[Billboard magazine|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart, as did Duncan's solo 1978 single "She Can Put Her Shoes Under My Bed Anytime".<ref name="LarkinCountry"/>
+
+Duncan's string of top-10 hits continued into 1979 – most notably a cover of [[Johnny Rivers]]' "Swayin' to the Music" (released by Duncan as "Slow Dancing")<ref name="LarkinCountry"/> and "The Lady in the Blue Mercedes" – and he even enjoyed another top-20 hit with Fricke in 1980 with a duet version of [[Michael Jackson]]'s "[[She's Out of My Life]]". His star power faded in the early 1980s with changing musical tastes, although his biggest songs were popular on country radio through the late 1980s and early 1990s.
+
+===Personal life and death===
+Duncan died of a heart attack on August 14, 2006, at the age of 67. Duncan has three daughters: Angela, Lezlie and Lori with his first wife, Betty Deisher,<ref name="AMG">[{{AllMusic|class=artist|id=p1593/biography|pure_url=yes}} Johnny Duncan] at [[AllMusic]]</ref> and his son John “Ike” Duncan with wife Connie Duncan, who survived him.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart Positions
+! rowspan="2"| Label
+|-
+! width="50"| <small>[[Top Country Albums|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| 1968
+| ''Johnny One Time''
+| align="center"| 40
+| align="center"| —
+| rowspan="4"| Columbia
+|-
+| 1969
+| ''Back to Back'' <small>(w/ June Stearns)</small>
+| align="center"| —
+| align="center"| —
+|-
+| 1971
+| ''There's Something About a Lady''
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1973
+| ''Sweet Country Woman''
+| align="center"| 34
+| align="center"| —
+|-
+| ''You're Gonna Need a Man''
+| align="center"| —
+| align="center"| —
+| Harmony
+|-
+| rowspan="2"| 1977
+| ''Johnny Duncan''
+| align="center"| 21
+| align="center"| —
+| rowspan="8"| Columbia
+|-
+| ''Come a Little Bit Closer''
+| align="center"| 27
+| align="center"| —
+|-
+| 1978
+| ''The Best Is Yet to Come''
+| align="center"| 42
+| align="center"| 8
+|-
+| rowspan="2"| 1979
+| ''See You When the Sun Goes Down''
+| align="center"| —
+| align="center"| —
+|-
+| ''Straight from Texas''
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1980
+| ''In My Dreams''
+| align="center"| 61
+| align="center"| —
+|-
+| ''[[Nice 'n' Easy (Johnny Duncan and Janie Fricke album)|Nice 'n' Easy]]'' <small>(w/ [[Janie Fricke]])</small>
+| align="center"| —
+| align="center"| —
+|-
+| ''You're on My Mind''
+| align="center"| —
+| align="center"| —
+|-
+| 1986
+| ''Faraway Hideaway''
+| align="center"| —
+| align="center"| —
+| Pharaoh
+|-
+| 2005
+| ''The Thing To Do''
+| align="center"| —
+| align="center"| —
+| JRD Records
+|}
+
+===Compilation albums===
+{| class="wikitable"
+|-
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1976
+| ''The Best''
+| align="center"| 5
+| rowspan="3"| Columbia
+|-
+| 1978
+| ''Greatest Hits''
+| align="center"| 45
+|-
+| rowspan="2"| 1998
+| ''Pure Country''
+| align="center"| —
+|-
+| ''Classic Country''
+| align="center"| —
+| Simitar
+|-
+| 2003
+| ''It Couldn't Have Been Any Better''
+| align="center"| —
+| Collector's Choice
+|-
+| 2018
+| ''Thinkin' Of A Rendezvous ~ Columbia Country Hits 1969–1980''
+| align="center"| —
+| T-Bird Americana
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| 1967
+| "Hard Luck Joe"
+| align="center"| 54
+| align="center"| —
+| rowspan="3"| ''Johnny One Time''
+|-
+| rowspan="3"| 1968
+| "Baby Me Baby"
+| align="center"| 67
+| align="center"| —
+|-
+| "To My Sorrow"
+| align="center"| 47
+| align="center"| —
+|-
+| "Jackson Ain't a Very Big Town" <small>(w/ June Stearns)</small>
+| align="center"| 21
+| align="center"| —
+| ''Back to Back''
+|-
+| rowspan="3"| 1969
+| "I Live to Love You"
+| align="center"| 70
+| align="center"| —
+| Single only
+|-
+| "Back to Back (We're Strangers)" <small>(w/ June Stearns)</small>
+| align="center"| 74
+| align="center"| —
+| ''Back to Back''
+|-
+| "When She Touches Me"
+| align="center"| 30
+| align="center"| —
+| ''Johnny One Time''
+|-
+| rowspan="4"| 1970
+| "Window Number Five"
+| align="center"| 65
+| align="center"| —
+| ''You're Gonna Need a Man''
+|-
+| "You're Gonna Need a Man"
+| align="center"| 39
+| align="center"| —
+| rowspan="4"| ''There's Something About a Lady''
+|-
+| "My Woman's Love"
+| align="center"| 68
+| align="center"| —
+|-
+| "Let Me Go (Set Me Free)"
+| align="center"| 27
+| align="center"| 43
+|-
+| rowspan="3"| 1971
+| "There's Something About a Lady"
+| align="center"| 19
+| align="center"| —
+|-
+| "One Night of Love"
+| align="center"| 39
+| align="center"| —
+| ''Sweet Country Woman''
+|-
+| "Baby's Smile, Woman's Kiss"
+| align="center"| 12
+| align="center"| —
+| ''You're Gonna Need a Man''
+|-
+| rowspan="2"| 1972
+| "Fools"
+| align="center"| 19
+| align="center"| 16
+| ''Sweet Country Woman''
+|-
+| "[[Here We Go Again (Ray Charles song)|Here We Go Again]]"
+| align="center"| 66
+| align="center"| —
+| Single only
+|-
+| rowspan="2"| 1973
+| "Sweet Country Woman"
+| align="center"| 6
+| align="center"| 8
+| ''Sweet Country Woman''
+|-
+| "Talkin' with My Lady"
+| align="center"| 18
+| align="center"| 42
+| ''The Best''
+|-
+| rowspan="2"| 1974
+| "The Pillow"
+| align="center"| 47
+| align="center"| —
+| ''The Best Is Yet to Come''
+|-
+| "Scarlet Water"
+| align="center"| 66
+| align="center"| —
+| ''The Best''
+|-
+| rowspan="2"| 1975
+| "Charley Is My Name"
+| align="center"| 57
+| align="center"| —
+| ''Johnny Duncan''
+|-
+| "Jo and the Cowboy"
+| align="center"| 26
+| align="center"| 28
+| rowspan="3"| ''The Best''
+|-
+| rowspan="3"| 1976
+| "Gentle Fire"
+| align="center"| 86
+| align="center"| —
+|-
+| "Stranger"
+| align="center"| 4
+| align="center"| 13
+|-
+| "[[Thinkin' of a Rendezvous]]"
+| align="center"| 1
+| align="center"| 1
+| rowspan="2"| ''Johnny Duncan''
+|-
+| rowspan="3"| 1977
+| "[[It Couldn't Have Been Any Better]]"
+| align="center"| 1
+| align="center"| 1
+|-
+| "[[A Song in the Night (song)|A Song in the Night]]"<sup>A</sup>
+| align="center"| 5
+| align="center"| 5
+| rowspan="2"| ''Come a Little Bit Closer''
+|-
+| "[[Come a Little Bit Closer]]" <small>(w/ [[Janie Fricke]])</small>
+| align="center"| 4
+| align="center"| 2
+|-
+| rowspan="2"| 1978
+| "[[She Can Put Her Shoes Under My Bed (Anytime)]]"
+| align="center"| 1
+| align="center"| 1
+| rowspan="2"| ''The Best Is Yet to Come''
+|-
+| "Hello Mexico (And Adios Baby to You)"
+| align="center"| 4
+| align="center"| 7
+|-
+| rowspan="2"| 1979
+| "[[Swayin' to the Music (Slow Dancing)|Slow Dancing]]"
+| align="center"| 6
+| align="center"| 8
+| ''See You When the Sun Goes Down''
+|-
+| "The Lady in the Blue Mercedes"
+| align="center"| 9
+| align="center"| 21
+| rowspan="2"| ''Straight from Texas''
+|-
+| rowspan="4"| 1980
+| "Play Another Slow Song"
+| align="center"| 17
+| align="center"| 31
+|-
+| "I'm Gonna Love You Tonight (In My Dreams)"
+| align="center"| 17
+| align="center"| 48
+| ''In My Dreams''
+|-
+| "[[She's Out of My Life|He's Out of My Life]]" <small>(w/ Janie Fricke)</small>
+| align="center"| 17
+| align="center"| 20
+| ''Nice'n Easy''
+|-
+| "Acapulco"
+| align="center"| 16
+| align="center"| —
+| ''You're on My Mind''
+|-
+| 1981
+| "All Night Long"
+| align="center"| 40
+| align="center"| —
+| Single only
+|-
+| rowspan="2"| 1986
+| "The Look of a Lady in Love"
+| align="center"| 69
+| align="center"| —
+| rowspan="2"| ''Faraway Hideaway''
+|-
+| "Texas Moon"
+| align="center"| 81
+| align="center"| —
+|}
+*<sup>A</sup>"A Song in the Night" also peaked at No.&nbsp;5 on [[Bubbling Under Hot 100 Singles]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.johnnyduncanmusic.com Johnny Duncan Music]
+{{Johnny Duncan}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Duncan, Johnny}}
+[[Category:1938 births]]
+[[Category:2006 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Columbia Records artists]]
+[[Category:People from Dublin, Texas]]
+[[Category:Texas Christian University alumni]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:20th-century American male singers]]
