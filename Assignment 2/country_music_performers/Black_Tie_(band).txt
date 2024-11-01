@@ -1,0 +1,92 @@
+{{Infobox musical artist
+| name            = Black Tie
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = United States
+| genre           = [[Country rock]]
+| years_active    = 1985-2007
+| label           = Bench, Mastering Pro
+| past_members    = [[Jimmy Griffin]]<br />[[Randy Meisner]]<br />[[Billy Swan]]
+}}
+'''Black Tie''' was an American [[country rock]] [[supergroup (music)|supergroup]] formed by [[Jimmy Griffin]], [[Randy Meisner]], and [[Billy Swan]]. The group's first album, ''When the Night Falls'', was produced by [[Reggie Fisher]] and released on LP in 1985 by Bench Records (BR-001) and reissued on CD in 1990 (BRCD-101). For the CD release the band recorded new versions of two tracks from the LP, "Learning the Game", a cover of the [[Buddy Holly]] song, and "Chain Gang", a cover of the [[Sam Cooke]] song.<ref>{{cite book|last1=Searles|first1=Malcolm|title=Bread: A Sweet Surrender|date=2014|publisher=Helter Skelter|location=London, England|isbn=978-1-905139-32-3|page=215}}</ref> These tracks were released as a single, and "Learning the Game" reached #59 of the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.
+
+Griffin was formerly a member of the [[soft rock]] band [[Bread (band)|Bread]], and would later chart five country singles as one-third of [[The Remingtons]]. Meisner was formerly a member of [[Poco (band)|Poco]], [[Ricky Nelson]]'s Stone Canyon Band, and the [[Eagles (band)|Eagles]]. Swan had several country hits in the 1970s, including the number one country and pop hit "[[I Can Help]]".
+
+When Griffin left the group to form the Remingtons, the remaining members, Meisner and Swan, hooked up with Charlie Rich Jr., son and former bandleader for his famous [[Charlie Rich|father]], and began recording in 1992 under the name Meisner, Swan & Rich. Ten tracks were released on an eponymous CD in April 2000 in Japan{{Citation needed|date=April 2023}} (2001 by Varese in the US and 2002 by Rev-Ola in the UK). The same ten songs were reissued in 2006 and 2008 under the title, ''The Eagle, the Dove and the Gold'' on the Sonic Past Music label.
+
+In 2006, a 3-song EP was released as ''Black Tie Two'' with a version of the classic Christmas carol "Away in a Manger", which had been released to country radio as a Christmas single in the late 1980s. It also included the 1992 Meisner, Swan & Rich single "I'm Sure of You" and "Listen to the Radio".
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''When the Night Falls''
+| 
+* Release date: 1985
+* Label: Bench Records
+| 65
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Black Tie Two''
+| 
+* Release date: August 30, 2006
+* Label: Masteringpro
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1990
+! scope="row"| "Learning the Game"
+| 59
+| align="left" rowspan=2| ''When the Night Falls''
+|-
+| 1991
+! scope="row"| "[[Chain Gang (song)|Chain Gang]]"<ref>{{cite journal|date=February 23, 1991|title=INDIE FEATURE PICKS|journal=[[Cash Box]]|page=23|url=http://www.americanradiohistory.com/Archive-Cash-Box/90s/1991/CB-1991-02-23.pdf}}</ref>
+| —
+|-
+| 1992
+! scope="row"| "I'm Sure of You"
+| —
+| align="left"| Non-album single <small>(as Meisner, Swan & Rich)</small>
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p3694|pure_url=yes}} Black Tie] at [[allmusic]]
+
+{{Authority control}}
+
+[[Category:American country music groups]]
+[[Category:Country music supergroups]]
+[[Category:Vocal trios]]
+[[Category:Musical groups established in 1986]]
+
+
+{{US-country-band-stub}}

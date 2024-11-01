@@ -1,0 +1,147 @@
+{{Short description|American singer-songwriter (1949–2019)}}
+
+{{Infobox musical artist
+| name                = Russell Smith
+| image               = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = Howard Russell Smith
+| alias               = 
+| birth_date          = {{birth date|1949|06|17}}
+| birth_place         = [[Nashville, Tennessee]], U.S.
+| death_date          = {{death date and age|2019|7|12|1949|06|17}}
+| death_place         = [[Franklin, Tennessee]], U.S.
+| genre               = Country, rock
+| occupation          = Singer-songwriter
+| years_active        = 1972–2019
+| label               = {{hlist|[[Capitol Records|Capitol]]|[[Epic Records|Epic]]|Muscle Shoals}}
+| past_member_of      = {{hlist|[[The Amazing Rhythm Aces]]|[[Run C&W]]}}
+| website             = 
+}}
+
+'''Howard Russell Smith''' (June 17, 1949 – July 12, 2019) was an American singer and songwriter. He was the lead singer of the groups [[The Amazing Rhythm Aces]] and [[Run C&W]]. As a solo artist, he released four studio albums and charted five singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart between 1984 and 1989.
+
+==Early life and career==
+Smith was born in [[Nashville]] and grew up in [[Lafayette, Tennessee]].<ref name=rollingstone/> [[The Amazing Rhythm Aces]] were formed in 1972 with Smith as lead singer.<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=17}}</ref> The band recorded six studio albums for [[ABC Records]] before disbanding in 1981. In 1982, Smith signed with [[Capitol Records]] and released two albums for the label, ''Russell Smith'' (1982) and ''The Boy Next Door'' (1984). He later signed with [[Epic Records]] in 1988, where he released ''This Little Town'' in 1989. His highest-charting single, "I Wonder What She's Doing Tonight," peaked at number 37 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart in 1989.<ref name="Country Songs">{{cite magazine|url=https://www.billboard.com/artist/russell-smith/chart-history/csi|title=Russell Smith - Chart History (Hot Country Songs)|magazine=[[Billboard (magazine)|Billboard]]|access-date=March 27, 2022}}</ref> In 1993, Smith became the lead singer of [[Bluegrass music|bluegrass]] novelty group [[Run C&W]].<ref name=rollingstone/>
+
+Smith also found success as a songwriter, penning Number One songs for [[Randy Travis]] ("[[Look Heart, No Hands]]"), [[T. Graham Brown]] ("[[Don't Go to Strangers]]"), [[Don Williams]] ("[[Heartbeat in the Darkness]]"), and [[Ricky Van Shelton]] ("[[Keep It Between the Lines]]"). In addition, he wrote "[[Big Ole Brew]]" which became a No. 4 country hit for [[Mel McDaniel]] in 1982.
+
+[[The Amazing Rhythm Aces]] reunited in 1994 and continued to record and tour until Smith died on July 12, 2019, at age 70, following a cancer diagnosis.<ref name=rollingstone>{{cite magazine|url=https://www.rollingstone.com/music/music-country/russell-smith-amazing-rhythm-aces-dead-obituary-858738/|title=Russell Smith, Amazing Rhythm Aces Singer, Dead at 70|first1=Stephen L.|last1=Betts|magazine=[[Rolling Stone]]|date=July 14, 2019|access-date=May 12, 2020}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Album
+! Peak positions
+! rowspan="2"| Label
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/russell-smith/chart-history/clp|title=Russell Smith - Chart History (Top Country Albums)|magazine=[[Billboard (magazine)|Billboard]]|access-date=March 30, 2022}}</ref>
+|-
+| 1982
+! scope="row"| ''Russell Smith''
+| 62
+| rowspan="2"| Capitol
+|-
+| 1984
+! scope="row"| ''The Boy Next Door''
+| —
+|-
+| 1989
+! scope="row"| ''This Little Town''
+| —
+| Epic
+|-
+| 2001
+! scope="row"| ''Sunday Best: The Cream of the Solo Albums''
+| —
+| Raven
+|-
+| 2002
+! scope="row"| ''The End Is Not in Sight''
+| —
+| Muscle Shoals
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="50"| [[Hot Country Songs|US Country]]<br/><ref name="Country Songs"/>
+! width="50"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite magazine|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Russell+Smith&ChartEn=Country+Singles&|title=Russell Smith - Country Tracks|magazine=[[RPM (magazine)|RPM]]|access-date=March 30, 2022}}</ref>
+|-
+| rowspan="2"| 1982
+! scope="row"| "Your Eyes"<ref>{{cite journal|url=https://worldradiohistory.com/Archive-All-Music/Billboard/80s/1982/BB-1982-03-27.pdf|title=Top Single Picks|work=Billboard|date=March 27, 1982}}</ref>
+| —
+| —
+| rowspan="2"| ''Russell Smith''
+|-
+! scope="row"| "What I Learned from Loving You"<ref>{{cite journal|url=https://worldradiohistory.com/Archive-All-Music/Billboard/80s/1982/BB-1982-06-05.pdf|title=Top Single Picks|work=Billboard|date=June 5, 1982}}</ref>
+| —
+| —
+|-
+| 1984
+! scope="row"| "Where Did We Go Right"
+| 74
+| —
+| ''The Boy Next Door''
+|-
+| rowspan="2"| 1988
+! scope="row"| "Three Piece Suit"
+| 53
+| —
+| rowspan="2" {{n/a|Non-album singles}}
+|-
+! scope="row"| "Betty Jean"
+| 49
+| —
+|-
+| rowspan="2"| 1989
+! scope="row"| "I Wonder What She's Doing Tonight"
+| 37
+| —
+| rowspan="2"| ''This Little Town''
+|-
+! scope="row"| "Anger and Tears"
+| 61
+| 90
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+|-
+| rowspan="2"| 1989
+! scope="row"| "I Wonder What She's Doing Tonight"
+|-
+! scope="row"| "Anger and Tears"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p126528|pure_url=yes}} Russell Smith] at [[Allmusic]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smith, Russell}}
+[[Category:1949 births]]
+[[Category:2019 deaths]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Run C&W members]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]

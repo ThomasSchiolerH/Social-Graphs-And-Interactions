@@ -1,0 +1,201 @@
+{{Short description|American country music band}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = River Road
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Louisiana]], United States
+| genre               = [[country music|Country]]
+| years_active        = 1989–present
+| label               = [[Capitol Records|Capitol]]<br />[[Virgin Records|Virgin]]<br />Star
+| associated_acts     = [[Jeffrey Steele]]
+| current_members        = Tony Ardoin<br />Mike Burch<br />Steve Grisaffe<br />Charles Ventre
+| past_members =Eddie Bodin<br />Richard Comeaux
+}}
+'''River Road''' is an American [[country music]] band composed of Tony Ardoin ([[guitar]], vocals), Mike Burch ([[Drum kit|drums]], vocals), Richard Comeaux ([[steel guitar]]), Steve Grisaffe (lead vocals, [[bass guitar]]), and Charles Ventre ([[keyboard instrument|keyboards]], vocals).<ref>{{cite web|url=http://www.charlesventre.com/river-road.php |title=River Road |accessdate=2008-05-15 |work=Charles Ventre official website |url-status=dead |archiveurl=https://web.archive.org/web/20071008232907/http://www.charlesventre.com/river-road.php |archivedate=October 8, 2007 }}</ref> Founded in 1989, the band signed to [[Capitol Records]] Nashville in 1997, releasing their self-titled debut album that year and charting three singles on the ''[[Billboard (magazine)|Billboard]]'' country charts, including the top 40 hit "Nickajack". By 1998, River Road had transferred to [[Virgin Records]] Nashville, charting a fourth single and recording an unreleased album (''Somethin' in the Water''). Ventre and Grisaffe each began solo careers in the 2000s, but they reunited with Ardoin and Burch in 2011 to release a new extended play.
+
+==History==
+River Road was formed in 1989 in the state of [[Louisiana]] by lead singer and bass guitarist Steve Grisaffe, who had previously played in other bands in Louisiana. Completing the original roster were drummer Eddie Bodin<ref>{{cite web |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=AD&p_theme=ad&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB4775E11E5746D&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |title=Band Directory from A to Z |accessdate=2008-08-13 |date=1993-09-03 |work=The Advocate}}</ref> (later replaced by Mike Burch), guitarist/vocalist Tony Ardoin, steel guitarist Richard Comeaux, and keyboardist Charles Ventre. In 1991, the band placed second in a National [[Marlboro (cigarette)|Marlboro]] Country Music Contest, in addition to touring throughout their native Louisiana. Eventually, they were signed to [[Capitol Records Nashville|Capitol Nashville]]<ref name="baby">{{cite web |url=http://cdbaby.com/cd/grisaffe |title=Steve Grisaffe: Current status |accessdate=2007-12-12 |work=CDBaby.com}}</ref> after considering deals with [[Almo Sounds]] and [[Rising Tide Records]].<ref name="google">{{cite book|title=Behind Nashville: A True Story|author=Grisaffe, S.|date=2006|publisher=AuthorHouse|isbn=9781463482978|url=https://books.google.com/books?id=9FcKMiNuN5kC|page=71|accessdate=2015-04-13}}</ref>
+
+River Road's first album, also titled ''River Road'', was released in 1997. Overall, this album produced three chart singles on the [[Hot Country Songs]] charts: "I Broke It, I'll Fix It", "Nickajack" (which entered Top 40), and "Somebody Will". The album was co-produced by Scott Hendricks and [[Gary Nicholson (singer)|Gary Nicholson]]. ''Billboard'' gave "Nickajack" a positive review, saying that it was "crisp and radio-friendly" and "could be the single that helps set this new quintet apart."<ref>{{cite magazine|date=August 16, 1997|title=Single reviews|magazine=Billboard|page=62|url=https://books.google.com/books?id=2gkEAAAAMBAJ&q=%22river+road%22+%22nickajack%22+%22song%22&pg=PA62}}</ref>
+
+When [[Virgin Records]] opened its [[Nashville, Tennessee]], division in 1998, River Road was transferred to Virgin Nashville, becoming one of the first three acts signed to that division (the other two being singer [[Julie Reeves]] and prank caller [[Roy D. Mercer]]).<ref>{{cite web |url=http://www.cmt.com/artists/news/1476007/20030807/river_road.jhtml |archive-url=https://web.archive.org/web/20070930043902/http://www.cmt.com/artists/news/1476007/20030807/river_road.jhtml |url-status=dead |archive-date=September 30, 2007 |title=Virgin Announces First Artists |accessdate=2007-12-12 |date=1998-10-09 |work=CMT.com}}</ref> While on Virgin, the band began work on its second studio album (2000's ''Something in the Water''), with its lead-off single "Breathless" charting as well. Virgin Nashville was dissolved by the end of the year, and ''Somethin' in the Water'' was never released,<ref name="baby"/> although the title track would become a Top 40 hit for its writer, [[Jeffrey Steele]], when he recorded it a year later.
+
+By the end of the year, River Road had disbanded, with both Ventre and Grisaffe pursuing solo careers. Grisaffe released an album titled ''Current Status'' in 2001 on an independent label. Ardoin, Burch, Grisaffe, and Ventre reunited in 2011 to release an [[extended play]] on the Star Records label.<ref>{{cite web|url=http://www.cdbaby.com/cd/riverroad|title=River Road EP|work=CDBaby.com|accessdate=2011-04-01}}</ref>
+
+==''River Road'' (1997)==
+{{Infobox album
+| italic_title = no
+| name       = ''River Road''
+| type       = studio
+| artist     = River Road
+| cover      = Riverroadalbum.jpg
+| alt        =
+| released   = {{Start date|1997|06|13}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[country music|Country]]
+| length     = 33:13
+| label      = [[Capitol Records Nashville|Capitol Nashville]]
+| producer   = [[Scott Hendricks]]<br />[[Gary Nicholson (singer)|Gary Nicholson]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+===Track listing===
+
+{{Track listing
+| collapsed       =
+| headline        = 
+| total length    = 
+
+| title1          = Wishful Thinking
+| writer1         = [[Mike Henderson]], [[Wally Wilson]] 
+| length1         = 3:15
+
+| title2          = Somebody Will
+| writer2         = [[Walt Aldridge]], Brad Crisler, Steven Dale Jones 
+| length2         = 2:40
+
+| title3          = She Gets to Me
+| writer3         = [[J. Fred Knobloch]], [[Billy Kirsch]] 
+| length3         = 3:32
+
+| title4          = Nickajack 
+| writer4         = Steve Bogard, Matt Maher, Steve Curnutte 
+| length4         = 2:52
+
+| title5          = I Broke It, I'll Fix It
+| writer5         = [[Buzz Cason]], [[Byron Hill]] 
+| length5         = 3:30
+
+| title6          = Only Young Once
+| writer6         = [[Larry Boone]], Paul Nelson 
+| length6         = 2:51
+
+| title7          = Listen to Her Tears
+| writer7         = Terry Burns, Susan Longacre, Stephony Smith 
+| length7         = 4:12
+
+| title8          = Tears to the Tide
+| writer8         = Sarah Beth Hooker, [[Gary Burr]], [[Gary Nicholson (singer)|Gary Nicholson]] 
+| length8         = 3:51
+
+| title9          = A Day in the Life
+| writer9         = Nicholson, [[Craig Wiseman]] 
+| length9         = 2:55
+
+| title10         = As If You Didn't Know 
+| writer10        = [[Donnie Fritts]], Nicholson
+| length10        = 3:36
+}}
+
+===Personnel===
+As listed in liner notes.<ref>{{cite AV media notes |title=River Road |others=River Road |year=1997 |type=CD |publisher=Capitol Records Nashville |id=53052}}</ref>
+
+====River Road====
+*Tony Ardoin – [[electric guitar]], [[Backing vocalist|background vocals]]
+*Mike Burch – [[Drum kit|drums]], background vocals
+*Richard Comeaux – [[pedal steel guitar]]
+*Steve Grisaffe – [[bass guitar]], lead vocals
+*Charles Ventre – [[Keyboard instrument|keyboards]], background vocals
+
+====Additional musicians====
+*Bruce Bouton – [[lap steel guitar]]
+*[[J. T. Corenflos]] – electric guitar
+*[[Chad Cromwell]] – drums
+*Larry Franklin – [[fiddle]]
+*[[Paul Franklin (musician)|Paul Franklin]] – pedal steel guitar
+*[[Bob Glaub]] – bass guitar
+*[[Mike Henderson]] – electric guitar
+*[[Dann Huff]] – electric guitar
+*[[John Jorgenson]] – electric guitar, [[Steel-string acoustic guitar|acoustic guitar]], [[mandolin]]
+*Steve Nathan – [[piano]], [[Hammond organ]], [[string section|strings]]
+*Michael Spriggs – acoustic guitar
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1997
+! scope="row"| "I Broke It, I'll Fix It"
+| 48
+| 95
+| align="left" rowspan="3"| ''River Road''
+|-
+! scope="row"| "Nickajack"
+| 37
+| 27
+|-
+| 1998
+! scope="row"| "Somebody Will"
+| 51
+| 84
+|-
+| 2000
+! scope="row"| "Breathless"
+| 45
+| —
+| align="left" rowspan="2"| ''Somethin' in the Water'' <small>(unreleased)</small>
+|-
+| 2001
+! scope="row"| "'Til Now"
+| —
+| —
+|-
+| rowspan="2"| 2011
+! scope="row"| "Good Things"
+| —
+| —
+| align="left" rowspan="2"| ''River Road EP''
+|-
+! scope="row"| "Something I Can Wrap My Arms Around"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==Music videos==
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 1997
+! scope="row"| "I Broke It, I'll Fix It"<ref>{{cite web|url=http://www.cmt.com/videos/river-road/385213/i-broke-it-ill-fix-it.jhtml|archive-url=https://web.archive.org/web/20121024011403/http://www.cmt.com/videos/river-road/385213/i-broke-it-ill-fix-it.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : River Road : I Broke It, I'll Fix It|publisher=[[Country Music Television]]|accessdate=2011-08-05}}</ref>
+| Martin Kahan
+|-
+! scope="row"| "Nickajack"<ref>{{cite web|url=http://www.cmt.com/videos/river-road/385262/nickajack.jhtml|archive-url=https://web.archive.org/web/20121024011410/http://www.cmt.com/videos/river-road/385262/nickajack.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : River Road : Nickajack|publisher=[[Country Music Television]]|accessdate=2011-08-05}}</ref>
+| Michael Merriman
+|-
+| 2000
+! scope="row"| "Breathless"
+| Eric Welch
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.charlesventre.com Charles Ventre official website]
+*[http://www.riverroad.co River Road  official website]
+
+{{Authority control}}
+
+[[Category:Country music groups from Louisiana]]
+[[Category:Musical groups established in 1989]]
+[[Category:Capitol Records artists]]
+[[Category:Virgin Records artists]]

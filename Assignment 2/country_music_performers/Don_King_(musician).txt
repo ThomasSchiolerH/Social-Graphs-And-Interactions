@@ -1,0 +1,198 @@
+{{short description|American musician}}
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=April 2020}}
+{{Infobox musical artist
+| image        =
+| name         = Don King
+| image_size   =
+| birth_name   = Donald Alan King<ref>{{cite web |url=http://www.mystrands.com/artist/38803/biography |title=Don King biography |accessdate=February 28, 2008 |work=MyStrands.com }}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| alias        =
+| birth_date   = {{birth date and age|1954|5|4|mf=y}}<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p18683/biography|pure_url=yes}} |title=Don King biography |accessdate=February 28, 2008 |last=Brennan |first=Sandra |work=[[AllMusic]]}}</ref>
+| death_date   = <!--{{death date and age|1998|4|6|1942|5|5}} saved for format-->
+| origin       = [[Fremont, Nebraska]], U.S.
+| instrument   = Vocals, guitar, trumpet
+| genre        = [[Country music|Country]], [[Nashville Sound]]
+| occupation   = Singer-songwriter
+| years_active = 1976–1981
+| label        = [[Con Brio Records|Con Brio]], [[Epic Records|Epic]], Readio Theatre
+}}
+
+'''Donald Alan King''' (born May 4, 1954, in [[Fremont, Nebraska]]) is an American singer, songwriter, guitarist, and trumpeter. In the 1970s and 1980s, he recorded a total of four major label albums, and charted more than fifteen hit singles on the ''[[Billboard (magazine)|Billboard]]'' country music charts. He is not to be confused with Donny King, a [[Freddy Fender]] sideman who had several charting solo singles in 1975-76.
+
+==Early career==
+His first job was at a [[Quality Inn]] club in [[Nashville, Tennessee|Nashville]] in 1974, where he was able to make valuable connections.  He signed with [[Con Brio Records]] and in 1976 his song "Cabin High (In the Blue Ridge Mountains)" placed him on the charts.  In 1977 he reached the Top 20 with "I've Got You to Come Home To", after which he released his first album, ''Dreams 'n Things''.  His second album, ''Feelings So Right,'' (1978) yielded four Top 30 hits.  In 1979, the single "Lonely Hotel" reached the Top 40.  After two more hits in 1980 he began touring with well-known artists, such as [[Alabama (American band)|Alabama]], [[Reba McEntire]], [[John Anderson (musician)|John Anderson]], [[The Oak Ridge Boys]], [[Conway Twitty]], and [[Tammy Wynette]]. In 1981, he reached the Top 40 twice, first with his [[cover version|cover]] of [[Johnny Cash]]'s "[[I Still Miss Someone]]" and then with "[[The Closer You Get (song)|The Closer You Get]]."<!--verified as same song in Joel Whitburn book--> That same year he released his third album, ''Whirlwind''.
+
+Members of King's road band went on to become the country music group [[Sawyer Brown]].<ref>{{Cite web|url=https://www.allmusic.com/artist/sawyer-brown-mn0000837985/biography|title=Sawyer Brown &#124; Biography & History|website=AllMusic}}</ref>
+
+==Later years==
+By the end of 1981, he had launched the Don King Music Group, a recording studio, with his father. In 1985 they built a 24-track studio to record demos.  In 1992, they added a video production company. In late 2007, [[GMV Nashville]] released two albums on King, and in 2008 they released two more, many including unreleased tracks.
+
+Since 2007, Don King has been performing with The Road Crew 'America's Route 66 Band.' The Road Crew received the first Bobby Troup Artistic Achievement Award presented by the International Route 66 Association. The band are the official musical ambassadors of The Mother Road. The Road Crew bandmates are Woody Bomar, Jason Harmon and (songwriting partner) Joe Loesch.
+
+Don King was inducted into The Old Time Country Music Hall of Fame by The National Traditional Country Music Association in 2015. This distinction honors his years of advancing traditional country music throughout his touring and recording career.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|-
+!Year
+!Album
+!<small>[[Top Country Albums|US Country]]</small>
+!Label
+|-
+|1975
+|''Dreams 'n Things''
+|align=center|42
+|rowspan=2|Con Brio Records
+|-
+|1978
+|''The Feelings So Right''
+|align=center|—
+|-
+|1980
+|''Lonely Hotel''
+|align=center|—
+|rowspan=2|Epic
+|-
+|1981
+|''Whirlwind''
+|align=center|—
+|-
+|2006
+|''Hymns of Faith''
+|align=center|—
+|Radio Theatre
+|-
+|rowspan=2|2007
+|''Don King Collection Vol.1''
+|align=center|—
+|rowspan=4|[[GMV Nashville]]
+|-
+|''Don King Collection Vol.2''
+|align=center|—
+|-
+|rowspan=2|2008
+|''Thanks to You''
+|align=center|—
+|-
+|''Days of You and Me''
+|align=center|—
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+!Year
+!Single
+!<small>[[Hot Country Songs|US Country]]</small>
+!Album
+|-
+|1976
+|"Cabin High (In the Blue Ridge Mountains)"
+|align=center|78
+|rowspan=4|''Dreams and Things''
+|-
+|rowspan=3|1977
+|"I've Got You (To Come Home To)"
+|align=center|16
+|-
+|"She's the Girl of My Dreams"
+|align=center|17
+|-
+|"I Must Be Dreaming"
+|align=center|41
+|-
+|rowspan=3|1978
+|"Music Is My Woman"
+|align=center|29
+|rowspan=6|''The Feelings So Right''
+|-
+|"Don't Make No Promises (You Can't Keep)"
+|align=center|29
+|-
+|"The Feelings So Right Tonight"
+|align=center|26
+|-
+|rowspan=3|1979
+|"You Were Worth Waiting For"
+|align=center|28
+|-
+|"Live Entertainment"
+|align=center|39
+|-
+|"I've Got Country Music in My Soul"
+|align=center|73
+|-
+|rowspan=3|1980
+|"Lonely Hotel"
+|align=center|40
+|rowspan=3|''Lonely Hotel''
+|-
+|"Here Comes That Feeling Again"
+|align=center|32
+|-
+|"Take This Heart"
+|align=center|44
+|-
+|rowspan=2|1981
+|"[[I Still Miss Someone]]"
+|align=center|38
+|rowspan=3|''Whirlwind''
+|-
+|"[[The Closer You Get (song)|The Closer You Get]]"
+|align=center|27
+|-
+|rowspan=2|1982
+|"Running on Love"
+|align=center|40
+|-
+|"Maximum Security (To Minimum Wage)"
+|align=center|64
+|rowspan=3|singles only
+|-
+|1986
+|"All We Had Was One Another"
+|align=center|71
+|-
+|1988
+|"Can't Stop the Music"
+|align=center|86
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1981
+|[[Academy of Country Music Awards]]
+|[[Academy of Country Music Award for New Male Artist of the Year|Top New Male Vocalist]]
+|Don King
+|{{nom}}
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:King, Don}}
+[[Category:1954 births]]
+[[Category:American country guitarists]]
+[[Category:American male guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American trumpeters]]
+[[Category:American male trumpeters]]
+[[Category:Living people]]
+[[Category:People from Fremont, Nebraska]]
+[[Category:Guitarists from Nebraska]]
+[[Category:20th-century American guitarists]]
+[[Category:21st-century trumpeters]]
+[[Category:20th-century American male musicians]]
+[[Category:21st-century American male musicians]]
+[[Category:Epic Records artists]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from Nebraska]]

@@ -1,0 +1,113 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox musical artist
+| name            = Jameson Clark
+| image           =
+| alt             =
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_place     =
+| birth_date      = {{Birth year and age|1972}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=94|isbn=978-0-89820-177-2}}</ref>
+| origin          = [[Starr, South Carolina]]
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2001–present
+| label           = [[Capitol Records|Capitol]]
+| associated_acts = 
+}}
+
+'''Jameson Clark''' (born 1972 in [[Starr, South Carolina]]) is an American [[country music]] singer. Between 2001 and 2002, he recorded for [[Capitol Records]] and charted two singles: "Don't Play Any Love Songs" and "You da Man", in addition to releasing an album titled ''Workin' on a Groove''.<ref>{{cite web|url={{AllMusic|class=artist|id=p420589|pure_url=yes}}|title=Jameson Clark biography|last=MacNeil|first=Jason|publisher=[[AllMusic]]|accessdate=September 24, 2010}}</ref>
+
+Ray Waddell of ''[[Billboard (magazine)|Billboard]]'' magazine gave ''Workin' on a Groove'' a mostly-positive review, saying that Clark "is having himself a good ol' time".<ref>{{cite magazine|last=Waddell|first=Ray|date=November 2, 2002|title=Album reviews — ''Workin' on a Groove''|magazine=Billboard|url=https://books.google.com/books?id=NQ0EAAAAMBAJ&dq=%22jameson+clark%22+%22you+da+man%22&pg=PA19}}</ref> It also received a positive review from Matt Bjorke of [[About.com]], who compared Clark's sound to [[Dwight Yoakam]], [[Toby Keith]], and [[Hank Williams III]].<ref name="about">{{cite web|url=http://countrymusic.about.com/library/bljamesonclarkrev.htm|title=''Workin' on a Groove'' review|last=Bjorke|first=Matt|work=About.com|accessdate=September 24, 2010|archive-date=January 18, 2012|archive-url=https://web.archive.org/web/20120118095133/http://countrymusic.about.com/library/bljamesonclarkrev.htm|url-status=dead}}</ref>
+
+==''Workin' on a Groove'' (2002)==
+
+{{Infobox album
+| italic_title = no
+| name       = ''Workin' on a Groove''
+| type       = studio
+| artist     = Jameson Clark
+| cover      =
+| alt        =
+| released   = {{Start date|2002|10|08}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     =
+| label      = Capitol No.&nbsp;32301
+| producer   = Jameson Clark<br />Ron Stuve<Br />Christy DiNapoli<ref name="about"/>
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+===Track listing===
+#"Waitin' on the Whiskey" (Jameson Clark, [[Mark Irwin (songwriter)|Mark Irwin]]) – 2:32
+#"You da Man" (Clark, [[Craig Wiseman]]) – 3:47
+#"I'm Gonna Burn for This" (Clark, Irwin, [[Josh Kear]]) – 3:09
+#"All Afternoon" (Clark, Irwin, Kear) – 3:27
+#"I Want It All" (Clark, Irwin, Kear) – 4:03
+#"I Like Blondes" (Clark, [[Bob Regan]]) – 3:36
+#"Workin' on a Groove" (Clark, Irwin, Kear) – 3:41
+#"When I'm Done" (Clark, Irwin) – 4:01
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn" />
+|-
+| 2001
+! scope="row"| "Don't Play Any Love Songs"
+| 52
+| align="left" rowspan="2"| non-album songs
+|-
+| rowspan="2"| 2002
+! scope="row"| "Still Smokin'"
+| —
+|-
+! scope="row"| "You da Man"
+| 51
+| align="left"| ''Workin' on a Groove''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+|-
+| 2001
+! scope="row"| "Don't Play Any Love Songs"
+|-
+| 2002
+! scope="row"| "You da Man"
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clark, Jameson}}
+[[Category:1972 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Capitol Records artists]]
+[[Category:Living people]]
+[[Category:Country musicians from South Carolina]]
+[[Category:American male singer-songwriters]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American male singers]]
+
+
+{{US-country-singer-stub}}

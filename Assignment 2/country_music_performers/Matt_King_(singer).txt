@@ -1,0 +1,149 @@
+{{short description|American country singer-songwriter (born 1966)}}
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=March 2020}}
+{{Infobox musical artist
+|name            = Matt King
+|background      = solo_singer
+|image             = 
+|birth_name      = 
+|birth_date            = {{birth date and age|1966|9|28}}
+|origin          = [[Asheville, North Carolina]], United States
+|genre           = [[Country music|Country]]
+|occupation      = Singer-songwriter
+|instrument      = Vocals, guitar
+|years_active    = 1997–present
+|label           = [[Atlantic Records|Atlantic]]<br />[[Montage Music Group|Montage]]<br />Big Bicycle
+|associated_acts = 
+|website             = [http://mattking.com]
+}}
+
+'''Matt King''' (born September 28, 1966) is an American [[country music|country]] singer-songwriter. King was born and raised in [[Asheville, North Carolina]]. His mother, a real estate agent, played piano, and his father, a 2018 Inductee into the National Auctioneers Association Hall of Fame who held jobs as an auctioneer, [[masonry|mason]], and barber, played [[bluegrass music|bluegrass]] guitar.<ref name=amg>[{{AllMusic|class=artist|id=p94038/biography|pure_url=yes}} Matt King] at [[AllMusic]]</ref> Early in his career he was offered a position at [[Opryland USA]] after an audition. However, he was deep in debt at the time and had to turn down the offer because he could not afford to move. Some time later, in 1994, he relocated to [[Nashville, Tennessee|Nashville]], where he recorded demos and played locally. Producer [[Gary Morris]] heard him perform and got him an audition with [[Atlantic Records]], who signed him and released his debut in 1997. Soon after he performed at the [[Grand Ole Opry]] in a [[Johnny Russell (singer)|Johnny Russell]] tribute, with [[Earl Scruggs]], [[Roy Clark]], [[Ricky Skaggs]], and [[Vince Gill]].<ref name=amg/>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:24em;"| Album details
+|-
+! scope="row"| ''Five O'Clock Hero''
+| 
+* Release date: September 16, 1997
+* Label: [[Atlantic Records]]
+|-
+! scope="row"| ''Hard Country''
+| 
+* Release date: July 6, 1999
+* Label: Atlantic Records
+|-
+! scope="row"| ''Rube''
+| 
+* Release date: February 5, 2008
+* Label: [[Montage Music Group]]/Big Bicycle
+|-
+! scope="row"| ''Raw''
+| 
+* Release date: July 13, 2010
+* Label: Big Bicycle
+|-
+! scope="row"| ''Matt King and the Cutters''
+| 
+* Release date: July 13, 2010
+* Label: Big Bicycle
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1997
+! scope="row"| "A Woman Like You"
+| 54
+| 45
+| align="left" rowspan="4"| ''Five O'Clock Hero''
+|-
+! scope="row"| "I Wrote the Book"
+| 70
+| —
+|-
+| rowspan="2"| 1998
+! scope="row"| "A Woman's Tears"
+| 46
+| 83
+|-
+! scope="row"| "Five O'Clock Hero"
+| —
+| —
+|-
+| rowspan="2"| 1999
+! scope="row"| "From Your Knees"
+| 54
+| —
+| align="left" rowspan="2"| ''Hard Country''
+|-
+! scope="row"| "[[Rub It In]]"
+| 54
+| —
+|-
+| 2008
+! scope="row"| "Cursing the Ohio"
+| —
+| —
+| align="left"| ''Rube''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1997
+! scope="row"| "A Woman Like You"
+| Jim Hershleder
+|-
+| rowspan="2"| 1998
+! scope="row"| "A Woman's Tears"
+| Jim Gerik
+|-
+! scope="row"| "Five O'Clock Hero"
+| [[Steven Goldmann]]
+|-
+| 2008
+! scope="row"| "Cursing the Ohio"
+| Traci Goudie
+|-
+| 2010
+! scope="row"| "Graveyard Shift"
+| Jose Jones
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Discogs artist|Matt King (5)}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:King, Matt}}
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from North Carolina]]
+[[Category:Living people]]
+[[Category:1966 births]]
+[[Category:Atlantic Records artists]]
+[[Category:Montage Music Group artists]]
+[[Category:Country musicians from North Carolina]]

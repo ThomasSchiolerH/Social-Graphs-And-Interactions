@@ -1,0 +1,67 @@
+{{Short description|American singer-songwriter (1934–1979)}}
+{{for|the country singer|Ray Smith (country singer)}}
+{{Use mdy dates|date=May 2014}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| image = RaySmith.jpg
+| caption = 
+| name = Ray Smith
+| background = solo_singer
+| birth_place  = [[Melber, Kentucky|Melber]], Kentucky, United States
+| birth_date   = October 30, 1934
+| death_place  = [[Ontario]], Canada<ref>{{cite web | url=https://www.discogs.com/artist/135399-Ray-Smith | title=Ray Smith | publisher=Discogs | accessdate=20 October 2019}}</ref>
+| death_date =  {{death date and age|mf=yes|1979|11|29|1934|10|30}}
+| genre = [[Rock and roll]], [[rockabilly]], [[Rhythm and blues|R&B]], [[Country music|country]]
+| occupation = Singer, songwriter, musician   
+| instrument = Vocals, piano, guitar
+| years_active = 1956–1979
+| label = [[Sun Records]]<br> [[Judd Records]]<br> [[Vee-Jay Records]]<br> [[Tollie Records]]<br>[[Smash Records]]<br>[[Boot Records]]<br>Various [[independent record label]]s
+| associated_acts = Ray Smith and the Country Boys (1956) 
+| website = [http://www.rockabillyhall.com/RaySmith.html Ray Smith's Rockabilly Hall of Fame page]
+}}
+
+'''Ray Smith''' (October 30, 1934 – November 29, 1979)<ref>{{cite web|url=http://www.rockabillyhall.com/SRAB.html#raysmith |title=Rockabilly Hall of Fame|publisher=Rockabillyhall.com |date= |accessdate=2015-08-18}}</ref> was an American [[rockabilly]] musician.
+
+==Career==
+Smith recorded for [[Vee-Jay Records]], [[Tollie Records]], [[Smash Records]], [[Sun Records]] and [[Boot Records]] during his career, and had a hit with the song "Rockin' Little Angel" in 1960 on [[Judd Records]].<ref name=amg>{{cite web|author=Greg Adams |url=http://www.allmusic.com/album/shake-around-mw0000181245 |title=Shake Around - Ray Smith &#124; Songs, Reviews, Credits, Awards |publisher=[[AllMusic]] |date= |accessdate=2015-08-18}}</ref> "Rockin' Little Angel" took a portion of its melody from the 1844 song "[[Buffalo Gals]]".<ref name=whitburn>[[Joel Whitburn]], ''The Billboard Book of Top 40 Hits''. 7th edn, 2000</ref> The [[gramophone record|record]] sold over one million copies, earning a [[music recording sales certification|gold disc]].<ref name="The Book of Golden Discs">{{cite book
+| first= Joseph
+| last= Murrells
+| year= 1978
+| title= The Book of Golden Discs
+| edition= 2nd
+| publisher= Barrie and Jenkins
+| location= London
+| page= [https://archive.org/details/bookofgoldendisc00murr/page/129 129]
+| isbn= 0-214-20512-6
+| url-access= registration
+| url= https://archive.org/details/bookofgoldendisc00murr/page/129
+}}</ref> It reached #22 on the [[Billboard Hot 100]].<ref>{{Cite magazine |last=tolsen |date=2013-01-02 |title=Billboard Hot 100 |url=https://www.billboard.com/charts/hot-100/1960-02-22/|access-date=2023-04-21 |magazine=Billboard |language=en-US}}</ref> Smith often recorded material written by [[Charlie Rich]], and was influenced by [[Elvis Presley]].<ref name=amg/> Smith gave a concert at "Karregat" Hall in Eindhoven on April 21, 1979. It is recorded on an album called ''The Rocking Side'' and released by a Dutch label (Rockhouse, LP 7909).
+
+==Death==
+Smith committed suicide on November 29, 1979, at the age of 45.<ref name=whitburn/>
+Smith's Judd and Sun singles and session material have been released on Germany's [[Bear Family Records]].
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smith, Ray}}
+[[Category:1934 births]]
+[[Category:1979 suicides]]
+[[Category:1979 deaths]]
+[[Category:Vee-Jay Records artists]]
+[[Category:Sun Records artists]]
+[[Category:Charly Records artists]]
+[[Category:Smash Records artists]]
+[[Category:American rockabilly musicians]]
+[[Category:American rock musicians]]
+[[Category:American rock singers]]
+[[Category:American male singer-songwriters]]
+[[Category:American bandleaders]]
+[[Category:Rock musicians from Kentucky]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Kentucky]]
+[[Category:Country musicians from Kentucky]]
+[[Category:20th-century American male singers]]
+[[Category:Suicides in Ontario]]

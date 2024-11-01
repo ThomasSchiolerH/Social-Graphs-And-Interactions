@@ -1,0 +1,42 @@
+{{Infobox musical artist
+| name            = Truck Stop
+| image           = File:13-07-13 Truck Stop 01.JPG
+| caption         = Truck Stop at the International Truck Grand Prix Country Festival 2013, Nürburgring, Germany
+| image_size      = <!-- Only for images narrower than 220 pixels -->
+| landscape       =
+| alias           =
+| origin          = Germany
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      =
+| years_active    = 1973–present
+| label           =
+| associated_acts =
+| website         = http://truck-stop.de
+| current_members = Teddy Ibing<br />Uwe Lost<br />Knut Bewersdorff<br />Chris Kaufmann<br />Andreas Cisek<br />Tim Reese
+| past_members    = Rainer Bach<br />Cisco Berndt<br />Lucius Reichling<br />Erich Doll<br />Eckart Hofmann<br />Rudolf Steinmetz<br />Dirk Schlag
+}}
+
+'''Truck Stop''' is a previously best-selling German [[country music|country]] band from [[Seevetal]]-[[Maschen]], [[Harburg (district)|Harburg]], south of [[Hamburg]], that has been performing for over 40 years.
+
+== History ==
+[[File:13-07-13 Truck Stop Andreas Cisek 07.jpg|thumb|right|250px|Andreas Cisek of Truck Stop at the International Truck Grand Prix Country Festival 2013, Nürburgring, Germany]]
+Originally singing in English, the band converted to [[German language|German]] in 1977 with its album ''Zuhause (Home)'', which sold 150,000 copies.  From this album, the single "Die Frau mit dem Gurt" reached number 27 on the German hit parade. Another song on the album, "Ich möchte so gern Dave Dudley hör’n" ("I Would Like So Much to Hear [[Dave Dudley]]"), reached number nine on the German single hit parade in April 1978. The band earned number one placement with the singles "Der wilde, wilde Westen" and "Old Texas Town" in 1980 and 1981.<ref name="Country.de das online magazin">{{cite web | url=http://www.country.de/2008/10/30/truck-stop/ | title=Truck Stop (Biografie), Stefan Leibeling  | date=October 30, 2008 | accessdate=July 21, 2013}}</ref>
+
+In their 50 year tenure, the band have released 40 albums plus anniversary compilations, and dozens of singles.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons|Category:Truck Stop|Truck Stop}}
+* [http://www.truck-stop.de Official website in German]
+* [http://www.country.de/2008/10/30/truck-stop Umfangreiche Biografie der Bandmitglieder] auf country.de
+
+{{Authority control}}
+
+{{DEFAULTSORT:Truck Stop}}
+[[Category:German country music groups]]
+
+
+{{Germany-band-stub}}

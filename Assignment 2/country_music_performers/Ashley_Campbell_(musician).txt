@@ -1,0 +1,5 @@
+#REDIRECT [[Ashley Campbell (singer)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

@@ -1,0 +1,165 @@
+{{Short description|American country music band}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Wild Rose
+| image               = Wild Rose promo photo.png
+| caption             = 
+| image_size          = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], United States
+| genre               = [[country music|Country]]
+| years_active        = 1988–1991
+| label               = [[Universal Records (1988 record label)|Universal]], [[Capitol Records|Capitol]], [[Liberty Records|Liberty]]
+| past_members        = Pamela Gadd<br />Kathy Mac<br />Pam Perry<br />Nancy Given<br />Wanda Vick
+}}
+'''Wild Rose''' was an American [[country music]] band founded in 1988 by five women: Pamela Gadd ([[lead vocals|lead]] and [[Backing vocalist|background vocals]], [[banjo]]), Kathy Mac ([[bass guitar]], vocals), Pam Perry (lead and harmony vocals, [[guitar]], [[mandolin]]), Nancy Given ([[Drum kit|drums]], vocals), and Wanda Vick (guitar, mandolin, [[fiddle]], [[Dobro]], [[steel guitar]]). Between 1988 and 1991, they recorded three studio albums, including two on [[Liberty Records]]. In that same time span, they charted three singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. Since their disbanding in 1991, Wanda Vick has worked as a session musician.  Gadd has continued to write and perform in the music industry, and was featured as part of country music legend Porter Wagoner's band until his death in 2007.  Gadd and Wagoner recorded an album of duets together.<ref>{{cite web|url=http://www.teeveerecords.com/adrepowapamg.html |title=Porter Wagoner & Pam Gadd - 22 Country & Gospel Duets 2 CDs! |publisher=Teeveerecords.com |date= |accessdate=2012-03-25}}</ref>
+
+==Biography==
+Wild Rose was founded in 1988 by Wanda Vick, who had previously been a session musician for country music artist [[Lynn Anderson]], and later a member of [[Porter Wagoner]]'s road band Right Combination.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p1873|pure_url=yes}} |title=Wild Rose biography |accessdate=2007-09-15 |last=Brennan |first=Sandra |work=[[Allmusic]]}}</ref> The group's co-founder, drummer Nancy Given, was also a former member of Right Combination. (Her then-husband was Brian Prout of [[Diamond Rio]].<ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Diamond-Rio.html |title=Diamond Rio biography |accessdate=2007-08-12 |work=oldies.com}}</ref>) Prout was followed by vocalist/[[banjo]] player Pamela Gadd and vocalist/guitarist Pam Perry, both formerly members of the [[bluegrass music|bluegrass]] band New [[Coon Creek Girls]].<ref name="allmusic"/> Completing the band's lineup was bass guitarist Kathy Mac.
+
+Initially, the five women performed under the name Miss Behavin'. However, they changed to the name Wild Rose shortly before signing to [[Jimmy Bowen]]'s [[Universal Records (1988 record label)|Universal]]. Under the production of [[James Stroud]], Wild Rose's debut album (titled ''Breakin' New Ground'') was released in 1988. The album produced one hit single in its title track, which peaked at number 15 on the ''[[Billboard (magazine)|Billboard]]'' country charts. Universal closed not long afterwards.<ref name="allmusic"/>
+
+Wild Rose later made an appearance on a television special titled ''Night of 100 Stars'' in 1990. Later that year, [[Capitol Records]] re-issued the band's debut album, and released a second single from it.<ref name="allmusic"/> The re-issued album earned [[Grammy Award]] and [[Academy of Country Music]] nominations for the band.<ref>{{cite web |url=http://www.bronsonsmusic.com/wanda_vick.html |title=Bronson's Music - NMG Musicians Spotlight - Wanda Vick |accessdate=2007-09-15 |last=Herrmuth |first=Bronson |work=BronsonMusic.com}}</ref> Wild Rose later issued another album for Liberty before disbanding in 1991.<ref name="allmusic"/>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+!| Peak positions
+|- style="font-size:smaller;"
+! style="width:60px;"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''[[Breaking New Ground (Wild Rose album)|Breaking New Ground]]''
+| 
+* Release date: March 27, 1990
+* Label: [[Capitol Records]]
+| 44
+|-
+! scope="row"| ''Straight and Narrow''
+| 
+* Release date: September 17, 1990
+* Label: Capitol Records
+| —
+|-
+! scope="row"| ''Listen to Your Heart''
+| 
+* Release date: September 10, 1991
+* Label: Capitol Records
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/music/wild-rose|title=Wild Rose - Chart History|magazine=[[Billboard (magazine)|Billboard]]|accessdate=January 29, 2018}}</ref>
+! style="width:45px;"| [[RPM (magazine)|CAN Country]]
+|-
+| 1989
+! scope="row"| "[[Breaking New Ground (song)|Breaking New Ground]]"
+| 15
+| 42
+| style="text-align:left;" rowspan="3"| ''Breaking New Ground''
+|-
+| rowspan="3"|1990
+! scope="row"| "Go Down Swingin'"
+| 38
+| 33
+|-
+! scope="row"| "Where Did We Go Wrong"
+| —<sup>A</sup>
+| 90
+|-
+! scope="row"| "Everything He Touches (Turns to Gold)"
+| —
+| —
+| style="text-align:left;" rowspan="3"| ''Straight and Narrow''
+|-
+| rowspan="4"| 1991
+! scope="row"| "Rock-a-Bye Heart"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1991/BB-1991-01-26.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=January 26, 1991}}</ref>
+| —
+| —
+|-
+! scope="row"| "Straight and Narrow"
+| 73
+| —
+|-
+! scope="row"| "There Goes My Love"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1991/BB-1991-09-14.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=September 14, 1991}}</ref>
+| —
+| —
+| style="text-align:left;" rowspan="2"| ''Listen to Your Heart''
+|-
+! scope="row"| "Listen to Your Heart"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+'''Notes:'''
+*<sup>A</sup> "Where Did We Go Wrong" did not chart on Hot Country Songs, but peaked at No. 4 on Hot Country Radio Breakouts.<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-05-26.pdf|title=Hot Country Radio Breakouts|date=May 26, 1990|magazine=Billboard}}</ref>
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 1989
+! scope="row"| "Breaking New Ground"<ref>{{cite web|url=http://www.cmt.com/videos/wild-rose/384037/breaking-new-ground.jhtml|title=CMT : Videos : Wild Rose : Breaking New Ground|publisher=[[Country Music Television]]|accessdate=October 22, 2012}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Jim May
+|-
+| rowspan="2"| 1990
+! scope="row"| "Go Down Swingin'"
+| 
+|-
+! scope="row"| "Everything He Touches (Turns to Gold)"
+| rowspan="2"| Greg Crutcher
+|-
+| 1991
+! scope="row"| "Straight and Narrow"
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1990
+|[[Academy of Country Music Awards]]
+|Top New Vocal Group or Duet
+|Wild Rose
+|{{nom}}
+|-
+|1991
+|[[Grammy Awards]]
+|[[Grammy Award for Best Country Instrumental Performance|Best Country Instrumental Performance]]
+|"Wild Rose"
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:American all-female bands]]
+[[Category:Country music groups from Tennessee]]
+[[Category:Capitol Records artists]]
+[[Category:Musical groups established in 1988]]
+[[Category:Liberty Records artists]]
+[[Category:Musical groups disestablished in 1991]]
+[[Category:All-female country bands]]
+[[Category:Universal Records (1988) artists]]

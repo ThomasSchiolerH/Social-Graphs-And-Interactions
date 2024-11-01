@@ -1,0 +1,77 @@
+{{Infobox musical artist
+| name         = Bandana
+| image        = File:Bandana publicity photo.jpg
+| caption      = The original Bandana lineup signed to Warner Bros. Records. L to R: Jerry Ray Johnston, Tim Menzies, Lonnie Wilson, Jerry Fox, Joe Van Dyke.
+| image_size   =
+| origin       = U.S.
+| genre        = [[Country music|Country]]
+| years_active = 1982–1986
+| label        = [[Warner Bros. Records|Warner Bros. Nashville]]
+| past_members = Michael Black<br />Jerry Fox<br />Jerry Ray Johnston<br />Billy Kemp<br />[[Tim Mensy|Tim Menzies]]<br />Bob Mummert<br />Joe Van Dyke<br />[[Lonnie Wilson]]
+}}
+
+[[File:Bandana second personnel lineup.jpg|thumb|The 1986 personnel lineup: L to R: Bob Mummert, Lonnie Wilson, Jerry Fox, Billy Kemp, Michael Black.]]
+'''Bandana''' was an American [[country music]] band composed of Lonnie Wilson ([[lead vocals]]), Jerry Fox ([[bass guitar]]), [[Tim Mensy|Tim Menzies]] ([[guitar]]), Joe Van Dyke ([[keyboard instrument|keyboards]]), and Jerry Ray Johnston ([[Drum kit|drums]]).<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=39|isbn=978-0-89820-177-2}}<!--|accessdate=22 February 2010--></ref> After Menzies, Johnston and Van Dyke left, they were replaced with Michael Black and Billy Kemp on guitars, and Bob Mummert on drums. Between 1982 and 1986, they were signed to [[Warner Bros. Records]],<ref name="mensy">{{cite web |url=http://www.timmensy.com/bio2.html |title=Tim Mensy biography |accessdate=2008-08-22 |work=Tim Mensy.com |archiveurl=https://web.archive.org/web/20080905152050/http://www.timmensy.com/bio2.html |archivedate=5 September 2008 |url-status=dead }}</ref> on which they charted ten singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles (now [[Hot Country Songs]]) charts, including the top 20 hits "The Killin' Kind" and "Outside Lookin' In". The latter also appeared on a self-titled album.<ref>{{cite web|url=http://www.discogs.com/Bandana-Bandana/release/2273460|title=''Bandana''|work=[[Discogs]]|accessdate=4 July 2011}}</ref>
+
+After disbanding, Menzies assumed the name Tim Mensy. He began a solo career, and later wrote hit singles for other artists. In 2019 his country gospel music CD "His Name is Jesus" was nominated for a Grammy. <ref name="mensy"/> Wilson found work as a session drummer. Johnston's son, [[Jaren Johnston]], founded the [[Southern rock]] group [[American Bang]], which disbanded and re-established as [[The Cadillac Three]].<ref>{{Cite web |url=http://www.americansongwriter.com/2012/04/songwriter-u-nashville-songwriter-series-jaren-johnston/ |title=Nashville Songwriter Series: Jaren Johnston &#124; American Songwriter |access-date=2014-03-12 |archive-url=https://web.archive.org/web/20150121083614/http://www.americansongwriter.com/2012/04/songwriter-u-nashville-songwriter-series-jaren-johnston/ |archive-date=2015-01-21 |url-status=dead }}</ref> Jerry Ray Johnston died on January 9, 2022.<ref>{{Cite web |date=2022-01-18 |title=Former Grand Ole Opry Drummer Jerry Ray Johnston Passes |url=https://musicrow.com/2022/01/former-grand-ole-opry-drummer-jerry-ray-johnston-passes/ |access-date=2022-07-11 |website=MusicRow.com |language=en-US}}</ref>
+
+==Discography==
+===Singles===
+{| class="wikitable"
+|-
+! style="width:auto;"|Year
+! style="width:auto;"|Title
+! style="width:auto;"|<small>[[Hot Country Songs|US Country]]</small><ref name="whitburn"/>
+! style="width:auto;"|Album
+|-
+|rowspan=3|1982
+|"Guilty Eyes"
+| style="text-align:center;"|37
+|rowspan=4|single only
+|-
+|"Cheatin' State of Mind"
+| style="text-align:center;"|61
+|-
+|"The Killin' Kind"
+| style="text-align:center;"|17
+|-
+|rowspan=2|1983
+|"I Can't Get over You (Getting over Me)"
+| style="text-align:center;"|29
+|-
+|"Outside Lookin' In"
+| style="text-align:center;"|18
+|rowspan=2|''Bandana''
+|-
+|rowspan=2|1984
+|"Better Our Hearts Should Bend (Than Break)"
+| style="text-align:center;"|26
+|-
+|"All I Wanna Do (Is Make Love to You)"
+| style="text-align:center;"|52
+|single only
+|-
+|rowspan=2|1985
+|"It's Just Another Heartache"
+| style="text-align:center;"|46
+|rowspan=2|''Bandana''
+|-
+|"Lovin' Up a Storm"
+| style="text-align:center;"|37
+|-
+|1986
+|"Touch Me"
+| style="text-align:center;"|54
+|single only
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:Warner Records artists]]
+
+
+{{US-country-band-stub}}

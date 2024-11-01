@@ -1,0 +1,152 @@
+{{Short description|American country music group}}
+{{More citations needed|date=December 2010}}
+{{Infobox musical artist
+| name            = Canyon
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Dallas]], [[Texas]], [[United States|USA]]
+| genre           = [[Country music|Country]]
+| years_active    = 1981–1991
+| label           = [[16th Avenue Records|16th Avenue]]
+| associated_acts = [[Lonestar]]
+| website         =
+| current_members =
+| past_members    = Steve Cooper<br />Johnny Boatright<br />Jay Brown<br />Randy Rigney<br />Randy Smith<br />Keech Rainwater<br />Michael Britt
+}}
+'''Canyon''' was an American [[country music]] group composed of Steve Cooper (vocals, guitar), Johnny Boatright (guitar), Jay Brown (keyboards), Randy Rigney (bass) and Keech Rainwater (drums), who replaced Randy Smith, their original drummer. Between 1988 and 1989, the band released two studio albums on 16th Avenue. They also charted nine songs on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart, including the Top 40 single "Hot Nights". Canyon got their big break on the show ''[[Star Search]]'' with [[Ed McMahon]], where they were the runner up to Sawyer Brown in 1983 for Vocal Band.
+
+They were nominated in 1991 at the [[Academy of Country Music]] for Top New Vocal Duo or Group, along with [[Prairie Oyster]] and [[Pirates of the Mississippi]], but lost to the Pirates of the Mississippi. 
+
+After Canyon disbanded, Rainwater and Britt joined the group Texassee in 1992, who would later change their name to [[Lonestar]].
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1988
+| ''I Guess I Just Missed You''
+| align="center"| 51
+| rowspan="2"| 16th Avenue
+|-
+| 1989
+| ''Radio Romance''
+| align="center"| 61
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small><br /><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2005|publisher=Record Research, Inc|page=71|year=2005|isbn=0-89820-165-9}}</ref>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="4"| 1988
+| "Overdue"
+| align="center"| 59
+| align="center"| —
+| rowspan="4"| ''I Guess I Just Missed You''
+|-
+| "In the Middle of the Night"
+| align="center"| 54
+| align="center"| —
+|-
+| "I Guess I Just Missed You"
+| align="center"| 55
+| align="center"| —
+|-
+| "Love Is on the Line"
+| align="center"| 47
+| align="center"| —
+|-
+| rowspan="3"| 1989
+| "Right Track, Wrong Train"
+| align="center"| 44
+| align="center"| —
+| rowspan="4"| ''Radio Romance''
+|-
+| "Hot Nights"
+| align="center"| 40
+| align="center"| 68
+|-
+| "Radio Romance"
+| align="center"| 53
+| align="center"| —
+|-
+| rowspan="2"| 1990
+| "Carryin' On"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1990/BB-1990-02-24.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=79|date=February 24, 1990}}</ref>
+| align="center"| 74
+| align="center"| —
+|-
+| "Dam These Tears"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1990/BB-1990-11-03.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=83|date=November 3, 1990}}</ref>
+| align="center"| 71
+| align="center"| —
+| {{n/a}}
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 1988
+| "I Guess I Just Missed You"
+|
+|-
+| rowspan="3"| 1989
+| "Right Track, Wrong Train"
+|
+|-
+| "Hot Nights"
+|
+|-
+| "Radio Romance"
+| George Deaton
+|-
+| rowspan="2"| 1990
+| "Carrying On"
+|
+|-
+| "Dam These Tears"
+|
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1991
+|Academy of Country Music Awards
+|Top New Vocal Group or Duet
+|Canyon
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[{{Allmusic|class=artist|id=p16281|pure_url=yes}} Canyon] at [[AllMusic]]
+
+{{Authority control}}
+
+[[Category:Country music groups from Texas]]
+[[Category:Musical groups from Texas]]
+[[Category:16th Avenue Records artists]]
+
+
+{{US-country-band-stub}}

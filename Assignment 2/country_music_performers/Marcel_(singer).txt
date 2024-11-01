@@ -1,0 +1,257 @@
+{{short description|American singer}}
+{{Infobox musical artist
+| image            =
+| name             = Marcel
+| image_size       = 
+| background       = solo_singer
+| birth_name       = Marcel Francois Chagnon
+| birth_date       = {{birth date and age|1975|02|09}}<ref name="hockeydb">[http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=21981 Hockey statistics]</ref>
+| origin           = [[Grosse Pointe, Michigan]], United States<ref name="gac">{{cite web |url=http://www.gactv.com/gac/cda/article_print/0,3008,GAC_26071_5903534_DS-ARTICLE-WITH-GROUPS,00.html |title=Marcel biography |accessdate=2008-07-25 |work=[[Great American Country]] |archive-url=https://web.archive.org/web/20141006195448/http://www.gactv.com/gac/cda/article_print/0,3008,GAC_26071_5903534_DS-ARTICLE-WITH-GROUPS,00.html |archive-date=2014-10-06 |url-status=dead }}</ref>
+| instrument       = {{hlist|Vocals|Acoustic guitar|Harmonica}}
+| genre            = [[Country music|Country]]
+| occupation       = {{hlist|Singer|Songwriter|Music video director}}
+| years_active     = 2003-present
+| label            = {{hlist|[[Mercury Nashville]]|[[Lyric Street Records|Lyric Street]]|Red Stripe Plane}}
+| spouse = {{Marriage|[[Jessica Andrews]]|2011}}
+}}
+'''Marcel Francois Chagnon''' (born February 9, 1975), known professionally as '''Marcel''', is an American [[country music]] singer, songwriter, and music video director. Signed to [[Mercury Nashville Records]] in 2003, he released his debut album ''You, Me, and the Windshield'' that year and charted on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts with the single "Country Rock Star". Five years later, he signed to [[Lyric Street Records]] and released the single "I Love This Song", which has also charted. In addition to his recording career, Marcel has directed several music videos, and has written charted singles for [[Josh Gracin]], [[Trace Adkins]], and [[Jessica Andrews]], to whom he is married.
+
+== Career ==
+Born in [[Grosse Pointe, Michigan]], Marcel was a [[semi-professional sports|semi-pro]] [[ice hockey|hockey]] player until signing with [[Mercury Nashville Records]] in 2002.<ref name="gac"/><ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p559061/biography|pure_url=yes}} |title=Marcel biography |accessdate=2008-07-25 |last=Kergan |first=Wade |work=[[Allmusic]]}}</ref> For four years prior to this, while waiting for an opportunity, he sang at clubs, bars, and waited tables for extra money.
+
+In 2003, he released his debut album ''[[You, Me and the Windshield]]''.<ref name="allmusic"/> The tracks "Country Rock Star" and "Tennessee" from this album were released as singles. After this he returned to writing songs for other artists.
+
+Marcel has co-written two of [[Josh Gracin]]'s singles: "[[Nothin' to Lose (Josh Gracin song)|Nothin' to Lose]]", which previously appeared on ''You, Me and the Windshield'', and "[[Favorite State of Mind]]". [[Jessica Andrews]] also released two of his songs as singles: "[[There's More to Me Than You]]" and "Everything". [[Rascal Flatts]], [[LeAnn Rimes]], and [[Big & Rich]] have also recorded his songs.<ref name="gac"/>
+
+In 2008, Marcel signed to [[Lyric Street Records]], releasing his third single, "I Love This Song" that year.<ref name="gac"/> When the song failed to reach Top 40, he exited Lyric Street's roster. In February 2009, he signed to the Red Stripe Plane label. He had a cameo in ''[[Hannah Montana: The Movie]]'', playing guitar in [[Billy Ray Cyrus]]' band. He is also shown in Cyrus' video for "[[Back to Tennessee (song)|Back to Tennessee]]".
+
+On February 17, 2009, Marcel released his fourth single, "Believin'", which is also the title track to his second album. The album was released on the Red Stripe Plane label, but neither the album or single charted on any ''Billboard'' chart.  In June 2010, Marcel released a new single titled "It's Summertime." Later in the year, Marcel began directing [[music video]]s for other artists.
+
+==Personal life==
+Marcel became engaged to [[Jessica Andrews]] in October 2010, and the two were married on November 11, 2011.<ref>[https://web.archive.org/web/20120107213345/http://www.cmt.com/news/country-music/1676414/top-10-country-newlyweds-of-the-year.jhtml CMT.com story on 2011 weddings]</ref> Andrews gave birth to the couple's son [[Rockwell Francois Chagnon]] on February 6, 2018. They had a daughter in 2022.<ref>{{cite web |url=https://www.onecountry.com/jessica-andrews-baby-boy-2532785269.html |title="Who I Am" Singer Jessica Andrews and Husband Marcel Welcome First Child - One Country |website=www.onecountry.com |url-status=dead |archive-url=https://web.archive.org/web/20180223110918/https://www.onecountry.com/jessica-andrews-baby-boy-2532785269.html |archive-date=2018-02-23}}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''[[You, Me and the Windshield]]''
+| 
+* Release date: May 13, 2003
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+| 48
+|-
+! scope="row"| ''Believin'''
+| 
+* Release date: January 28, 2009
+* Label: Red Stripe Plane
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2002
+! scope="row"| "Country Rock Star"
+| 46
+| align="left" rowspan="2"| ''You, Me and the Windshield''
+|-
+| 2003
+! scope="row"| "Tennessee"<ref>{{cite news | url=https://www.newspapers.com/image/428157195/ | title=Andrews, Marcel to play soybean festival | work=The Paducah Sun | date=August 22, 2003 | accessdate=March 30, 2022 | pages=2D}}</ref>
+| —
+|-
+| 2008
+! scope="row"| "I Love This Song"
+| 52
+| align="left" {{n/a}}
+|-
+| 2009
+! scope="row"| "Believin'"
+| —
+| align="left"| ''Believin'''
+|-
+| 2010
+! scope="row"| "It's Summertime"
+| —
+| align="left" {{n/a}}
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2003
+! scope="row"| "Tennessee"
+| [[Shaun Silva]]
+|-
+| rowspan="2"| 2008
+! scope="row"| "I Love This Song"
+| [[Chris Hicky]]
+|-
+! scope="row"| "The Good Life"
+| rowspan="2"| Marcel
+|-
+| 2009
+! scope="row"| "Believin'"
+|}
+
+==Music videos directed==
+32 music videos are currently listed here.
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Artist
+|-
+| 2008
+! scope="row"| "The Good Life"
+| rowspan="2"| Marcel
+|-
+| 2009
+! scope="row"| "Believin'"<ref>{{cite web|url=http://www.cmt.com/videos/marcel/355855/believin.jhtml|archive-url=https://web.archive.org/web/20090329162518/http://www.cmt.com/videos/marcel/355855/believin.jhtml|url-status=dead|archive-date=March 29, 2009|title=CMT : Videos : Marcel : Believin'|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+|-
+| rowspan="5"| 2010
+! scope="row"| "[[She Won't Be Lonely Long (song)|She Won't Be Lonely Long]]"<ref>{{cite web|url=http://www.cmt.com/videos/clay-walker/501208/she-wont-be-lonely-long.jhtml|archive-url=https://web.archive.org/web/20100412151547/http://www.cmt.com/videos/clay-walker/501208/she-wont-be-lonely-long.jhtml|url-status=dead|archive-date=April 12, 2010|title=CMT : Videos : Clay Walker : She Won't Be Lonely Long|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| [[Clay Walker]]
+|-
+! scope="row"| "Love Is Love Is Love"<ref>{{cite web|url=http://www.cmt.com/videos/anthony-smith/520333/love-is-love-is-love.jhtml|archive-url=https://web.archive.org/web/20160305224955/http://www.cmt.com/videos/anthony-smith/520333/love-is-love-is-love.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Anthony Smith : Love Is Love Is Love|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| [[Anthony Smith (singer)|Anthony Smith]]
+|-
+! scope="row"| "[[Last Train to Clarksville]]"<ref>{{cite web|url=http://www.cmt.com/videos/the-grascals/552603/last-train-to-clarksville.jhtml|archive-url=https://web.archive.org/web/20100828083442/http://www.cmt.com/videos/the-grascals/552603/last-train-to-clarksville.jhtml|url-status=dead|archive-date=August 28, 2010|title=CMT : Videos : The Grascals : Last Train to Clarksville|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| [[The Grascals]]
+|-
+! scope="row"| "You Take Yourself with You"<ref>{{cite web|url=http://www.cmt.com/videos/bo-bice/613471/you-take-yourself-with-you.jhtml|archive-url=https://web.archive.org/web/20110321182938/http://www.cmt.com/videos/bo-bice/613471/you-take-yourself-with-you.jhtml|url-status=dead|archive-date=March 21, 2011|title=CMT : Videos : Bo Bice : You Take Yourself With You|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| [[Bo Bice]]
+|-
+! scope="row"| "Tell Me You Get Lonely"<ref>{{cite web|url=http://www.cmt.com/videos/frankie-ballard/599237/tell-me-you-get-lonely.jhtml|archive-url=https://web.archive.org/web/20101126130004/http://www.cmt.com/videos/frankie-ballard/599237/tell-me-you-get-lonely.jhtml|url-status=dead|archive-date=November 26, 2010|title=CMT : Videos : Frankie Ballard : Tell Me You Get Lonely|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| [[Frankie Ballard]]
+|-
+| rowspan="6"| 2011
+! scope="row"| "[[Didn't I (James Wesley song)|Didn't I]]"<ref>{{cite web|url=http://www.cmt.com/videos/james-wesley/670231/didnt-i.jhtml|archive-url=https://web.archive.org/web/20111129030736/http://www.cmt.com/videos/james-wesley/670231/didnt-i.jhtml|url-status=dead|archive-date=November 29, 2011|title=CMT : Videos : James Wesley : Didn't I|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| [[James Wesley]]
+|-
+! scope="row"| "Hunt You Down"<ref>{{cite web|url=http://www.cmt.com/videos/jt-hodges/672975/hunt-you-down.jhtml|archive-url=https://web.archive.org/web/20110719214747/http://www.cmt.com/videos/jt-hodges/672975/hunt-you-down.jhtml|url-status=dead|archive-date=July 19, 2011|title=CMT : Videos : JT Hodges : Hunt You Down|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| [[JT Hodges]]
+|-
+! scope="row"| "Old School"<ref>{{cite web|url=http://www.cmt.com/videos/chuck-wicks/688031/old-school.jhtml|archive-url=https://web.archive.org/web/20111004064014/http://www.cmt.com/videos/chuck-wicks/688031/old-school.jhtml|url-status=dead|archive-date=October 4, 2011|title=CMT : Videos : Chuck Wicks : Old School|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| [[Chuck Wicks]]
+|-
+! scope="row"| "Lucky Guy"<ref>{{cite web|url=http://www.cmt.com/videos/misc/696198/lucky-guy.jhtml|archive-url=https://web.archive.org/web/20160305030134/http://www.cmt.com/videos/misc/696198/lucky-guy.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Mockingbird Sun : Lucky Guy|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| Mockingbird Sun
+|-
+! scope="row"| "[[Got My Country On]]"<ref>{{cite web|url=http://www.cmt.com/videos/chris-cagle/702348/got-my-country-on.jhtml|archive-url=https://web.archive.org/web/20111022233256/http://www.cmt.com/videos/chris-cagle/702348/got-my-country-on.jhtml|url-status=dead|archive-date=October 22, 2011|title=CMT : Videos : Chris Cagle : Got My Country On|publisher=[[Country Music Television]]|accessdate=November 12, 2011}}</ref>
+| [[Chris Cagle]]
+|-
+! scope="row"| "[[I'll Be Home for Christmas]]"<ref>{{cite web|url=http://www.cmt.com/videos/craig-campbell/714660/ill-be-home-for-christmas.jhtml|archive-url=https://web.archive.org/web/20120414071810/http://www.cmt.com/videos/craig-campbell/714660/ill-be-home-for-christmas.jhtml|url-status=dead|archive-date=April 14, 2012|title=CMT : Videos : Craig Campbell : I'll Be Home for Christmas|publisher=[[Country Music Television]]|accessdate=December 4, 2011}}</ref>
+| [[Craig Campbell (singer)|Craig Campbell]]
+|-
+| rowspan="5"| 2012
+! scope="row"| "A-OK"<ref>{{cite web|url=http://www.cmt.com/videos/neal-mccoy/727124/a-ok.jhtml|archive-url=https://web.archive.org/web/20120126041307/http://www.cmt.com/videos/neal-mccoy/727124/a-ok.jhtml|url-status=dead|archive-date=January 26, 2012|title=CMT : Videos : Neal McCoy : A-OK|publisher=[[Country Music Television]]|accessdate=January 24, 2012}}</ref>
+| [[Neal McCoy]]
+|-
+! scope="row"| "Somethin' 'bout a Sunday"<ref>{{cite web|url=http://www.cmt.com/videos/ira-dean/743546/somethin-bout-a-sunday.jhtml|archive-url=https://web.archive.org/web/20120227031327/http://www.cmt.com/videos/ira-dean/743546/somethin-bout-a-sunday.jhtml|url-status=dead|archive-date=February 27, 2012|title=CMT : Videos : Ira Dean : Somethin' Bout a Sunday|publisher=[[Country Music Television]]|accessdate=February 25, 2012}}</ref>
+| Ira Dean
+|-
+! scope="row"| "Sweet Southern Song"<ref>{{cite web|url=http://www.cmt.com/videos/ali-dee/826245/sweet-southern-song.jhtml|archive-url=https://web.archive.org/web/20120914061030/http://www.cmt.com/videos/ali-dee/826245/sweet-southern-song.jhtml|url-status=dead|archive-date=September 14, 2012|title=CMT : Videos : Ali Dee : Sweet Southern Song|publisher=[[Country Music Television]]|accessdate=August 21, 2012}}</ref>
+| Ali Dee
+|-
+! scope="row"| "Those Jeans"
+| [[Ray Scott (singer)|Ray Scott]]
+|-
+! scope="row"| "On the Outskirts of Town"<ref>{{cite news|last=Wyland|first=Sarah|title=Chyler Leigh Stars In The Time Jumper's New Video|url=http://blog.gactv.com/blog/2012/10/10/chyler-leigh-stars-in-the-time-jumpers-new-video/|accessdate=October 23, 2012|newspaper=[[Great American Country]]|date=October 10, 2012}}</ref>
+| [[The Time Jumpers]]
+|-
+| 2013
+! scope="row"| "Salt Life"<ref>{{cite web|url=http://www.cmt.com/videos/chuck-wicks/938285/salt-life.jhtml|archive-url=https://web.archive.org/web/20130721182716/http://www.cmt.com/videos/chuck-wicks/938285/salt-life.jhtml|url-status=dead|archive-date=July 21, 2013|title=CMT : Videos : Chuck Wicks : Salt Life|publisher=[[Country Music Television]]|accessdate=July 19, 2013}}</ref>
+| Chuck Wicks
+|-
+| rowspan="3"| 2014
+! scope="row"| "Every Time It Rains"<ref>{{cite web|url=http://www.cmt.com/videos/james-house/1047935/every-time-it-rains.jhtml|archive-url=https://web.archive.org/web/20140531130140/http://www.cmt.com/videos/james-house/1047935/every-time-it-rains.jhtml|url-status=dead|archive-date=May 31, 2014|title=CMT : Videos : James House : Every Time It Rains|publisher=[[Country Music Television]]|accessdate=May 30, 2014}}</ref>
+| [[James House (singer)|James House]]
+|-
+! scope="row"| "[[Shut Me Up (Old Dominion song)|Shut Me Up]]"<ref>{{cite web|url=http://www.cmt.com/videos/old-dominion/1089012/shut-me-up.jhtml|archive-url=https://web.archive.org/web/20141013035347/http://www.cmt.com/videos/old-dominion/1089012/shut-me-up.jhtml|url-status=dead|archive-date=October 13, 2014|title=CMT : Videos : Old Dominion : Shut Me Up|publisher=[[Country Music Television]]|accessdate=October 13, 2014}}</ref>
+| [[Old Dominion (band)|Old Dominion]]
+|-
+! scope="row"| "Roll All Night"<ref>{{cite web|url=http://www.cmt.com/videos/whitney-duncan/1096318/roll-all-night.jhtml|archive-url=https://web.archive.org/web/20141104040339/http://www.cmt.com/videos/whitney-duncan/1096318/roll-all-night.jhtml|url-status=dead|archive-date=November 4, 2014|title=CMT : Videos : Whitney Duncan : Roll All Night|publisher=[[Country Music Television]]|accessdate=November 3, 2014}}</ref>
+| [[Whitney Duncan]]
+|-
+| rowspan="2"| 2015
+! scope="row"| "Clint Eastwood"<ref>{{cite web|url=http://www.cmt.com/videos/jessie-james/1165798/clint-eastwood.jhtml|archive-url=https://web.archive.org/web/20150213080046/http://www.cmt.com/videos/jessie-james/1165798/clint-eastwood.jhtml|url-status=dead|archive-date=February 13, 2015|title=CMT : Videos : Jessie James : Clint Eastwood|publisher=[[Country Music Television]]|accessdate=February 13, 2015}}</ref>
+| [[Jessie James Decker|Jessie James]]
+|-
+! scope="row"| "Ray Bans"<ref>{{cite web|url=http://www.cmt.com/videos/jt-hodges/1223983/ray-bans.jhtml|archive-url=https://web.archive.org/web/20150806065715/http://www.cmt.com/videos/jt-hodges/1223983/ray-bans.jhtml|url-status=dead|archive-date=August 6, 2015|title=CMT : Videos : JT Hodges : Ray Bans|publisher=[[Country Music Television]]|accessdate=July 30, 2015}}</ref>
+| JT Hodges
+|-
+| rowspan="7"| 2016
+! scope="row"| "He Loves Me"<ref>{{cite web|url=http://www.cmt.com/videos/sarahbeth-taite/1268565/he-loves-me.jhtml|archive-url=https://web.archive.org/web/20160114223018/http://www.cmt.com/videos/sarahbeth-taite/1268565/he-loves-me.jhtml|url-status=dead|archive-date=January 14, 2016|title=CMT : Videos : Sarahbeth Taite : He Loves Me|publisher=[[Country Music Television]]|accessdate=January 11, 2016}}</ref>
+| Sarahbeth Taite
+|-
+! scope="row"| "Torn"<ref>{{cite web|url=http://www.cmt.com/videos/backroad-anthem/1268859/torn.jhtml|archive-url=https://web.archive.org/web/20160116154817/http://www.cmt.com/videos/backroad-anthem/1268859/torn.jhtml|url-status=dead|archive-date=January 16, 2016|title=CMT : Videos : Backroad Anthem : Torn|publisher=[[Country Music Television]]|accessdate=January 11, 2016}}</ref>
+| Backroad Anthem
+|-
+! scope="row"| "[[It All Started with a Beer]]"<ref>{{cite web|url=http://www.cmt.com/videos/frankie-ballard/1352729/it-all-started-with-a-beer.jhtml|archive-url=https://web.archive.org/web/20160327185004/http://www.cmt.com/videos/frankie-ballard/1352729/it-all-started-with-a-beer.jhtml|url-status=dead|archive-date=March 27, 2016|title=CMT : Videos : Frankie Ballard : It All Started With a Beer|publisher=[[Country Music Television]]|accessdate=March 25, 2016}}</ref>
+| Frankie Ballard
+|-
+! scope="row"| "Tall Boy"<ref>{{cite web|url=http://www.cmt.com/videos/cj-solar/1394359/tall-boy.jhtml|archive-url=https://web.archive.org/web/20160603182611/http://www.cmt.com/videos/cj-solar/1394359/tall-boy.jhtml|url-status=dead|archive-date=June 3, 2016|title=CMT : Videos : CJ Solar : Tall Boy|publisher=[[Country Music Television]]|accessdate=May 10, 2016}}</ref>
+| CJ Solar
+|-
+! scope="row"| "White Picket Fences"<ref>{{cite web|url=http://www.cmt.com/videos/shelley-skidmore/1515909/white-picket-fences.jhtml|archive-url=https://web.archive.org/web/20160820051743/http://www.cmt.com/videos/shelley-skidmore/1515909/white-picket-fences.jhtml|url-status=dead|archive-date=August 20, 2016|title=CMT : Videos : Shelley Skidmore : White Picket Fences|publisher=[[Country Music Television]]|accessdate=August 13, 2016}}</ref>
+| Shelley Skidmore
+|-
+! scope="row"| "Edge of 18"<ref>{{cite web|url=http://www.cmt.com/videos/steve-dorian/1524189/edge-of-18.jhtml|archive-url=https://web.archive.org/web/20160821214605/http://www.cmt.com/videos/steve-dorian/1524189/edge-of-18.jhtml|url-status=dead|archive-date=August 21, 2016|title=CMT : Videos : Steve Dorian : Edge of 18|publisher=[[Country Music Television]]|accessdate=August 12, 2016}}</ref>
+| Steve Dorian
+|-
+! scope="row"| "After Midnight"
+| JT Hodges
+|-
+| 2017
+! scope="row"| "Po-Dunk"
+| [[Kid Rock]]
+|-
+| 2018
+! scope="row"| "This is It"
+| [[Scotty McCreery]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20061010132846/http://www.marcelmusic.com/ Official Site]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marcel}}
+[[Category:American country harmonica players]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Michigan]]
+[[Category:People from Grosse Pointe, Michigan]]
+[[Category:American music video directors]]
+[[Category:Mercury Records artists]]
+[[Category:Lyric Street Records artists]]
+[[Category:1975 births]]
+[[Category:Country musicians from Michigan]]
+[[Category:21st-century American singer-songwriters]]

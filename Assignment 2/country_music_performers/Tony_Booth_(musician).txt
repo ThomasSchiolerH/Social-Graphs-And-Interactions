@@ -1,0 +1,224 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{Use mdy dates|date=December 2019}}
+{{Infobox musical artist 
+| name            = Tony Booth
+| image           = Tony_booth_musician.jpg
+| caption        = 
+| image_size        = 
+| background      = solo_singer
+| birth_name      = 
+| alias           = 
+| birth_date            = {{birth date and age|1943|02|07}}
+| origin          = [[Tampa, Florida]]
+| death_date            = 
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1970–present
+| label           = [[MGM Records|MGM]], [[Capitol Records|Capitol]], Heart of Texas Records
+| associated_acts = [[Gene Watson]], [[Darrell McCall]], [[Curtis Potter]]
+| website             = 
+}}
+'''Tony Booth''' (born February 7, 1943) is an American [[country music]] singer who participated in [[Buck Owens]]' "[[Bakersfield sound]]" revolution.
+
+==Early years==
+As a boy, Booth showed his talent by winning a contest in [[New Port Richey, Florida]], for playing guitar at age 14. After high school, he attended the [[University of New Mexico]] with the intent of becoming a schoolteacher. But he decided to give music a try, and began his music career with the [[Mel Savage Band]]. Before long, he was touring with Jimmy Snyder.
+
+Booth's first single, "Wishful Thinkin'" (backed with "I Think I Can") and album, ''Country '67'' was released under the stage name "Johnny Booth" by [[Universal City Records]] in 1967. It featured a cover of [[Engelbert Humperdinck (singer)|Engelbert Humperdinck]]'s "[[There Goes My Everything (song)|There Goes My Everything]]", a version of which had been released months earlier by [[Ray Price (musician)|Ray Price]], one of Booth's longtime influences. The album, produced by [[Cliffie Stone]], retains the vestigal sound of [[Rockabilly]] that [[country music]] was moving away from at that time, ironically toward the softer sound then being pushed by artists such as [[Ray Price (musician)|Price]].
+
+When his first album did not yield a chart position, Booth formed a band called Modern Country in 1968 and performed for a time in [[Las Vegas, Nevada]] before moving to Los Angeles, California. The band, which renamed itself the Tony Booth Band, became the house band at L.A.'s [[Palomino Club (North Hollywood)|Palomino Club]]. He cut a single with [[K-Ark Records]], "Big Lonely World" (backed with "It's Alright") but it also had no chart success.
+
+==Country success==
+That changed in 1970 when his first single for [[MGM Records]], [[Merle Haggard]]'s song about interracial love, "[[Irma Jackson]]" (backed with Booth's own "One Too Many Times") reached the charts. His band also won an [[Academy of Country Music]] award, which they would take home for three consecutive years. Tony also received the Most Promising Male Vocalist of The Year from the Academy of Country Music in 1972.
+
+An album soon followed, ''On The Right Track'', produced by Dusty Rhodes, and in 1971 Booth won the [[Academy of Country Music|ACM]] award for Most Promising Male Vocalist. He signed with [[Capitol Records]] and became one of several artists to record under [[Buck Owens]]. His first single, "Cinderella", went midway up the charts.
+
+Booth released two albums a year for Capitol between 1972 and 1974.
+The first was ''The Key's in the Mailbox'' which included three hit singles. The title track reached No.&nbsp;1 on Cash Box, making it his best-ranked and best-known song. The last single from the album made it to No.&nbsp;13, and "Lonesome 7-7203" from his next album peaked right behind at No.&nbsp;6.
+
+Over the next three albums, Booth produced five more singles which all charted. "When a Man Loves a Woman (The Way That I Love You)" made it to No.&nbsp;19, and the next four all made the Top 50 including a cover of [[Doris Day]]'s hit "Secret Love." He was also nominated for the [[Academy of Country Music|ACM]] Male Vocalist of the Year award in 1973.
+
+After two singles failed to chart, Booth's cover of [[Jim Croce]]'s hit ''Workin' At The Car Wash Blues'', made it to No.&nbsp;22 and the album of the same name won an [[ASCAP]] award in 1974. Up to that album, his recordings for Capitol were largely penned by Buck Owens, but by that time Owens was retreating from the music scene following the death of his close friend [[Don Rich]] and the net for Booth's material was cast wider.
+
+==Later years==
+Booth left Capitol in 1975 after three more singles. He was picked up by [[United Artists Records]] in 1976, and unsurprisingly left the [[Bakersfield sound]] behind. The soaring strings didn't impress the charts, although his 1977 single "Letting Go" (backed somewhat ironically with "Nothing Seems To Work Anymore") just barely made the Top 100.
+
+He went on to tour in [[Gene Watson]]'s band and played bass and sang backup on many of his mid-1980s albums, and performed the song "Still on the Bottle" for the movie ''Daddy's Dyin'... Who's Got the Will?'' (1990).
+
+Booth currently lives in [[Alvin, Texas]], with his wife and family, and appears frequently in the band at the Alvin Opry with his brother [[Larry Booth|Larry]]. Booth has also resumed touring on his own again, playing mostly in southern states such as [[Texas]] and [[Oklahoma]]. Booth signed with Heart of Texas Records in 2006 and has released 10 CDs, as well as two albums with Curtis Potter and Darrell McCall as "The Survivors," traveling all over Texas and Nashville.
+
+Booth recently traveled to Sweden, Scotland and London with the Heart of Texas Road Show. During the summer of 2016, Booth traveled to Japan for the "COUNTRY GOLD 2016" with Bucky Covington. Each year, the Heart of Texas Roadshow takes their
+entertainment on the water for a classic country cruise.
+
+==Awards==
+*1970 – [[Academy of Country Music|ACM]] Best Non-Touring Band
+*1971 – [[Academy of Country Music|ACM]] Best Non-Touring Band
+*1971 – [[Academy of Country Music|ACM]] Most Promising Male Vocalist
+*1972 – [[Academy of Country Music|ACM]] Best Non-Touring Band
+*1974 – [[ASCAP]] Award for ''Workin' At The Car Wash Blues''
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1970
+| ''On the Right Track''
+| align="center"| —
+| MGM
+|-
+| rowspan="2"| 1972
+| ''The Key's in the Mailbox''
+| align="center"| 12
+| rowspan="6"| Capitol
+|-
+| ''Lonesome 7-7203''
+| align="center"| 14
+|-
+| rowspan="2"| 1973
+| ''When a Man Loves a Woman (The Way That I Love You)''
+| align="center"| 27
+|-
+| ''This Is Tony Booth''
+| align="center"| 33
+|-
+| rowspan="2"| 1974
+| ''Happy Hour''
+| align="center"| 39
+|-
+| ''Workin' at the Car Wash Blues''
+| align="center"| —
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1970
+| "[[Irma Jackson]]"
+| align="center"| 67
+| align="center"| —
+| single only
+|-
+| "Give Me One Last Kiss and Go"
+| align="center"| —
+| align="center"| —
+| ''On the Right Track''
+|-
+| 1971
+| "Cinderella"
+| align="center"| 45
+| align="center"| —
+| rowspan="3"| ''The Key's in the Mailbox''
+|-
+| rowspan="3"| 1972
+| "The Key's in the Mailbox"
+| align="center"| 15
+| align="center"| 26
+|-
+| "A Whole Lot of Somethin'"
+| align="center"| 18
+| align="center"| —
+|-
+| "[[Lonesome 7-7203]]"
+| align="center"| 16
+| align="center"| 7
+| ''Lonesome 7-7203''
+|-
+| rowspan="5"| 1973
+| "When a Man Loves a Woman<br />(The Way That I Love You)"
+| align="center"| 32
+| align="center"| 17
+| ''When a Man Loves a Woman<br />(The Way That I Love You)''
+|-
+| "Loving You"
+| align="center"| 41
+| align="center"| 69
+| rowspan="2"| ''This Is Tony Booth''
+|-
+| "Old Faithful"
+| align="center"| 49
+| align="center"| 34
+|-
+| "Secret Love"
+| align="center"| 47
+| align="center"| —
+| rowspan="2"| ''Happy Hour''
+|-
+| "Happy Hour"
+| align="center"| 49
+| align="center"| 82
+|-
+| rowspan="4"| 1974
+| "[[Lonely Street (Carl Belew song)|Lonely Street]]"
+| align="center"| 84
+| align="center"| —
+| rowspan="3"| ''Workin' at the Car Wash Blues''
+|-
+| "There Ain't Enough of Love to Go Around"
+| align="center"| —
+| align="center"| —
+|-
+| "[[Workin' at the Car Wash Blues]]"
+| align="center"| 27
+| align="center"| 18
+|-
+| "Watch Out for Lucy"
+| align="center"| 72
+| align="center"| —
+| rowspan="6"| singles only
+|-
+| rowspan="2"| 1975
+| "Down at the Corner Bar"
+| align="center"| —
+| align="center"| —
+|-
+| "Fanny Lee (The Burlesque Queen)"
+| align="center"| —
+| align="center"| —
+|-
+| 1976
+| "Lady Alone"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1977
+| "Letting Go"
+| align="center"| 95
+| align="center"| —
+|-
+| "All Night Long"
+| align="center"| —
+| align="center"| —
+|}
+
+==Sources==
+*[http://www.countryworks.com/artist_full.asp?KEY=BOOTH Century Of Country]
+*[http://www.artistdirect.com/nad/music/artist/card/0,,406425,00.html Artist Direct]
+*[https://gene-watson.com/index.php/discography.html Gene Watson Discography]
+
+==External links==
+*[http://www.tonybooth.homestead.com/ Tony Booth's Official Website]
+*[http://www.alvinopry.com/ The Alvin Opry]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Booth, Tony}}
+[[Category:American country singer-songwriters]]
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:Musicians from Tampa, Florida]]
+[[Category:People from Alvin, Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:Country musicians from Florida]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Singer-songwriters from Florida]]

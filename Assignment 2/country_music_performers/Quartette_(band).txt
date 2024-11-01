@@ -1,0 +1,113 @@
+{{Short description|Canadian country-folk group}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Quartette 
+| image           = 
+| caption         = 
+| background      = group_or_band
+| origin          = [[Toronto]], [[Ontario]], Canada
+| genre           = [[Country music|Country]]/[[Folk music|Folk]] 
+| years_active    = 1993&ndash;present
+| label           = [[Denon Records|Denon]]
+| associated_acts = 
+| website         = {{URL|quartette.com}}
+| current_members = [[Cindy Church]]<br />[[Caitlin Hanford]]<br />[[Gwen Swick]]<br />[[Sylvia Tyson]]
+| past_members    = [[Colleen Peterson]]
+}}
+
+'''Quartette''' is a [[Canadian]] country-folk group consisting of [[Cindy Church]], [[Caitlin Hanford]], [[Gwen Swick]] and [[Sylvia Tyson]].<ref name="Inc.1995">{{cite magazine|author=Larry LeBlanc|title=Canada: Who's Who|magazine=Billboard|url=https://books.google.com/books?id=sAsEAAAAMBAJ&pg=PA80|date=4 February 1995|publisher=Nielsen Business Media, Inc.|pages=80–|issn=0006-2510}}</ref> Each of the four members also record as solo artists in addition to their work as a group.<ref name="Inc.1995a">{{cite magazine|author=Larry LeBlanc|title=Stony Plain's Church revives folk with 'Just a Little Rain'work=Billboard| magazine=Billboard |url=https://books.google.com/books?id=xgsEAAAAMBAJ&pg=PA24|date=19 August 1995|publisher=Nielsen Business Media, Inc.|pages=24–|issn=0006-2510}}</ref>
+
+==History==
+The group was originally formed in 1993 and included Tyson, Hanford, Church and [[Colleen Peterson]].<ref name="Einarson2001">{{cite book|author=John Einarson|title=Desperados: The Roots of Country Rock|url=https://books.google.com/books?id=pydnobIDzJEC&pg=PA233|date=January 2001|publisher=Rowman & Littlefield|isbn=978-0-8154-1065-2|pages=233–}}</ref><ref name="Schneider2010">{{cite book|author=Jason Schneider|title=Whispering Pines: The Northern Roots of American Music... from Hank Snow to the Band|url=https://books.google.com/books?id=c--zNXu1v74C&pg=RA1-PT149|date=15 December 2010|publisher=ECW Press|isbn=978-1-55490-552-2|pages=1–}}</ref> 
+
+In 1994 Quartette released a self-titled album,<ref name=boro>[http://www.stalbertgazette.com/article/Quartette-brings-Christmas-to-Morinville-20151125 "Quartette brings Christmas to Morinville"] {{Webarchive|url=https://web.archive.org/web/20170108190338/http://www.stalbertgazette.com/article/Quartette-brings-Christmas-to-Morinville-20151125 |date=2017-01-08 }}. ''St. Albert Gazette'', Nov 25, 2015 Anna Borowiecki</ref> and later that year won a [[Canadian Country Music Association]] award for best vocal collaboration. 
+
+In 1995 and 1996 they were nominated for [[Juno Awards]] in the category of best country group.<ref Name=boro />
+
+Peterson had toured and recorded with Quartette until early 1996, when she was diagnosed with cancer and was unable to perform with the band during her cancer treatment. She chose her friend and collaborator Gwen Swick to fill in for her,<ref>Ted Shaw, "Quartette copes with loss". ''[[Windsor Star]]'', December 14, 1996.</ref> and later died in Toronto on October 9 that year. She is interred in Little Lake Cemetery in Peterborough, Ontario.
+
+All four current members of the group are also solo performers who have toured throughout Canada,<ref name="Inc.2000">{{cite magazine|author=Larry LeBlanc|title=Tyson album, stage show, draw on her life and long career in music|magazine=Billboard|url=https://books.google.com/books?id=aREEAAAAMBAJ&pg=PA60|date=9 September 2000|publisher=Nielsen Business Media, Inc.|pages=60–|issn=0006-2510}}</ref> having performed on ''[[Adrienne Clarkson Presents]]'' and at the [[Vancouver Folk Music Festival]]. 
+
+Quartette's recordings and live performances have been reviewed favorably by ''[[The Globe and Mail]]'', ''[[Chatelaine (magazine)|Chatelaine]]'' and ''[[Billboard magazine|Billboard]]''.
+
+At the end of 2016, Quartette continued to perform live, completing a month-long tour in December.<ref>[https://ottawacitizen.com/entertainment/local-arts/a-quartette-christmas-with-sylvia-tyson-and-friends "A Quartette Christmas with Sylvia Tyson and friends"]. ''Ottawa Citizen'', Lynn Saxberg, December 16, 2016</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Title
+! <small>CAN Country</small>
+|-
+| 1993
+| ''Quartette''<ref name="Inc.1995" />
+| 
+|-
+| 1995
+| ''Work of the Heart''<ref>[http://www.countrystandardtime.com/d/cdreview.asp?xid=2243 "Quartette Work Of The Heart – 1995 (Denon (Canada))"]. ''Country Standard Time'', Reviewed by Joel Bernstein</ref>
+| align="center"| 19
+|-
+| 1996
+| ''It's Christmas''
+| 
+|-
+| 1998
+| ''In the Beauty of the Day''
+| 
+|-
+| 2002
+| ''I See a Star''
+| 
+|-
+| 2007
+| ''Down at the Fair''
+|
+|-
+| rowspan="2"| 2013
+| ''Rocks and Roses''
+| 
+|-
+| ''20 Years of Quartette''
+| 
+|}
+
+=== Singles ===
+{| class="wikitable"
+! Year
+! Title
+! <small>CAN Country</small>
+! Album
+|- 
+| 1994
+| "Red Hot Blues"
+| align="center"| 9
+| ''Quartette''
+|-
+| 1995
+| "No Place Like Home"
+| align="center"| 81
+| ''Work of the Heart''
+|-
+| 1999
+| "I Don't Want to Cry"
+| align="center"| 53
+| ''In the Beauty of the Day''
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.quartette.com/ Quartette] official website
+{{Great Speckled Bird}}
+{{Authority control}}
+
+{{DEFAULTSORT:Quartette}}
+[[Category:Musical groups established in 1993]]
+[[Category:Musical groups from Toronto]]
+[[Category:Canadian country music groups]]
+[[Category:Vocal quartets]]
+[[Category:Country music supergroups]]
+[[Category:1993 establishments in Ontario]]
+[[Category:Canadian all-female bands]]
+[[Category:All-female folk bands]]
+[[Category:All-female country bands]]

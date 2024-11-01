@@ -1,0 +1,179 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Billy Parker
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1937|07|19}}
+| birth_place     = [[Okemah, Oklahoma]], U.S.
+| death_date      =
+| instrument      = [[Guitar]], Vocals
+| genre           = [[Country music|Country]]
+| occupation      = [[Singing|Singer]]
+| years_active    = 1959–present
+| label           = SCR, Oak, Soundwaves, Canyon Creek
+| associated_acts = [[Ernest Tubb]]
+| website         = 
+}}
+'''Billy Parker''' (born July 19, 1937, in [[Okemah, Oklahoma]]<ref name="amg">[{{AllMusic|class=artist|id=p21736/biography|pure_url=yes}} Billy Parker Biography]</ref>) is an American [[country music]] [[disc jockey]] and singer. Parker was named Disc Jockey of the Year by the [[Country Music Association]] in 1974 and by the [[Academy of Country Music]] in 1975, 1977, 1978 and 1984.<ref name="oklahoma">[http://www.oklahomamusichalloffame.com/Inductees/tabid/56/ItemID/24/Default.aspx Oklahoma Music Hall of Fame Inductees] {{webarchive |url=https://web.archive.org/web/20110429193851/http://www.oklahomamusichalloffame.com/Inductees/tabid/56/ItemID/24/Default.aspx |date=April 29, 2011 }}</ref> He was inducted into the Country Music Disc Jockey Hall of Fame in 1992, the Western Swing Hall of Fame in 1993, and received the Oklahoma Association of Broadcasters' Lifetime Achievement Award in 1995.<ref name="oklahoma" />
+
+Between 1976 and 1989, Parker charted more than twenty singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart. His highest-charting single, "(Who's Gonna Sing) The Last Country Song," peaked at No.&nbsp;41 in 1982. He also reached the Top 10 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada with the song "You Are My Angel" in 1988.<ref>{{Cite web |url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.8684&volume=48&issue=9&issue_dt=June%2018%201988&type=1&interval=24&PHPSESSID=38vovoeiqi3gm85vjaqmiga860 |title=''RPM'' Country Tracks |access-date=2010-02-05 |archive-url=https://web.archive.org/web/20121012230057/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.8684&volume=48&issue=9&issue_dt=June%2018%201988&type=1&interval=24&PHPSESSID=38vovoeiqi3gm85vjaqmiga860 |archive-date=2012-10-12 |url-status=dead }}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+| 1976
+| ''Average Man''
+| Sunshine
+|-
+| 1977
+| ''Billy Parker''
+| Sunshine Country
+|-
+| 1988
+| ''Always Country''
+| Canyon Creek
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| 1976
+| "It's Bad When You're Caught (With the Goods)"
+| align="center"| 79
+| align="center"| —
+| ''Average Man''
+|-
+| rowspan="3"| 1977
+| "Lord, If I Make It to Heaven Can I Bring My Own Angel Along"
+| align="center"| 71
+| align="center"| —
+| rowspan="19"| singles only
+|-
+| "What Did I Promise Her Last Night"
+| align="center"| 75
+| align="center"| —
+|-
+| "If You Got to Have It Your Way (I'll Go Mine)"
+| align="center"| 94
+| align="center"| —
+|-
+| rowspan="4"| 1978
+| "You Read Between the Lines"
+| align="center"| 62
+| align="center"| —
+|-
+| "If There's One Angel Missing (She's Here in My Arms Tonight)"
+| align="center"| 81
+| align="center"| —
+|-
+| "Until the Next Time"
+| align="center"| 50
+| align="center"| —
+|-
+| "Pleasin' My Woman"
+| align="center"| 73
+| align="center"| —
+|-
+| rowspan="3"| 1979
+| "Thanks E.T. Thanks a Lot"
+| align="center"| 98
+| align="center"| —
+|-
+| "Thanks a Lot"
+| align="center"| 80
+| align="center"| —
+|-
+| "Tough Act to Follow"
+| align="center"| 82
+| align="center"| —
+|-
+| rowspan="2"| 1981
+| "Better Side of Thirty"
+| align="center"| 74
+| align="center"| —
+|-
+| "I'll Drink to That"
+| align="center"| 53
+| align="center"| —
+|-
+| rowspan="4"| 1982
+| "I See an Angel Every Day"
+| align="center"| 51
+| align="center"| —
+|-
+| "(Who's Gonna Sing) The Last Country Song"
+| align="center"| 41
+| align="center"| —
+|-
+| "If I Ever Need a Lady" <small>(with [[Cal Smith]])</small>
+| align="center"| 53
+| align="center"| —
+|-
+| "Too Many Irons in the Fire" <small>(with Cal Smith)</small>
+| align="center"| 68
+| align="center"| —
+|-
+| rowspan="2"| 1983
+| "Who Said Love Was Fair"
+| align="center"| 68
+| align="center"| —
+|-
+| "Love Don't Know a Lady (From a Honky Tonk Girl)"
+| align="center"| 59
+| align="center"| —
+|-
+| 1987
+| "You Don't Have to Drive Me Crazy"
+| align="center"| —
+| align="center"| 55
+|-
+| rowspan="2"| 1988
+| "You Are My Angel"
+| align="center"| 72
+| align="center"| 10
+| rowspan="3"| ''Always Country''
+|-
+| "She's Sittin' Pretty"
+| align="center"| 81
+| align="center"| 9
+|-
+| 1989
+| "It's Fine for Your Dreams to Come True"
+| align="center"| 87
+| align="center"| 50
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p21736|pure_url=yes}} Billy Parker] at ''[[Allmusic]]''
+* [https://www.voicesofoklahoma.com/interview/parker-billy/ Voices of Oklahoma interview.] First person interview conducted on April 16, 2012, with Billy Parker.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Parker, Billy}}
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:People from Okemah, Oklahoma]]
+[[Category:American country singer-songwriters]]
+[[Category:American radio DJs]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:Country musicians from Oklahoma]]

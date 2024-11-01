@@ -1,0 +1,70 @@
+{{short description|American country music band}}
+{{Infobox musical artist
+| name            = Calamity Jane
+| image           =
+| origin          = United States
+| genre           = [[Country music|Country]]
+| years_active    = 1981–1982
+| label           = [[Columbia Records|Columbia Nashville]]
+| spinoffs = [[Kennedy Rose]]
+| past_members    = Mary Fielder<br />[[Mary Ann Kennedy (American singer)|Mary Ann Kennedy]]<br />Linda Moore<br />[[Pam Rose]]
+}}
+
+'''Calamity Jane''' was an American all-female [[country music]] band composed of Mary Fielder (guitar), Mary Ann Kennedy (drums), Linda Moore (bass guitar) and Pam Rose (lead vocals). The band recorded for [[Columbia Records]] between 1981 and 1982, charting four times on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles (now [[Hot Country Songs]]) charts, including the No.&nbsp;44 "I've Just Seen a Face" (by Lennon- McCartney from The Beatles) from 1982.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|pages=74|isbn=978-0-89820-177-2}}<!--|accessdate=2009-10-06--></ref> Prior to the quartet's foundation, Rose had been a solo recording artist on [[Capitol Records|Capitol]] and [[Epic Records]].<ref>{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|pages=363|isbn=978-0-89820-177-2}}<!--|accessdate=2009-10-06--></ref> After 1982, Kennedy and Rose split from the band and formed a singing-songwriting duo called [[Kennedy Rose]], writing hits for [[Restless Heart]], [[Lee Greenwood]], and [[Martina McBride]] in addition to recording two albums for [[IRS Records]].<ref>{{cite web |author=Jason Ankeny |title=Kennedy Rose biography |url={{AllMusic|class=artist|id=p1678/biography|pure_url=yes}} |work=[[Allmusic]] |accessdate=2009-10-07}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Calamity Jane''
+| 
+* Release date: 1982
+* Label: [[Columbia Records]]
+* Format: [[LP record|LP]], [[Compact Cassette|cassette]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak<br>positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1981
+! scope="row"| "Send Me Somebody to Love"
+| 61
+| align="left" rowspan="4"| ''Calamity Jane''
+|-
+| rowspan="3"| 1982
+! scope="row"| "[[I've Just Seen a Face]]"
+| 44
+|-
+! scope="row"| "[[Walkin' After Midnight]]"
+| 60
+|-
+! scope="row"| "Love Wheel"
+| 87
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:American all-female bands]]
+[[Category:American country music groups]]
+[[Category:Columbia Records artists]]
+[[Category:American musical quartets]]
+[[Category:Musical groups disestablished in 1982]]
+[[Category:Musical groups established in 1981]]
+[[Category:All-female country bands]]
+
+
+{{US-country-band-stub}}

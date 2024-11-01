@@ -1,0 +1,294 @@
+{{short description|American country music singer-songwriter (born 1942)}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Bobby Lewis
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1942|05|09}}
+| origin          = [[Hodgenville, Kentucky]], United States<ref name="LarkinGE">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Encyclopedia of Popular Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1992|edition=First|isbn=0-85112-939-0|page=1471}}</ref>
+| death_date      =
+| instrument      = Vocals, guitar, lute
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1963–present
+| label           = [[United Artists Records|United Artists]]
+| website         = {{url|bobbylewislute.com/}}
+}}
+
+'''Bobby Lewis''' (born May 9, 1942)<ref name="LarkinGE"/> is an American [[country music]] singer-songwriter. Between 1963 and 1985, Lewis released ten albums and charted more than twenty-five songs on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart. His biggest hit, "How Long Has It Been", peaked at No. 6 in 1966.<ref name="LarkinGE"/> Lewis released a 26 country charted singles from 1966 to 1985.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|pages=207–208|isbn=978-0-89820-229-8}}</ref>
+
+Lewis earned the title "The Boy with the Lute" for his usage of a six-string guitar-[[lute]],<ref name="LarkinGE"/> and was inducted to the Atlanta Country Music Hall of Fame on November 29, 2014.<ref>{{cite web|title=Bobby Lewis' induction to Atlanta Country Music Hall of Fame|url=http://garyhayescountry.com/country-legend-bobby-lewis-inducted-to-atlanta-country-music-hall-of-fame/|date=October 28, 2014|first=Gary|last=Hayes}}</ref> He became a member of the [[Grand Ole Opry]] and continues to perform and record new material.<ref name="LarkinGE"/>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! width="50"| <small>[[Top Country Albums|US Country]]</small><br><ref name="Awards">{{cite web|title=Bobby Lewis - Awards|url=https://www.allmusic.com/artist/bobby-lewis-mn0001216060/awards|publisher=[[AllMusic]]|access-date=October 22, 2022|archive-url=https://web.archive.org/web/20120827071705/https://www.allmusic.com/artist/bobby-lewis-mn0001216060/awards|archive-date=August 27, 2012}}</ref>
+! Label
+|-
+| 1966
+| ''Little Man with the Big Heart''
+| align="center"| —
+| rowspan="7"| United Artists
+|-
+| rowspan="2"| 1967
+| ''How Long Has It Been''
+| align="center"| 39
+|-
+| ''A World of Love''
+| align="center"| 35
+|-
+| rowspan="2"| 1968
+| ''An Ordinary Miracle''
+| align="center"| 40
+|-
+| ''From Heaven to Heartache''
+| align="center"| 43
+|-
+| 1969
+| ''Things for You and I''
+| align="center"| —
+|-
+| 1970
+| ''The Best of Bobby Lewis''
+| align="center"| —
+|-
+| 1974
+| ''Too Many Memories''
+| align="center"| 43
+| Ace of Hearts
+|-
+| 1976
+| ''Portrait in Love''
+| align="center"| —
+| rowspan="2"| RPA
+|-
+| 1977
+| ''Soul Full of Music''
+| align="center"| —
+|-
+| 2009
+| ''Then & Now''
+| align="center"| —
+| rowspan="2"| Heart of Texas Music
+|-
+| 2015
+| ''Here I Am Again''
+| align="center"| —
+|-
+| colspan="4" style="text-align:center; font-size:9pt;"| "—" denotes releases that did not chart.
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small><br><ref name="whitburn"/>
+! width="50"| <small>CAN Country</small><br>
+|-
+| rowspan="2"| 1963
+| "I Miss All of You"
+| align="center"| —
+| align="center"| —
+| rowspan="3"| Singles only
+|-
+| "Forty Dollars a Week"
+| align="center"| —
+| align="center"| —
+|-
+| 1964
+| "Crying in Public"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1965
+| "Everybody's Baby"
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''Little Man with the Big Heart''
+|-
+| "Six Days a Week and Twice On Sunday"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1966
+| "I Hope You Find in Him<br />What You Were Losing in Me"
+| align="center"| —
+| align="center"| —
+| Single only
+|-
+| "How Long Has It Been"
+| align="center"| 6
+| align="center"| —
+| rowspan="2"| ''How Long Has It Been''
+|-
+| rowspan="3"| 1967
+| "Two of the Usual"
+| align="center"| 49
+| align="center"| —
+|-
+| "Love Me and Make It All Better"
+| align="center"| 12
+| align="center"| —
+| ''A World of Love''
+|-
+| "I Doubt It"
+| align="center"| 26
+| align="center"| —
+| rowspan="2"| ''An Ordinary Miracle''
+|-
+| rowspan="2"| 1968
+| "Ordinary Miracle"
+| align="center"| 29
+| align="center"| —
+|-
+| "From Heaven to Heartache"
+| align="center"| 10
+| align="center"| 10
+| ''From Heaven to Heartache''
+|-
+| rowspan="3"| 1969
+| "Each and Every Part of Me"
+| align="center"| 27
+| align="center"| —
+| single only
+|-
+| "Til Something Better Comes Along"
+| align="center"| 41
+| align="center"| —
+| rowspan="2"| ''Things for You and I''
+|-
+| "Things for You and I"
+| align="center"| 25
+| align="center"| —
+|-
+| rowspan="3"| 1970
+| "I'm Going Home"
+| align="center"| 41
+| align="center"| —
+| ''The Best of Bobby Lewis''
+|-
+| "[[Hello Mary Lou]]"
+| align="center"| 14
+| align="center"| 9
+| rowspan="8"| Singles only
+|-
+| "Simple Days and Simple Ways"
+| align="center"| 67
+| align="center"| —
+|-
+| rowspan="3"| 1971
+| "He Gives Us All His Love"
+| align="center"| —
+| align="center"| —
+|-
+| "If I Had You"
+| align="center"| 51
+| align="center"| —
+|-
+| "Today's Teardrops"
+| align="center"| 45
+| align="center"| —
+|-
+| 1972
+| "We Ran Out of Time"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1973
+| "Already Gone to My Heart"
+| align="center"| —
+| align="center"| —
+|-
+| "Here with You"
+| align="center"| 95
+| align="center"| —
+|-
+| "Too Many Memories"
+| align="center"| 21
+| align="center"| —
+| rowspan="4"| ''Too Many Memories''
+|-
+| rowspan="3"| 1974
+| "I Never Get Through Missing You"
+| align="center"| 32
+| align="center"| —
+|-
+| "Lady Lover"
+| align="center"| 47
+| align="center"| —
+|-
+| "I See Love"
+| align="center"| 78
+| align="center"| —
+|-
+| rowspan="2"| 1975
+| "Let Me Take Care of You"
+| align="center"| 71
+| align="center"| —
+| single only
+|-
+| "It's So Nice to Be with You"
+| align="center"| 79
+| align="center"| —
+| rowspan="2"| ''Portrait in Love''
+|-
+| 1976
+| "[[For Your Love (Ed Townsend song)|For Your Love]]"
+| align="center"| 52
+| align="center"| —
+|-
+| rowspan="2"| 1977
+| "I'm Getting High Remembering"
+| align="center"| 74
+| align="center"| —
+| ''Soul Full of Music''
+|-
+| "What a Diff'rence a Day Made"
+| align="center"| 81
+| align="center"| —
+| rowspan="4"| Singles only
+|-
+| rowspan="2"| 1979
+| "She's Been Keepin' Me Up Nights"
+| align="center"| 39
+| align="center"| —
+|-
+| "Love Wouldn't Be Love Without You"
+| align="center"| —
+| align="center"| —
+|-
+| 1985
+| "Love Is an Overload"
+| align="center"| 91
+| align="center"| —
+|-
+| colspan="5" style="text-align:center; font-size:9pt;"| "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official|http://www.bobbylewislute.com/}}
+*{{AllMusic|id=mn0001216060}}
+*{{Discogs artist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Lewis, Bobby}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:People from Hodgenville, Kentucky]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Country musicians from Kentucky]]
+[[Category:United Artists Records artists]]
+[[Category:Singer-songwriters from Kentucky]]

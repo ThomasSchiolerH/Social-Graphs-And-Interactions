@@ -1,0 +1,103 @@
+{{Short description|Canadian country music band formed 2004}}
+{{Infobox musical artist
+| name            = WYATT
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Saskatoon, Saskatchewan]], [[Canada]]
+| genre           = [[Country music|Country]]
+| years_active    = 2004–present
+| label           = Wyatt Music 
+| website         = {{official website|http://www.wyattmusic.com}}
+| current_members = Scott Patrick<br />Daniel Fortier<br />Bray Hudson<br />Cam Ewart
+| past_members    = Sean Dancey<br />Roy Sydidah
+}}
+'''Wyatt''' is a Canadian [[country music]] group from [[Saskatoon, Saskatchewan]] composed of Scott Patrick (vocals, guitar), Daniel Fortier (vocals, guitar), Bray Hudson (drums) and Cam Ewart (bass).<ref>[http://www.cmt.ca/Artist/wwwwyattmusiccom Wyatt Biography]</ref> Following the release of a Christmas album, ''Snowed In'', in 2005, Wyatt released their debut album, ''Hard Road'', in 2007.<ref name="leaderpost">{{cite web |last=Tessmer |first=Christopher |title=Wyatt's prepared to ride on |url=http://www2.canada.com/reginaleaderpost/news/whats_on/story.html?id=39ffbfe7-251b-4e1e-9bfa-8338dee026ff |work=[[Regina Leader-Post]] |date=2010-01-14 |accessdate=2010-02-11 |archive-url=https://web.archive.org/web/20120606153510/http://www2.canada.com/reginaleaderpost/news/whats_on/story.html?id=39ffbfe7-251b-4e1e-9bfa-8338dee026ff |archive-date=2012-06-06 |url-status=dead }}</ref> No singles were released from the project because the band "didn't feel it was quite there yet."<ref name="leaderpost" />
+
+In June 2009, Wyatt won [[CHBD-FM|Big Dog 92.7]]'s The Next Big Thing talent contest. Their prize included $5,000 cash, a showcase for music industry professionals, career guidance, a trip to the [[Canadian Country Music Association]] Awards and the option of having a professional single released to radio.<ref name="leaderpost" /> Their single "Ride On" debuted at No.&nbsp;48 on the ''[[Billboard (magazine)|Billboard]]'' Canadian Country Singles chart in December 2009.<ref name="leaderpost" /> A second single, "Questions," reached the Top 40 in May 2010.<ref name="leaderpost2">{{cite web |last=Maciag |first=Samantha |title=Wyatt making its mark on radio stations across Canada |url=https://leaderpost.com/entertainment/Wyatt+making+mark+radio+stations+across+Canada/3105616/story.html |work=[[Regina Leader-Post]] |date=2010-06-04 |accessdate=2010-08-06}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> Both songs are included on Wyatt's second studio album, ''If I Had a Dollar…'', released in June 2010.<ref name="leaderpost2" />
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Snowed In''
+| 
+* Release date: October 17, 2005
+* Label: [[Self-publishing|self-released]]
+|-
+! scope="row"| ''Hard Road''
+| 
+* Release date: October 15, 2007
+* Label: self-released
+|-
+! scope="row"| ''If I Had a Dollar…''
+| 
+* Release date: June 1, 2010
+* Label: Road Angel
+|-
+! scope="row"| ''Shoulda Been Here Last Night…''
+| 
+* Release date: October 22, 2013
+* Label: [[MDM Recordings Inc.|MDM Recordings]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Single
+! Album
+|-
+| rowspan="2"| 2009
+! scope="row"| "Next to You"
+| rowspan="5"| ''If I Had a Dollar…''
+|-
+! scope="row"| "Ride On"
+|-
+| rowspan="2"| 2010
+! scope="row"| "Questions"
+|-
+! scope="row"| "Airplanes"
+|-
+| 2011
+! scope="row"| "The Mess in Me"
+|-
+| rowspan="2"| 2013
+! scope="row"| "[[Jesse James (Clay Walker song)|Jesse James]]"
+| rowspan="3"| ''Shoulda Been Here Last Night…''
+|-
+! scope="row"| "Roll the Windows Down"
+|-
+| 2014
+! scope="row"| "Always Tonight"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 2013
+! scope="row"| "Jesse James"
+| Tony Hrynchuk
+|-
+! scope="row"| "Roll the Windows Down"
+| Raj Padmanabh
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.wyattmusic.com}}
+
+{{Authority control}}
+
+[[Category:Canadian country music groups]]
+[[Category:Musical groups from Saskatoon]]
+[[Category:Musical groups established in 2004]]
+[[Category:2004 establishments in Saskatchewan]]

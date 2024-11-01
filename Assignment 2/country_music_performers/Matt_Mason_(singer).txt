@@ -1,0 +1,84 @@
+{{short description|American musician}}
+{{Infobox musical artist
+| name            = Matt Mason
+| genre           = [[Country music|Country]]
+| associated_acts = [[Charlie Daniels]]
+| origin          = [[Fairland, Indiana]], U.S.
+| birth_date      = 1985
+| label           = [[Warner Records]]
+}}
+
+'''Matt Mason''' (born {{circa|1985}}) is an American [[country music]] [[singer/songwriter]] from [[Fairland, Indiana]]. He was the winner of ''CMT's Next Superstar'' in 2011. Prior to that, he competed on ''[[Nashville Star]]''.
+
+== Early life and career ==
+Mason was born in [[Fairland, Indiana]] and attended [[Triton Central High School]] in [[Shelby County, Indiana]].<ref name=indy>{{cite news|title=Hoosier musician Matt Mason lands label, U.S. tour|url=http://www.indy.com/posts/hoosier-musician-matt-mason-lands-label-u-s-tour|newspaper=Indy Star|date=June 17, 2011}}</ref> He grew up listening to traditional country music, and started playing guitar at age eleven, and from that time onward wanted to sing professionally. At age 16, he opened for [[Charlie Daniels]] in western Massachusetts. Six months after graduating from high school in 2004, he moved to [[Nashville, Tennessee]] to pursue his career, and found work as a session musician. Within three weeks, he was performing in live shows.<ref name=JournalGazette>{{cite news|author=Penhollow, Steve|date=February 26, 2006|title=Rants & Raves: Indiana supplies fifth of new 'Nashville Star'|newspaper=[[The Journal Gazette]]|page=E1}}</ref>
+
+== Reality Television ==
+In 2006, at age 20, he appeared on ''[[Nashville Star]]'',<ref name=JournalGazette /> finishing in fourth place.<ref>{{cite news|author=Wooley, John|date=August 4, 2006|title=Star power: 'Nashville Star' champ is hanging on for the ride|newspaper=[[Tulsa World]]|page=S12}}</ref> Afterwards, his productivity was affected by a struggle with alcohol and drug addiction, from which he recovered.<ref name=conaway>{{cite news|last=Conaway|first=Allana|title=Matt Mason Is Ready to Be Country Music's 'Next Superstar'|url=http://tasteofcountry.com/matt-mason-cmt-next-superstar-interview/|newspaper=Taste of Country|date=May 2, 2011|accessdate=October 2, 2014}}</ref> He subsequently performed live as often as four times a week in venues on [[Lower Broadway]].<ref name=conaway /> In 2011, he won ''CMT's Next Superstar''.<ref name=harr>{{cite news|last=Harr|first=Dan|title=Matt Mason From CMT's Next Superstar Performs at Warner Music Nashville|url=http://www.musicnewsnashville.com/matt-mason-from-cmts-next-superstar-performs-at-warner-music-nashville|newspaper=Music News Nashville|date=June 24, 2011}}</ref><ref name=tucker>{{cite news|last=Tucker|first=Ken|title=Matt Mason Wins CMT's Next Superstar|url=http://www.countryweekly.com/news/matt-mason-wins-cmts-next-superstar|newspaper=Country Weekly|date=Jun 12, 2011}}</ref>
+
+== Post-''Superstar'' ==
+Following his ''Next Superstar'' win, Mason was signed to [[Warner Records]]. Anticipating a slow process of creating and releasing a major-label album, Mason continued to tour and self-release recordings.<ref name=Thrasher>{{cite news|author=Thrasher, Don|date=June 22, 2012|title=Mason Mason: 'Next superstar' invests in himself|newspaper=[[Dayton Daily News]]|page=AC4}}</ref><ref>{{cite news|author=Thrasher, Don|date=July 26, 2013|title=The Top|newspaper=Dayton Daily News|page=AC3}}</ref> He released the EP ''America's Favorite Pastime'' in 2012.<ref>{{cite news|author=Thrasher, Don|title=Matt Mason: Country singer survives by catering to fans: Musician combines online social media posts with touring|newspaper=Dayton Daily News|date=November 1, 2013|page=AC5}}</ref>
+
+Mason lives in [[Nashville]].<ref name=Thrasher />
+
+==Studio albums==
+
+{| class="wikitable plainrowheaders"
+|-
+! style="width:18em;"| Title
+! style="width:19em;"| Album details
+|-
+! scope="row"| ''Where I've Been''
+|
+* Release date: June 10, 2008
+* Label: Self-released
+* Formats: CD, music download
+|-
+! scope="row"| ''Chasing Stardust''
+|
+* Release date: May 1, 2012
+* Label: Self-released
+* Formats: CD, music download
+|-
+! scope="row"| ''America's Favorite Pastime''
+|
+* Release date: October 23, 2012
+* Label: Self-released
+* Formats: CD, music download
+|-
+! scope="row"| ''When It All Goes South''
+|
+* Release date: February 2, 2015
+* Label: Self-released
+* Formats: CD, music download
+|-
+! scope="row"| ''The Writer's Collection Vol, 1''
+|
+* Release date: April 21, 2017
+* Label: Self-released
+* Formats: CD, music download
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite web | url=http://nl.newsbank.com/nl-search/we/Archives?p_action=doc&p_docid=114066220CDB2EF8&p_docnum=1&s_dlid=DL0112071603000931572&s_ecproduct=SUB-FREE&s_ecprodtype=INSTANT&s_trackval=GooglePM&s_siteloc=&s_referrer=&s_subterm=Subscription%20until%3A%2012%2F14%2F2015%2011%3A59%20PM&s_docsbal=%20&s_subexpires=12%2F14%2F2015%2011%3A59%20PM&s_docstart=&s_docsleft=&s_docsread=&s_username=decaturfree&s_accountid=AC0107082015365903015&s_upgradeable=no | title=Four singers, four styles for Nashville Stars: Talent search winner, finalists at Nashville North |newspaper=Herald & Review |location=Decatur, IL | date=September 8, 2006 | access-date=July 15, 2012 | author=Partridge, Tamela Meredith}}
+* {{cite news | url=https://pqasb.pqarchiver.com/indystar/access/1771701031.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Mar+23%2C+2006&author=&pub=Indianapolis+Star&desc=Shelby+County+man+still+a+%27Nashville+Star%27&pqatl=google | archive-url=https://archive.today/20130201012457/http://pqasb.pqarchiver.com/indystar/access/1771701031.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Mar+23,+2006&author=&pub=Indianapolis+Star&desc=Shelby+County+man+still+a+'Nashville+Star'&pqatl=google | url-status=dead | archive-date=February 1, 2013 |url-access=subscription | title=Shelby County man still a 'Nashville Star' | newspaper=Indianapolis Star | date=March 23, 2006 | access-date=July 15, 2012}}
+* {{cite web | url=http://www.theindychannel.com/entertainment/8620277/detail.html | title=Hoosier Hopes To Become 'Nashville Star' | publisher=RTV6 (ABC) | date=April 11, 2006 | access-date=July 15, 2012 | archive-url=https://web.archive.org/web/20081010141614/http://www.theindychannel.com/entertainment/8620277/detail.html | archive-date=October 10, 2008 | url-status=dead }}
+
+==External links==
+* [http://www.mattmasonmusic.com/ MattMasonMusic.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mason, Matt}}
+[[Category:Living people]]
+[[Category:1980s births]]
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Indianapolis]]
+[[Category:Nashville Star contestants]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Indiana]]
+[[Category:Singer-songwriters from Indiana]]

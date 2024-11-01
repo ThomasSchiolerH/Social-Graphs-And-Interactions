@@ -1,0 +1,496 @@
+{{short description|American country music singer (born 1946)}}
+{{About|the singer|the voice of Brer Rabbit in Song of the South|Johnny Lee (actor)}}
+{{More footnotes|date=January 2020}}
+{{Infobox musical artist
+| name             = Johnny Lee
+| image            = Johnny_Lee.jpg
+| background       = solo_singer
+| birth_name       = John Lee Ham<ref>{{cite book |title= The Billboard Book Of Top 40 Country Hits: 1944-2006, Second edition|last=Whitburn |first=Joel |author-link=Joel Whitburn |year=2004 |publisher=Record Research |page=198}}</ref>
+| birth_date       = {{Birth date and age|1946|7|3}}
+| origin           = [[Alta Loma, Texas|Alta Loma]], Texas, U.S.
+| instrument       = [[Vocals]], [[guitar]]
+| genre            = [[Country music|Country]], [[countrypolitan]]
+| occupation       = [[Singing|Singer]]
+| years_active     = 1976&ndash;present
+| label            = [[Asylum Records]] <br> [[Warner Bros. Records]] <br> [[Curb Records]]
+| associated_acts  = [[Mickey Gilley]]
+| website          = [http://www.thejohnnyleemusic.com/ www.thejohnnyleemusic.com]
+}}
+
+'''Johnny Lee''' (born '''John Lee Ham'''; July 3, 1946) is an American [[country music]] singer. His 1980 single "[[Lookin' for Love]]" became a crossover hit, spending three weeks at number 1 on the ''[[Billboard magazine|Billboard]]'' country singles chart while also appearing in the top 5 on the [[Billboard Hot 100|''Billboard'' Hot 100]] chart and top 10 on ''Billboard''{{'}}s Adult Contemporary chart. He racked up 17 top 40 country hits in the early and mid-1980s.
+
+==Biography==
+Lee was born in [[Texas City, Texas|Texas City]], Texas, and grew up on a dairy farm in nearby Alta Loma (now part of [[Santa Fe, Texas|Santa Fe]], Texas). In high school he formed a [[rock n' roll]] band, "Johnny Lee and the Roadrunners". After graduation, Lee enlisted in the [[United States Navy]] and served a tour of duty on the [[USS Chicago (CA-136)|USS Chicago]], a guided missile cruiser. After his discharge, he had his name legally changed from John Lee Ham to Johnny Lee. He played cover tunes in Texas nightclubs and bars throughout the late 1960s.
+
+Lee worked 10 years with [[Mickey Gilley]], both on tour and at Gilley’s Club in [[Pasadena, Texas|Pasadena]], Texas. The soundtrack from the 1980 hit movie ''[[Urban Cowboy]]'', which was largely shot at Gilley's, catapulted Lee to fame. The record spawned several hit singles, including "Lookin' for Love."
+
+Lee also had five other songs reach the top of the [[Billboard magazine]] Hot Country Singles chart: "One in a Million" (1980), "Bet Your Heart on Me" (1981), "The Yellow Rose" (1984, a duet with [[Lane Brody]] and the theme song to the [[The Yellow Rose|NBC TV-series]] of the same name), and "You Could Have Heard a Heartbreak" (1984). His other hits include "[[Pickin' Up Strangers]]" (1981), "Prisoner of Hope" (1981), "Cherokee Fiddle"(1982), "Sounds Like Love"(1982), "When You Fall In Love"(1982), "Be There For Me Baby"(1981), "Hey Bartender" (1983), "Rollin' Lonely"(1984), and "Save the Last Chance" (1985).
+
+From 1982 to 1984, Lee was married to ''Dallas'' actress [[Charlene Tilton]], with whom he had a daughter, Cherish (born 1982). He married his second wife, Deborah Spohr Lee, in 1986.<ref>{{Cite web|url=https://news.google.com/newspapers?nid=2002&dat=19891015&id=lrgiAAAAIBAJ&sjid=M7UFAAAAIBAJ&pg=1438,3313200&hl=en|title=Beaver County Times - Google News Archive Search|website=News.google.com|access-date=January 22, 2020}}</ref> The couple had a son, Johnny Lee Jr., in 1990 and divorced years later.  Deborah died November 7, 2002, after a long battle with prescription painkillers. After Johnny Lee Jr. died in 2014 at the age of 23 of a drug overdose, Lee became active in combating the illegal drug epidemic.<ref>{{Cite news|url=http://bransontrilakesnews.com/news_free/article_a748a0a2-58c9-11e5-b979-3b9506590e35.html|title=Johnny Lee talks love, loss and Branson return|first=Joshua|last=Clark|newspaper=[[Branson Tri-Lakes News]]|access-date=January 22, 2020}}</ref>
+
+In the fall of 2008, Lee began performing regularly in [[Branson, Missouri|Branson]], Missouri.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart Positions
+! rowspan="2"| [[RIAA]]
+|-
+! width="40"| <small>[[Top Country Albums|US Country]]</small><br><ref name="Country Albums">{{cite web|url={{BillboardURLbyName|artist=johnny lee|chart=Country Albums C}}|title=Johnny Lee Album & Song Chart History - Country Albums|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=June 14, 2011}}</ref>
+! width="40"| <small>CAN Country</small><br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=ac2kkr07g4a98ca8t65i17k8s0&q1=johnny+lee&q2=Country+Albums%2FCDs&interval=20|title=Results - RPM - Library and Archives Canada - Country Albums|work=[[RPM (magazine)|RPM]]|access-date=June 14, 2011}}</ref>
+|-
+| 1977
+| ''H-e-e-ere's Johnny!''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1977
+| ''For Lovers Only (Johnny Lee album)|For Lovers Only''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1980
+| ''Lookin' for Love''
+| align="center"| 8
+| align="center"| 6
+| align="center"| Gold
+|-
+| 1981
+| ''Bet Your Heart on Me''
+| align="center"| 9
+| align="center"| —
+| align="center"| —
+|-
+| 1982
+| ''Sounds Like Love''
+| align="center"| 32
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1983
+| ''Hey Bartender''
+| align="center"| 15
+| align="center"| —
+| align="center"| —
+|-
+| ''Greatest Hits''
+| align="center"| 41
+| align="center"| —
+| align="center"| —
+|-
+| 1984
+| ''Til' the Bars Burn Down''
+| align="center"| 23
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1985
+| ''Workin' for a Livin''
+| align="center"| 23
+| align="center"| —
+| align="center"| —
+|-
+| ''Keep Me Hangin' On''
+| align="center"| 36
+| align="center"| —
+| align="center"| —
+|-
+| 1989
+| ''New Directions''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1989
+| ''Buckmasters Presents Woods & Water''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1990
+| ''Greatest Hits Volume 2''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1990
+| ''The Best of Johnny Lee''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1995
+| ''Country Party''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1996
+| ''Ramblin' Rose''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1999
+| ''Live at Gilley's''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2001
+| ''At His Best''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2002
+| ''Live at Billy Bob's Texas''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 2003
+| ''The 13th of July''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| ''Greatest Hits''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2005
+| ''Santa Claus Is Lookin' for Love''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2006
+| ''Country Candy Store''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2016
+| ''You Ain't Never Been To Texas''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2021
+| ''Everything's Gonna Be Alright''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="3"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="45"| <small>[[Hot Country Songs|US Country]]</small><br><ref name="Country Songs">{{cite web|url={{BillboardURLbyName|artist=johnny lee|chart=Country Songs}}|title=Johnny Lee Album & Song Chart History - Country Songs|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=June 14, 2011}}</ref>
+! width="45"| <small>[[Billboard Hot 100|US]]</small><br><ref name="Hot 100">{{cite web|url={{BillboardURLbyName|artist=johnny lee|chart=Hot 100}}|title=Johnny Lee Album & Song Chart History - Hot 100|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=June 14, 2011}}</ref>
+! width="45"| <small>CAN Country</small><br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=pm8c1c8gfmg0fqbijk264kkgu5&q1=johnny+lee&q2=Country+Singles&interval=20|title=Results - RPM - Library and Archives Canada - Country Singles|work=[[RPM (magazine)|RPM]]|access-date=June 14, 2011}}</ref>
+|-
+| rowspan="2"| 1976
+| "[[Sometime (Gene Thomas song)|Sometimes]]"
+| align="center"| 59
+| align="center"| —
+| align="center"| —
+| {{n/a}}
+|-
+| "[[Red Sails in the Sunset (song)|Red Sails in the Sunset]]"
+| align="center"| 22
+| align="center"| —
+| align="center"| —
+| rowspan=5|''H-e-e-ere's Johnny!''
+|-
+| rowspan="3"| 1977
+| "[[Ramblin' Rose]]"
+| align="center"| 37
+| align="center"| —
+| align="center"| —
+|-
+| "[[Country Party (song)|Country Party]]"
+| align="center"| 15
+| align="center"| —
+| align="center"| 50
+|-
+| "[[Dear Alice]]"
+| align="center"| 58
+| align="center"| —
+| align="center"| —
+|-
+| 1978
+| "[[This Time (Thomas Wayne song)|This Time]]"
+| align="center"| 43
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1980
+| "[[Lookin' for Love]]"<sup>{{anchor|ref_A}}[[#endnote_A|'''[A]''']]</sup>
+| align="center"| 1
+| align="center"| 5
+| align="center"| 18
+| rowspan="4"| ''Lookin' for Love''
+|-
+| "[[One in a Million (Johnny Lee song)|One in a Million]]"
+| align="center"| 1
+| align="center"| 102
+| align="center"| 8
+|-
+| rowspan="4"| 1981
+| "[[Pickin' Up Strangers]]"
+| align="center"| 3
+| align="center"| —
+| align="center"| 4
+|-
+| "[[Prisoner of Hope]]"
+| align="center"| 3
+| align="center"| —
+| align="center"| 4
+|-
+| "Rode Hard and Put Up Wet"
+| align="center"| 52
+| align="center"| —
+| align="center"| —
+| ''Urban Cowboy 2''
+|-
+| "[[Bet Your Heart on Me]]"
+| align="center"| 1
+| align="center"| 54
+| align="center"| 5
+| rowspan="3"| ''Bet Your Heart on Me''
+|-
+| rowspan="3"| 1982
+| "[[Be There for Me Baby]]"
+| align="center"| 10
+| align="center"| —
+| align="center"| 5
+|-
+| "[[When You Fall in Love]]"
+| align="center"| 14
+| align="center"| —
+| align="center"| 46
+|-
+| "[[Cherokee Fiddle]]"
+| align="center"| 10
+| align="center"| —
+| align="center"| 24
+| rowspan="2"| ''Sounds Like Love''
+|-
+| rowspan="3"| 1983
+| "[[Sounds Like Love]]"
+| align="center"| 6
+| align="center"| —
+| align="center"| 9
+|-
+| "[[Hey Bartender]]"
+| align="center"| 2
+| align="center"| —
+| align="center"| 1
+| rowspan="2"| ''Hey Bartender''
+|-
+| "[[My Baby Don't Slow Dance]]"
+| align="center"| 23
+| align="center"| —
+| align="center"| 13
+|-
+| rowspan="3"| 1984
+| "[[The Yellow Rose (song)|The Yellow Rose]]" <small>(with [[Lane Brody]])</small>
+| align="center"| 1
+| align="center"| —
+| align="center"| 1
+| rowspan="2"| '''Til the Bars Burn Down''
+|-
+| "One More Shot"
+| align="center"| 42
+| align="center"| —
+| align="center"| 26
+|-
+| "[[You Could've Heard a Heart Break]]"
+| align="center"| 1
+| align="center"| —
+| align="center"| 2
+| rowspan="2"| ''Workin' for a Livin'''
+|-
+| rowspan="3"| 1985
+| "[[Rollin' Lonely]]"
+| align="center"| 9
+| align="center"| —
+| align="center"| 9
+|-
+| "[[Save the Last Chance]]"
+| align="center"| 12
+| align="center"| —
+| align="center"| 12
+| rowspan="2"| ''Keep Me Hangin' On''
+|-
+| "They Never Had to Get Over You"
+| align="center"| 19
+| align="center"| —
+| align="center"| 57
+|-
+| rowspan="2"|1986
+| "The Loneliness in Lucy's Eyes<br />(The Life Sue Ellen Is Living)"
+| align="center"| 56
+| align="center"| —
+| align="center"| —
+| ''Dallas: The Music Story''
+|-
+| "I Could Get Used to This" <small>(with Lane Brody)</small>
+| align="center"| 50
+| align="center"| —
+| align="center"| —
+| {{n/a}}
+|-
+| rowspan="4"| 1989
+| "Maybe I Won't Love You Anymore"
+| align="center"| 59
+| align="center"| —
+| align="center"| —
+| rowspan="5"| ''New Directions''
+|-
+| "I'm Not Over You"
+| align="center"| 69
+| align="center"| —
+| align="center"| —
+|-
+| "I Can Be a Heartbreaker Too"
+| align="center"| 53
+| align="center"| —
+| align="center"| —
+|-
+| "You Can't Fly Like an Eagle"
+| align="center"| 66
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1990
+| "Heart to Heart Talk"
+| align="center"| —<sup>{{anchor|ref_A}}[[#endnote_A|'''[A]''']]</sup>
+| align="center"| —
+| align="center"| —
+|-
+| "Dangerously Lonely"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''The Best of Johnny Lee''
+|-
+| "Money in My Pocket"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2016
+| "Never Been to Texas"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| ''You Ain't Never Been to Texas''
+|-
+|}
+
+===Charted B-sides===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| B-side
+! colspan="1"| Chart Positions
+! rowspan="2"| Original A-side
+|-
+! width="45"| <small>[[Hot Country Songs|US Country]]</small><br><ref name="Country Songs"/>
+|-
+| 1984
+| "Say When"
+| align="center"| flip
+| "The Yellow Rose"
+|}
+
+{{refbegin}}
+;Notes
+*A{{anchor|endnote_A}}'''[[#ref_A|^]]''' "Lookin' for Love" also peaked at No. 20 on the ''RPM'' Adult Contemporary Tracks chart and No. 54 on the ''RPM'' Top Singles chart in Canada.
+*B{{anchor|endnote_B}}'''[[#ref_B|^]]''' "Heart to Heart Talk" did not chart on Hot Country Songs, but peaked at No. 4 on Hot Country Radio Breakouts.<ref>{{cite web|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-03-24.pdf|title=Hot Country Radio Breakouts|date=March 24, 1990|work=Billboard}}</ref>
+{{refend}}
+
+==Awards and nominations==
+=== Grammy Awards ===
+
+{{awards table}}
+|-
+|[[23rd Grammy Awards|1981]]
+|"[[Lookin' for Love]]"
+|[[Grammy Award for Best Male Country Vocal Performance|Best Male Country Vocal Performance]]
+|{{nom}}
+|}
+
+=== Music City News Country Awards ===
+
+{{awards table}}
+|-
+|1981
+|Johnny Lee
+|Most Promising Male Artist
+|{{nom}}
+|}
+
+=== Academy of Country Music Awards ===
+
+{{awards table}}
+|-
+|[[12th Academy of Country Music Awards|1977]]
+|rowspan=2| Johnny Lee
+|[[Academy of Country Music Award for New Male Artist of the Year|Most Promising Male Vocalist]]
+|{{nom}}
+|-
+|rowspan=3| [[16th Academy of Country Music Awards|1981]]
+|[[Academy of Country Music Award for New Male Artist of the Year|Top New Male Vocalist]]
+|{{won}}
+|-
+|rowspan=2| "[[Lookin' for Love]]"
+|Song of the Year
+|{{nom}}
+|-
+|Single Record of the Year
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+==Other sources==
+* "Johnny Lee Biography". [https://web.archive.org/web/20040618123103/http://www.cmt.com/artists/az/lee_johnny/bio.jhtml CMT.com]. Retrieved May 27, 2005.
+* "Johnny Lee - Biography". [http://www.johnnyleefanclub.com/about.htm Official Johnny Lee Fan Club website]. Retrieved May 27, 2005.
+* [https://books.google.com/books?id=4QwwtsY2iVIC&q=johnny+lee&dq=johnny+lee&hl=en  Johnny Lee with Randy Wyles. 1989. ''Lookin' for love.''  Diamond Books.]
+* {{cite journal |id={{ProQuest|1624965880}} |last1=Smith |first1=Tumbleweed |title=Johnny Lee Still Singing Those Hits |journal=Ranch and Rural Living |location=San Angelo |volume=96 |issue=2 |date=November 2014 |page=4 }}
+
+==External links==
+* {{IMDb name|0497573}}
+
+{{Johnny Lee}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lee, Johnny}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Place of birth missing (living people)]]
+[[Category:American male singer-songwriters]]
+[[Category:Singers from Houston]]
+[[Category:Asylum Records artists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:People from Texas City, Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:People from Santa Fe, Texas]]

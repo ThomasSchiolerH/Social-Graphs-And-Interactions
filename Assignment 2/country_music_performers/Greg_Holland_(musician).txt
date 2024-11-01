@@ -1,0 +1,100 @@
+{{short description|American country musician (born Feb. 22,1968)}}
+{{BLP sources|date=September 2010}}
+{{Infobox musical artist
+| name            = Greg Holland
+| image           =
+| birth_name      = Johnny, till mother changed to Gregory 
+| birth_date      = {{birth date and age|1967|2|22}}
+| origin          = [[Douglas, Georgia]], [[United States]]
+| genre           = [[Country music|Country]]
+| occupation      = [[Singing|Singer]]
+| years_active    = 1994-present
+| label           = [[Warner Bros. Records|Warner Bros.]], [[Asylum Records|Asylum]]
+| associated_acts =
+| website         = 
+}}
+
+'''Greg Holland''' is an American [[country music]]ian. Holland grew up in [[Douglas, Georgia]], where he performed as a youngster in local play productions and on television. He recorded a demo before reaching his teens and opened in concert for [[Ronnie Milsap]] when he was 12 years old.<ref>[{{AllMusic|class=artist|id=p142929|pure_url=yes}} Greg Holland] at [[Allmusic]]</ref> Holland played several instruments in the school band in [[high school]], and also played in a rock group called The Bad Boys. He spent three years in the [[United States Army|Army]], performing with a soldiers' group in [[Europe]],Excitement 89, and upon his return joined band touring Ga and FL named Borderline, several years of clubs and trips solo to Nashville signed with [[Warner Bros. Records]]. Two solo albums followed, one for Warner in 1994 and one for [[Asylum Records|Asylum]] in 1997.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Let Me Drive''
+| 
+* Release date: September 13, 1994
+* Label: [[Warner Bros. Records]]
+|-
+! scope="row"| ''Exception to the Rule''
+| 
+* Release date: March 25, 1997
+* Label: [[Asylum Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1994
+! scope="row"| "Let Me Drive"
+| 63
+| 58
+| align="left" rowspan="2"| ''Let Me Drive''
+|-
+! scope="row"| "When I Come Back (I Wanna Be My Dog)"
+| 66
+| 82
+|-
+| rowspan="2"| 1997
+! scope="row"| "Divine Intervention"
+| —
+| —
+| align="left" rowspan="2"| ''Exception to the Rule''
+|-
+! scope="row"| "Exception to the Rule"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:22em;"| Video
+! Director
+|-
+| rowspan="2"| 1994
+! scope="row"| "Let Me Drive"
+| Steven T. Miller/R. Brad Murano
+|-
+! scope="row"| "When I Come Back (I Wanna Be My Dog)"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Holland, Greg}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:1967 births]]
+[[Category:Asylum Records artists]]
+[[Category:People from Douglas, Georgia]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:Singer-songwriters from Georgia (U.S. state)]]

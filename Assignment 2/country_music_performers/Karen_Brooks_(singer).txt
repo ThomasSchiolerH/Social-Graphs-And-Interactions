@@ -1,0 +1,160 @@
+{{short description|American singer-songwriter}}
+{{Infobox musical artist
+|name            = Karen Brooks
+|image           =
+|caption         = 
+|background      = solo_singer
+|birth_date      = {{Birth date and age|1954|4|30}}
+|origin          = [[Dallas, Texas]], United States
+|instrument      = [[singing|Vocals]]
+|genre           = [[Country music|Country]]
+|occupation      = singer
+|years_active    = 1982–1992
+|label           = [[Warner Records|Warner]]<br/>[[Mercury Records|Mercury]]
+}}
+'''Karen Brooks''' (born April 30, 1954) is an American country music singer and songwriter who is best known for a series of singles recorded by [[Emmylou Harris]], [[Rosanne Cash]], [[Patty Loveless]], [[Tanya Tucker]], [[Russell Smith (singer)|Russell Smith]], [[David Allen Coe]], [[Crystal Gayle]] and [[Exile (American band)|Exile]]. She recorded a duet with [[Johnny Cash]], "I Will Dance With You", and also with [[T. G. Sheppard]], "[[Faking Love]]", which was a number one hit on the ''Billboard'' country chart in February 1983. She also had a number of top 40 songs as a recording artist on [[Warner Records]].
+
+Brooks was born in [[Dallas]], [[Texas]], United States.  She attended [[Justin F. Kimball High School]] with schoolmate [[Stevie Ray Vaughan]] (Class of '72). She was formerly married to [[Gary P. Nunn]], with whom she had one child, a son, Lukin Tolliver Nunn. Her mother, Lynn Brooks, was a make-up artist in the motion-picture industry. During the latter half of the 1970s and the early half of the 1980s, she lent her vocals to recordings by [[Jerry Jeff Walker]], David Allan Coe, [[Steven Fromholz]], [[Gary P. Nunn]], [[Townes Van Zandt]],  [[Anne Murray]] and Emmylou Harris.<ref>[{{AllMusic|class=artist|id=p16113/biography|pure_url=yes}} Karen Brooks] ''[[AllMusic]]''; retrieved 6-6-08</ref>
+
+She remained a popular background singer for much of the late 1970s. She then headed to California to work alongside [[Rodney Crowell]], where she eventually picked up a recording contract with [[Warner Bros. Records]]. Both "New Way Out" and "Faking Love" hit the Top 20 of ''Billboard''.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Peak positions
+! rowspan="2"| Label
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br/><ref>{{cite magazine|url=http://billboard.com/artist/karen-brooks/chart-history/clp|title=Karen Brooks - Chart History (Top Country Albums)|magazine=Billboard|access-date=December 5, 2021}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Karen+Brooks&ChartEn=Country+Albums%2fCDs&|title=Karen Brooks - Country Albums/CDs|work=[[RPM (magazine)|RPM]]|date=17 July 2013 |access-date=December 5, 2021}}</ref>
+|-
+| 1982
+! scope="row"| ''Walk On''
+| 38
+| —
+| rowspan="3"| Warner
+|-
+| 1984 
+! scope="row"| ''Hearts on Fire''
+| 40
+| 21
+|-
+| 1985
+! scope="row"| ''I Will Dance with You''
+| —
+| —
+|-
+| 1992
+! scope="row"| ''That's Another Story'' {{small|(with [[Randy Sharp]])}}
+| —
+| —
+| Mercury
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/karen-brooks/chart-history/csi|title=Karen Brooks - Chart History (Hot Country Songs)|magazine=Billboard|access-date=December 5, 2021}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Karen+Brooks&ChartEn=Country+Singles&|title=Karen Brooks - Country Singles|work=RPM|date=17 July 2013 |access-date=December 5, 2021}}</ref>
+|-
+| rowspan="2"| 1982
+! scope="row"| "New Way Out"
+| 17
+| —
+| ''Walk On'' 
+|-
+! scope="row"| "[[Faking Love]]" {{small|(with [[T.G. Sheppard]])}}
+| 1
+| 1
+| ''Perfect Stranger''
+|-
+| rowspan="2"| 1983
+! scope="row"| "[[If That's What You're Thinking]]"
+| 21
+| —
+| rowspan="2"| ''Walk On''
+|-
+! scope="row"| "Walk On"
+| 30
+| —
+|-
+| rowspan="2"| 1984
+! scope="row"| "Born to Love You"
+| 40
+| —
+| rowspan="3"| ''Hearts on Fire''
+|-
+! scope="row"| "Tonight I'm Here with Someone Else"
+| 19
+| 14
+|-
+| rowspan="2"| 1985
+! scope="row"| "A Simple I Love You"
+| 63
+| —
+|-
+! scope="row"| "[[I Will Dance with You]]" {{small|(with [[Johnny Cash]])}}
+| 45
+| —
+| ''I Will Dance with You''
+|-
+| rowspan="2"| 1992
+! scope="row"| "Baby I'm the One" {{small|(with [[Randy Sharp]])}}<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1992/Billboard-1992-05-30.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=May 30, 1992}}</ref>
+| —
+| —
+| rowspan="2"| ''That's Another Story''
+|-
+! scope="row"| "That's Another Story" {{small|(with Randy Sharp)}}<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1992/Billboard-1992-11-07.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=November 7, 1992}}</ref>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1983
+|rowspan=2| [[Academy of Country Music Awards]]
+|[[Academy of Country Music Award for New Female Artist of the Year|Top New Female Vocalist]]
+|Karen Brooks
+|{{won}}
+|-
+|1984
+|Top Vocal Duo of the Year
+|[[T.G. Sheppard]] and Karen Brooks
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brooks, Karen}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:Bryan Adams High School alumni]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Singers from Dallas]]
+[[Category:Singers from Austin, Texas]]
+[[Category:Warner Records artists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singers]]

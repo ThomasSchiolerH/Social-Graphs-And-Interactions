@@ -1,0 +1,325 @@
+{{other people|George Fox}}
+{{BLP sources|date=July 2021}}
+{{Infobox musical artist
+| image           =
+| name            = George Fox
+| birth_name      = William George Fox
+| alias           =
+| birth_date      = {{Birth date and age|1960|03|23}}
+| birth_place     = [[Calgary]], [[Alberta]], Canada
+| origin          = [[Cochrane, Alberta]], Canada
+| death_date      =
+| genre           = [[Country music|Country]]
+| occupation      = [[singer/songwriter]]
+| years_active    = 1987–present
+| label           = [[Warner Music Canada]], [[Warner Bros. Records|Warner Bros. Nashville]], [[Royalty Records|Royalty]]
+| associated_acts =
+| website         = [http://www.georgefox.com/ www.georgefox.com]
+}}
+'''George Fox''' (born March 23, 1960) is a Canadian country/western music singer/songwriter raised in [[Cochrane, Alberta|Cochrane]], [[Alberta]], the son of cattle ranchers Bert and Gert Fox.{{citation needed|date=July 2021}}
+
+==Career==
+
+His first single, "Angelina", reached No.&nbsp;8 on the Canadian country music charts. In subsequent years, "Goldmine", "No Trespassing", "Mustang Heart", "I Give You My Word", "[[What's Holding Me]]" and "Breakfast Alone" also became top 10 singles and signature songs. He has written a book of short stories depicting ranch life entitled ''My First Cow''.{{citation needed|date=July 2021}}
+
+==Honours==
+
+Awards include the [[Canadian Country Music Awards]] (CCMA) Male Vocalist Of The Year (three times) and the [[Juno Award]]s Country Male Vocalist Of The Year (three times). Fox was host of the CCMA Awards television show from 1991 to 1994.
+
+In 1995, his home town of Cochrane named a new street George Fox Trail in his honour.<ref name="HALLOFFAME">{{cite news| url=https://www.thespec.com/entertainment/music/opinion/2022/08/18/george-fox-canadian-country-music-hall-of-fame.html| title=A look back on George Fox's Hall of Fame career| last=Rockingham| first=Graham| work=The Hamilton Spectator| date=August 18, 2022}}</ref>
+
+In September 2022 he was inducted into the [[Canadian Country Music Hall of Fame]].<ref name="HALLOFFAME" />
+
+==Personal life==
+
+Fox and his wife Monica live near [[Ancaster, Ontario|Ancaster]] in southern [[Ontario]] with their two daughters.<ref name="HALLOFFAME" />
+
+== Discography ==
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! colspan="2"| Peak chart<br />positions
+! rowspan="2" style="width:10em;"| [[Music recording sales certification|Certifications]]<br /><small>([[List of music recording sales certifications|sales thresholds]])</small>
+|- style="font-size:smaller;"
+! width="45"| [[RPM (magazine)|CAN Country]]
+! width="45"| [[RPM (magazine)|CAN]]
+|-
+! scope="row"| ''[[George Fox (album)|George Fox]]''
+| 
+* Release date: 1988
+* Label: [[Warner Music Canada]]
+| 16
+| —
+| 
+* [[Music Canada|CAN]]: Gold{{Certification Cite Ref|region=Canada|type=album|title=George Fox|artist=George Fox}}
+|-
+! scope="row"| ''[[With All My Might (album)|With All My Might]]''
+| 
+* Release date: 1989
+* Label: Warner Music Canada
+| —
+| 84
+| 
+* CAN: Gold{{Certification Cite Ref|region=Canada|type=album|title=With All My Might|artist=George Fox}}
+|-
+! scope="row"| ''[[Spice of Life (George Fox album)|Spice of Life]]''
+| 
+* Release date: 1991
+* Label: Warner Music Canada
+| 23
+| —
+| 
+|-
+! scope="row"| ''[[Mustang Heart]]''
+| 
+* Release date: 1993
+* Label: Warner Music Canada
+| 7
+| —
+| 
+* CAN: Gold{{Certification Cite Ref|region=Canada|type=album|title=Mustang Heart|artist=George Fox}}
+|-
+! scope="row"| ''[[Time of My Life (George Fox album)|Time of My Life]]''
+| 
+* Release date: 1995
+* Label: Warner Music Canada
+| 4
+| —
+| 
+* CAN: Gold{{Certification Cite Ref|region=Canada|type=album|title=Time of My Life|artist=George Fox}}
+|-
+! scope="row"| ''[[Survivor (George Fox album)|Survivor]]''
+| 
+* Release date: May 19, 1998
+* Label: Warner Music Canada
+| —
+| —
+| 
+|-
+! scope="row"| ''George Fox Christmas''
+| 
+* Release date: 1999
+* Label: Trail of the Fox
+| —
+| —
+| 
+|-
+! scope="row"| ''Canadian''
+| 
+* Release date: June 1, 2004
+* Label: Trail of the Fox
+| *
+| —
+| 
+|-
+! scope="row"| ''With All Due Respect''
+| 
+* Release date: 2006
+* Label: Trail of the Fox
+| *
+| —
+| 
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart<br>* denotes unknown peak positions
+|-
+|}
+
+=== Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Details
+! style="width:10em;"| [[Music recording sales certification|Certifications]]<br /><small>([[List of music recording sales certifications|sales thresholds]])</small>
+|-
+! scope="row"| ''[[Greatest Hits 1987–1997]]''
+| 
+* Release date: March 4, 1997
+* Label: Warner Music Canada
+| 
+* CAN: Gold{{Certification Cite Ref|region=Canada|type=album|title=Greatest Hits|artist=George Fox}}
+|-
+! scope="row"| ''The Essentials George Fox''
+| 
+* Release date: August 30, 2005
+* Label: Warner Music Canada
+| 
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1988
+! scope="row"| "Angelina"{{efn|"Angelina" peaked at No. 7 on the ''Billboard'' Hot Country Radio Breakouts chart in 1990.<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-04-28.pdf|title=Hot Country Radio Breakouts|date=April 28, 1990|magazine=Billboard}}</ref>}}
+| 8
+| align="left" rowspan="4"| ''George Fox''
+|- 
+! scope="row"| "Long Distance"
+| 16
+|- 
+| rowspan="3"| 1989
+! scope="row"| "RBJ"
+| 35
+|- 
+! scope="row"| "[[Goldmine (George Fox song)|Goldmine]]"
+| 9
+|- 
+! scope="row"| "[[No Trespassing (song)|No Trespassing]]"
+| 10
+| align="left" rowspan="4"| ''With All My Might''
+|- 
+| rowspan="3"| 1990
+! scope="row"| "[[Bachelor Girl (song)|Bachelor Girl]]"
+| 4
+|- 
+! scope="row"| "[[Lime Rickey (song)|Lime Rickey]]"
+| 10
+|- 
+! scope="row"| "[[With All My Might (George Fox song)|With All My Might]]"{{efn|"With All My Might" also peaked at number 28 on the ''[[RPM (magazine)|RPM]]'' Adult Contemporary Tracks chart.}}
+| 5
+|- 
+| rowspan="3"| 1991
+! scope="row"| "Fell in Love and I Can't Get Out"
+| 20
+| align="left" rowspan="4"| ''Spice of Life''
+|- 
+! scope="row"| "I Know Where You Go"
+| 20
+|- 
+! scope="row"| "[[Here Today, Here Tomorrow]]"
+| 10
+|- 
+| rowspan="2"| 1992
+! scope="row"| "Spice of Life"
+| 21
+|- 
+! scope="row"| "[[Clearly Canadian (song)|Clearly Canadian]]"
+| 9
+| align="left" rowspan="6"| ''Mustang Heart''
+|- 
+| rowspan="3"| 1993
+! scope="row"| "[[Mustang Heart (song)|Mustang Heart]]"
+| 6
+|- 
+! scope="row"| "[[Breakfast Alone]]"
+| 10
+|- 
+! scope="row"| "[[Honest Man (song)|Honest Man]]"
+| 8
+|- 
+| rowspan="2"| 1994
+! scope="row"| "[[No Hasta la Vista Tonight]]"
+| 5
+|- 
+! scope="row"| "[[Wear and Tear on My Heart]]"
+| 4
+|- 
+| rowspan="3"| 1995
+! scope="row"| "[[What's Holding Me]]"
+| 1
+| align="left" rowspan="3"| ''Time of My Life''
+|- 
+! scope="row"| "[[First Comes Love (song)|First Comes Love]]"
+| 1
+|- 
+! scope="row"| "[[Time of My Life (George Fox song)|Time of My Life]]"
+| 10
+|- 
+| rowspan="2"| 1997
+! scope="row"| "[[I Give You My Word (song)|I Give You My Word]]"
+| 7
+| align="left" rowspan="2"| ''Greatest Hits 1987-1997''
+|- 
+! scope="row"| "The Night the Barn Burned Down"
+| 17
+|- 
+| rowspan="3"| 1998
+! scope="row"| "[[I'm Gone (George Fox song)|I'm Gone]]"
+| 6
+| align="left" rowspan="4"| ''Survivor''
+|- 
+! scope="row"| "[[Do the Math]]"
+| 17
+|- 
+! scope="row"| "Survivor"
+| 22
+|- 
+| 1999
+! scope="row"| "How Do I Get There From Her"
+| 20
+|- 
+| 2004
+! scope="row"| "High Toned Years"
+| —
+| align="left"| ''Canadian''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 1989
+! scope="row"| "No Trespassing"
+| 
+|-
+| 1991
+! scope="row"| "I Know Where You Go"
+| 
+|-
+| rowspan="2"| 1995
+! scope="row"| "What's Holding Me"
+| 
+|-
+! scope="row"| "First Comes Love"
+| rowspan="2"| Sara Nichols
+|-
+| 1997
+! scope="row"| "I Give You My Word"
+|-
+| rowspan="2"| 1998
+! scope="row"| "Do the Math"
+| 
+|-
+! scope="row"| "Survivor"
+| 
+|-
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.georgefox.com George Fox official website]
+* [{{AllMusic|class=artist|id=p1614/biography|pure_url=yes}} "George Fox"], ''Allmusic''
+* [https://web.archive.org/web/20050518062700/http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=U1ARTU0001273 "George Fox"], ''Canadian Encyclopedia of Music''
+
+{{George Fox}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fox, George}}
+[[Category:1960 births]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Juno Award winners]]
+[[Category:Living people]]
+[[Category:Musicians from Calgary]]
+[[Category:People from Cochrane, Alberta]]
+[[Category:Canadian Country Music Association Male Artist of the Year winners]]
+[[Category:Canadian Country Music Association Rising Star Award winners]]
+[[Category:Singers from Alberta]]

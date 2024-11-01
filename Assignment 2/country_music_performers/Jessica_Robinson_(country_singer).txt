@@ -1,0 +1,134 @@
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist
+| image           =
+| name            = Jessica Robinson
+| origin          = [[Prince Albert, Saskatchewan|Prince Albert]], Saskatchewan, Canada
+| Instruments     =
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 2000–present
+| label           = [[Royalty Records]]
+| associated_acts =
+| website         = [http://www.jessicarobinson.net/ www.jessicarobinson.net]
+| current_members =
+| past_members    = 
+}}
+
+'''Jessica Robinson''' is a singer from [[Saskatchewan]]. Her [[country music]] album, ''Hummingbird'', was released in 2005. She is a native of [[Prince Albert, Saskatchewan]], where she also works as a music teacher.<ref>{{cite news | url=https://www.newspapers.com/image/512770317 | title=Chasing a dream | work=Star-Phoenix | date=December 2, 2004 | accessdate=October 9, 2019 | author=Cam Fuller | pages=C1, C4}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Hummingbird''
+| 
+* Release date: July 26, 2005
+* Label: [[Royalty Records]]
+|-
+! scope="row"| ''Wirl & Twirl & Swirl''
+| 
+* Release date: 2007
+* Label: self-released
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| 2000
+! scope="row"| "Story of My Life"
+| 23
+| align="left" rowspan="2"| Singles only
+|-
+| 2001
+! scope="row"| "Sitting on a Goldmine"
+| *
+|-
+| 2004
+! scope="row"| "I'll Save My Prayers (For Bigger Things)"
+| *
+| align="left" rowspan="6"| ''Hummingbird''
+|-
+| 2005
+! scope="row"| "I Like This Place"
+| *
+|-
+| rowspan="3"| 2006
+! scope="row"| "Hummingbird"
+| *
+|-
+! scope="row"| "Little Dirt Road"
+| *
+|-
+! scope="row"| "Smoke and Mirrors"
+| *
+|-
+| 2007
+! scope="row"| "There It Is"
+| *
+|- 
+| colspan="4" style="font-size:8pt"| * denotes unknown peak positions
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 2005
+! scope="row"| "I Like This Place"
+| Antonio Hrynchuk
+|-
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| 2001
+| rowspan="2"| [[Canadian Country Music Association]]
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+| 2005
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://jessicarobinson.net JessicaRobinson.net] – Official site
+*[http://www.countrymusicnews.ca/news.ihtml?step=2&article_id=917 JESSICA ROBINSON –  Dirt Road Girl]
+*[http://www.cduniverse.com/search/xx/music/pid/6881776/a/Hummingbird.htm ''Hummingbird'' on cdUniverse.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Robinson, Jessica}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:People from Prince Albert, Saskatchewan]]
+[[Category:Canadian women country singers]]
+
+
+{{Canada-singer-stub}}

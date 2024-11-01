@@ -1,0 +1,633 @@
+{{short description|American country rapper (born 1991)}}
+{{Use American English|date=June 2023}}
+{{Use mdy dates|date=June 2023}}
+
+{{Infobox musical artist
+| name              = Ryan Upchurch
+| image             = Ryan Upchurch.jpg
+| caption           = Upchurch in 2017
+| birth_name        = Ryan Edward Upchurch
+| birth_date        = {{birth date and age|1991|05|24}}
+| birth_place       = [[Nashville, Tennessee]]
+| origin            = [[Cheatham County, Tennessee]]
+| years_active      = 2014–present
+| genre             = {{hlist|[[Country rap]]||[[hip hop music|hip hop]]|[[Country music|country]]|[[southern metal]]|[[country rock]]|[[southern hip hop]]}}
+| occupation        = {{hlist|Rapper|singer|songwriter|comedian}}
+| label             = {{hlist|Mud to Gold Entertainment|Luce-N-Up Records}}
+| website           = {{URL|upchurchmerch.com}}
+| alias             = Upchurch, Upchurch the Redneck
+}}
+
+'''Ryan Edward Upchurch''' (born May 24, 1991), known as '''Upchurch''', is an American rapper, singer-songwriter, and comedian from [[Cheatham County, Tennessee|Cheatham County]], on the outskirts of [[Nashville, Tennessee|Nashville]]. Upchurch became popular primarily as a comedian, creating videos on various platforms to garner support and fans. He sold merchandise and coined the phrase "raise hell and eat cornbread". Originally considered a "[[country rap]]per", Ryan Upchurch has diversified into many genres including rap, rock, and country.<ref name="allmusic">{{cite web|last=Kellman|first=Andy|title=Upchurch {{!}} Biography & History|url={{AllMusic|class=artist|id=mn0003067310/biography|pure_url=yes}}|work=[[AllMusic]]|access-date=May 13, 2016}}</ref>
+
+==Career==
+Upchurch began uploading videos to [[YouTube]].<ref name="allmusic" /> He released an extended play, ''Cheatham County'', in 2015, followed by a full-length album, ''Heart of America'', in 2016.<ref name="allmusic" /> Both releases reached the top 30 of the ''[[Billboard (magazine)|Billboard]]'' [[Top Country Albums]] chart.<ref name="Country Albums" /> ''Heart of America'' sold 1,300 copies in its first week of release.<ref name="roughstock jan2016">{{cite news|last1=Bjorke|first1=Matt|title=Country Album Sales Chart: January 25, 2016|url=http://roughstock.com/news/2016/01/39645-country-album-sales-chart-january-25-2016|access-date=May 13, 2016|work=Roughstock|date=January 23, 2016}}</ref>
+
+The second full-length album, ''Chicken Willie'', was released in August 2016. It reached No. 22 on Billboard's Top Country Albums and No. 11 on the Rap Albums charts, selling 2,800 copies in the first week.<ref name="roughstock aug2016">{{cite news |url=http://roughstock.com/news/2016/08/40756-country-albums-sales-chart-august-22-2016|title=Country Albums Sales Chart: August 22, 2016 |first=Matt |last=Bjorke |date= August 21, 2016 |work=Roughstock}}</ref> In 2017, Upchurch released another EP titled ''Summer Love'', which is completely [[Country music|country]]-oriented, with no elements of [[rap music]]; and another studio album titled ''Son of the South''. ''Summer Love'', debuted at No. 33 in the Top Country Albums chart with  3,700 copies sold, while ''Son of the South'' debuted at No. 29 with 48,100 copies sold.<ref name="roughstock may 2017"/>
+
+Upchurch's fifth studio album, ''King of Dixie'', was released on November 10, 2017, and features 19 tracks. Upchurch's first rock album, ''Creeker'', was released on April 20 which was focused on rock with few rap elements. His August 2018 release, ''Supernatural'', a rap-focused album with some country elements, peaked at No. 6 on Billboard's Top Country Albums. His December 2018 album, ''River Rat'', peaked at No. 22.
+
+Upchurch released his next album, ''Creeker II'' in April 2019. Later that year, he released ''Parachute'' on September 24, followed by a collaboration album with [[Adam Calhoun]] entitled ''Hooligan'' on November 25.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="6"| Peak chart positions
+! rowspan="2" style="width:9em;"| Sales
+|- style="font-size:smaller;"
+! width="45"| [[Billboard 200|US]]<br /><ref>{{cite magazine |url=https://www.billboard.com/music/upchurch/chart-history/billboard-200 |archive-url=https://web.archive.org/web/20180304172137/https://www.billboard.com/music/upchurch/chart-history/billboard-200 |url-status=dead |archive-date=March 4, 2018 |title=Billboard 200|magazine=[[Billboard (magazine)|Billboard]] |access-date=November 21, 2017}}</ref>
+! width="45"| [[Top Country Albums|US Country]]<br /><ref name="Country Albums">{{cite magazine|url=https://www.billboard.com/music/upchurch/chart-history/country-albums|archive-url=https://web.archive.org/web/20180518100345/https://www.billboard.com/music/upchurch/chart-history/country-albums|url-status=dead|archive-date=May 18, 2018|title=Upchurch Album & Song Chart History - Country Albums|magazine=Billboard|access-date=November 21, 2017}}</ref>
+! width="45"| [[Rap Albums|US<br />Rap]]<br /><ref name="rap albums">{{cite magazine|url=https://www.billboard.com/music/upchurch/chart-history/rap-albums|archive-url=https://web.archive.org/web/20180311014139/https://www.billboard.com/music/upchurch/chart-history/rap-albums|url-status=dead|archive-date=March 11, 2018|title=Upchurch Album & Song Chart History – Rap Albums|magazine=Billboard|access-date=November 21, 2017}}</ref>
+! width="45"|[[Billboard charts#Top Rock Albums|US<br />Rock]]<br/><ref name="rock albums">{{cite magazine|url= https://www.billboard.com/music/Upchurch/chart-history/rock-albums|archive-url= https://web.archive.org/web/20190426144947/https://www.billboard.com/music/Upchurch/chart-history/rock-albums|url-status= dead|archive-date= April 26, 2019|title=Upchurch Album & Song Chart History – Rock Albums|magazine=Billboard|access-date=June 14, 2020}}</ref>
+! width="45"| [[Top Heatseekers|US<br />Heat]]<br /><ref name="heatseekers">{{cite magazine|url=https://www.billboard.com/music/upchurch/chart-history/heatseekers-albums|archive-url=https://web.archive.org/web/20180311004113/https://www.billboard.com/music/upchurch/chart-history/heatseekers-albums|url-status=dead|archive-date=March 11, 2018|title=Upchurch Album & Song Chart History - Heatseekers Albums|magazine=Billboard|access-date=November 21, 2017}}</ref>
+! width="45"| [[Independent Albums|US<br />Indie]]<br /><ref name="indie albums">{{cite magazine|url=https://www.billboard.com/music/upchurch/chart-history/independent-albums|archive-url=https://web.archive.org/web/20180304172147/https://www.billboard.com/music/upchurch/chart-history/independent-albums|url-status=dead|archive-date=March 4, 2018|title=Upchurch Album & Song Chart History - Independent Albums|magazine=Billboard|access-date=November 21, 2017}}
+*{{cite magazine|url=https://www.billboard.com/charts/independent-albums/2019-12-07|title=Independent Albums|magazine=[[Billboard (magazine)|Billboard]]|date=December 7, 2019}}</ref>
+|-
+! scope="row"| ''[[Heart of America (album)|Heart of America]]''
+| 
+* Release date: January 15, 2016
+* Label: Johnny Cashville / Black Fly Music
+| —
+| 30
+| 24
+| —
+| 5
+| 31
+|
+*US: 1,800<ref name="roughstock jan2016"/>
+|-
+! scope="row"| ''Chicken Willie''
+| 
+* Release date: August 12, 2016
+* Label: RHEC Entertainment
+| —
+| 22
+| 11
+| —
+| 1
+| 11
+|
+*US: 3,500<ref name="roughstock aug2016"/>
+|-
+! scope="row"| ''Bad Mutha Fucka''
+| 
+* Release date: December 15, 2016
+* Label: RHEC Entertainment
+| —
+| 42
+| 11
+| —
+| 2
+| 22
+|
+|-
+! scope="row"| ''Son of the South''
+| 
+* Release date: May 5, 2017
+* Label: Mud to Gold Entertainment
+| 182
+| 29
+| —
+| —
+| 2
+| 9
+|
+*US: 6,000<ref name="roughstock may 2017">{{cite news |url=http://roughstock.com/news/2017/05/41831-top-10-country-albums-chart-may-15-2017 |title=Top 10 Country Albums Chart: May 15, 2017 |first= Matt |last= Bjorke |date= May 15, 2017 |work=Roughstock }}</ref>
+|-
+! scope="row"| ''[[King of Dixie]]''
+| 
+* Release date: November 10, 2017
+* Label: Mud to Gold Entertainment
+| 60
+| 10
+| 25
+| —
+| —
+| 3
+|
+*US: 14,800<ref>{{cite news |url=http://roughstock.com/news/2018/03/42854-top-10-country-albums-chart-march-12-2018 |title=Top 10 Country Albums Chart: March 12, 2018 |first= Matt |last= Bjorke  |date= March 13, 2018 |work=Roughstock|access-date=April 14, 2018 }}</ref> 
+|-
+! scope="row"| ''[[Creeker]]''
+|
+* Release date: February 12, 2018<ref>{{cite web|url=https://itunes.apple.com/us/album/creeker/1356461334|title=Creeker by Upchurch on iTunes|work=iTunes Store (US)|access-date=April 29, 2018}}</ref>
+* Label: Mud to Gold Entertainment
+| 35
+| 5
+| —
+| 6
+| —
+| 3
+|
+*US: 15,800<ref>{{cite news |url=http://roughstock.com/news/2018/06/43078-top-10-country-albums-sales-chart-june-5-2018 |title=Top 10 Country Albums Sales Chart: June 5, 2018 |first= Matt |last= Bjorke |date= June 4, 2018 |work=Roughstock |access-date=July 1, 2018}}</ref>
+|-
+! scope="row"| ''The Oven''<br /><small>(with Demun Jones)</small>
+|
+* Release date: June 29, 2018
+* Label: RAHHH Records
+| —
+| —
+| —
+| —
+| —
+| 10
+|
+|-
+! scope="row" | ''[[Supernatural (Upchurch album)|Supernatural]]''
+|
+* Release date: August 19, 2018<ref>{{cite web|url=https://itunes.apple.com/us/album/supernatural/1432180469|title=Supernatural by Upchurch on iTunes|work=iTunes Store (US)|access-date=September 18, 2018}}</ref>
+* Label: Mud to Gold Entertainment
+| 71
+| 6
+| —
+| —
+| —
+| 5
+|
+*US: 16,800<ref>{{cite news|url=http://roughstock.com/news/2018/10/43480-top-10-country-albums-october-30-2018|title=Top 10 Country Albums: October 30, 2018|first=Matt|last=Bjorke|date=October 30, 2018|work=Roughstock|access-date=November 1, 2018}}</ref>
+|-
+! scope="row" |''[[River Rat (album)|River Rat]]''
+|
+* Release date: December 21, 2018<ref>{{cite web|url=https://itunes.apple.com/ca/album/river-rat/1447821488|title=River Rat by Upchurch on iTunes|work=iTunes Store (US)|access-date=January 1, 2019}}</ref>
+* Label: Mud to Gold Entertainment
+| 191
+| 21
+| —
+| —
+| —
+| 3
+|
+*US: 10,800<ref>{{cite news|url=http://www.roughstock.com/news/2019/01/43577-top-10-country-albums-chart-january-14-2019|title=Top 10 Country Albums Chart: January 14, 2019|first=Matt|last=Bjorke|date= January 15, 2019 |work=Roughstock|access-date= March 5, 2019}}</ref>
+|-
+! scope="row" | ''[[Creeker II]]''
+|
+* Release date: April 20, 2019
+* Label: Mud to Gold Entertainment
+| 66
+| 7
+| —
+| 10
+| —
+| 4
+|
+|-
+! scope="row" | ''[[Parachute (Upchurch album)|Parachute]]''
+|
+* Release date: September 24, 2019
+* Label: Mud to Gold Entertainment
+| 52
+| 6
+| 23
+| —
+| —
+| 4
+|
+*US: 12,400<ref>{{cite web |url=http://roughstock.com/news/2019/10/43981-top-10-country-albums-pure-sales-chart-for-october-7-2019|title=Top 10 Country Albums: Pure Sales Chart for October 7, 2019|work=RoughStock|first=Matt |last=Bjorke |date= October 7, 2019 |access-date=October 19, 2019 }}</ref>
+|-
+! scope="row" | ''Hooligan''<br /><small>(with [[Adam Calhoun]])</small>
+|
+* Release date: November 25, 2019<ref>{{cite web|url=https://music.apple.com/us/album/hooligan/1488018753|title=Hooligan by Upchurch & Adam Calhoun|website=[[Apple Music]]|access-date=November 29, 2019}}</ref>
+* Label: ACal / RHEC
+| 160<br /><ref>{{cite tweet|user=billboardcharts|number=1201511809821351936|title=Debuts on this week's #Billboard200 (2/2)|date=December 2, 2019|access-date=December 3, 2019}}</ref>
+| —
+| —
+| —
+| —
+| 3
+|
+|-
+! scope="row" | ''[[Everlasting Country]]''
+|
+* Release date: April 20, 2020
+* Label: Stonebaby Sounds / Mud to Gold Entertainment
+| 61
+| 6<br/><ref>{{cite magazine|url= https://bulletins.billboard.com/country/country_update_0427.pdf|title=Billboard Country Update - April 27, 2020|magazine=Billboard}}</ref>
+| —
+| —
+| —
+| 6
+|
+|-
+! scope="row" | ''Hideas: The Album''
+|
+* Release date: January 22, 2021
+* Label: Stonebaby Sounds
+| —
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row" | ''[[Mud to Gold]]''
+|
+* Release date: February 10, 2021
+* Label: Mud to Gold Entertainment
+| 174<br /><ref>{{cite tweet|user=billboardcharts|number=1371467805766381571|title=Debuts on this week's #Billboard200 (2/2)...|date=March 15, 2021|access-date=March 16, 2021}}</ref>
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row" | ''Upchurch Remixed''<br /><small>(with DJ Cliffy D)</small>
+|
+* Release date: May 18, 2021
+* Label: DJ Cliffy D
+| —
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row" | ''Same Ol Same Ol''
+|
+* Release date: June 26, 2021
+* Label: Mud to Gold Entertainment
+| —
+| 17
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row" | ''People's Champ''
+|
+* Release date: February 4, 2022<ref>{{Cite web|url=https://music.apple.com/us/album/peoples-champ/1606577807|title=Upchurch - People's Champ |publisher=[[Apple Music]] |accessdate= February 4, 2022}}</ref>
+* Label: Mud to Gold Entertainment / Stonebaby Sounds
+| 101<br /><ref>{{cite tweet|user=billboardcharts|number=1493244597492932611|title=Debuts on this week's #Billboard200...|date=February 14, 2022|access-date=February 15, 2022}}</ref>
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row" | ''Pioneer''
+|
+* Release date: March 16, 2023
+* Label: Luce-N-Up Records / Stonebaby Sounds
+| —
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row" | ''Blue Genes''
+|
+* Release date: July 14, 2023
+* Label:  Luce-N-Up Records / Kalani OnDaBeat
+| —
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row" | ''Concert for the Crickets''
+|
+* Release date: October 31, 2023
+* Label: Luce-N-Up Records / Kalani OnDaBeat
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" | ''Blue Genes II''
+|
+* Release date: February 15, 2024
+* Label: Luce-N-Up Records / Kalani OnDaBeat
+| —
+| —
+| —
+| —
+| —
+| —
+|
+|-
+| colspan="9" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:15em;"| EP details
+! colspan="4"| Peak chart positions
+! rowspan="2" style="width:9em;"| Sales
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br /><ref name="Country Albums"/><ref>{{cite magazine|url=http://www.billboard.com/charts/country-albums/2017-05-27|title=Top Country Albums|magazine=Billboard |date=May 27, 2017}}</ref>
+! width="45"| [[Rap Albums|US Rap]]<br /><ref name="rap albums"/>
+! width="45"| [[Top Heatseekers|US<br />Heat]]<br /><ref name="heatseekers"/><ref>{{cite magazine|url=http://www.billboard.com/charts/heatseekers-albums/2017-05-27|title=Heatseekers Albums|magazine=Billboard |date=May 27, 2017}}</ref>
+! width="45"| [[Independent Albums|US<br />Indie]]<br /><ref name="indie albums"/><ref>{{cite magazine|url=http://www.billboard.com/charts/independent-albums/2017-05-27|title=Independent Albums|magazine=Billboard |date=May 27, 2017}}</ref>
+|-
+! scope="row"| ''Cheatham County''
+| 
+* Release date: May 12, 2015
+* Label: Black Fly Music
+| 29
+| 18
+| 7
+| 23
+|
+|-
+! scope="row"|''Summer Love''<ref>{{cite web |url=https://itunes.apple.com/album/id1228352598?ls=1&app=itunes|title=Ryan Upchurch |work=iTunes}}</ref><br/><small>(as Ryan Upchurch)</small>
+|  
+* Release date: May 5, 2017
+* Label:  Redneck Nation
+| 33
+| —
+| 3
+| 11
+|
+*US: 400,000<ref name="roughstock may 2017"/>
+|-
+! scope="row"|''Project X, Vol. 1''<br /><small>(with Bottleneck)</small>
+|
+* Release date: January 30, 2018
+* Label: Redneck Nation
+| 27
+| —
+| —
+| 10
+|
+|-
+| colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Charted songs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:13em;"| Single
+! Peak<br />position
+! rowspan="2" |[[List of music recording certifications|Certifications]]
+! rowspan="2" | Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US<br />Country]]<Br /><ref>
+*{{cite magazine|url=https://www.billboard.com/music/upchurch/chart-history/CSI|archive-url=https://web.archive.org/web/20200217083418/https://www.billboard.com/music/Upchurch/chart-history/CSI|url-status=dead|archive-date=February 17, 2020|title=Upchurch Chart History: Hot 100|magazine=Billboard|access-date=January 23, 2018}}
+*{{cite magazine|url= https://www.billboard.com/artist/ryan-upchurch/chart-history/csi/ |title=Ryan Upchurch Chart History: Hot Country Songs|magazine=Billboard|access-date=May 24, 2020}}</ref>
+|-
+| 2016
+! scope="row"| "Southern Land"<br />{{small|(with Taylor Ray Holbrook)}}
+| 44
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref name="RIAA">{{cite certification|region=United States|title=|artist=Upchurch|type=|access-date=November 7, 2023}}</ref>
+| rowspan="3" {{n/a|Non-album singles}}
+|-
+| 2018
+! scope="row"| "Shoulda Named It After Me"<br />{{small|(with [[Colt Ford]])}}
+| 46
+|
+|-
+| 2019
+! scope="row"| "Hey Boy, Hey Girl"<br />{{small|(with Katie Noel)}}<ref>{{cite web |url=https://music.apple.com/us/album/hey-boy-hey-girl-single/1489779764 |title=Hey Boy, Hey Girl - Single|work=iTunes }}</ref>
+| 47
+|
+|-
+| colspan="7" style="font-size:8pt" | "—" denotes releases that did not chart
+|}
+
+=== Other certified songs ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="1" | Year
+! rowspan="1" style="width:13em;" | Single
+! rowspan="1" |[[List of music recording certifications|Certifications]]
+! rowspan="1" | Album
+|- style="font-size:smaller;"
+|-
+|
+! scope="row" | "Outlaw"<br />{{small|(feat. Luke Combs)}}
+|
+* RIAA: Platinum<ref name="RIAA" />
+|''Heart of America''
+|-
+| rowspan="3" | 2016
+! scope="row" | "The Old Days"<br />{{small|(feat. Justin Adams)}}
+|
+* RIAA: Gold<ref name="RIAA" />
+| rowspan="3" |''Bad Mutha Fucka''
+|-
+! scope="row" | "Hillbilly"
+|
+* RIAA: Gold<ref name="RIAA" />
+|-
+! scope="row" |"Rolling Stoned"
+|
+* RIAA: Platinum<ref name="RIAA" />
+|-
+| 2018
+! scope="row" | "Dirty South"
+|
+* RIAA: Gold<ref name="RIAA" />
+|''Creeker''
+|-
+|2019
+! scope="row" |"Holler Boys"
+|
+* RIAA: Platinum<ref name="RIAA" />
+|''Parachute''
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| rowspan="3"| 2015 
+| "Can I Get an Outlaw" ft. [[Luke Combs]]
+| rowspan="4"| Charlie P / BlackFlyMusic
+|-
+| "Cheatham County" 
+|-
+| "Country Way" 
+|-
+| rowspan="6"| 2016 
+| "Hell Yeah" 
+|-
+| "Come and Get It" 
+| BlackFlyMusic 
+|- 
+| "Dirty Boys"
+| RHEC Entertainment 
+|-
+| "Bad Mutha F**ka"
+| rowspan="2"| BlackFlyMusic 
+|-
+| "Shit Bubba"
+|-
+| "Rollin Stoned" 
+| RHEC Entertainment 
+|- 
+| rowspan="12"| 2017 
+| "Hillbilly" 
+| Redneck Nation 
+|- 
+| "Shoot the Moon" 
+| Charlie P / BlackFlyMusic 
+|- 
+| "Campfire Cologne" 
+| rowspan="12"| Redneck Nation
+|- 
+| "Old Days"
+|- 
+| "Ghost" 
+|- 
+| "Summer Love" 
+|-  
+| "White Lightning" 
+|- 
+| "Legend" 
+|- 
+| "Radio Jam" 
+|- 
+| "Johnny Cash" 
+|-
+| "American Made" 
+|-
+| "Bloodshed" 
+|-
+| rowspan="11"| 2018 
+| "Dirty Hat" 
+|- 
+| "Traveler" 
+|-
+| "Dirty South"
+| rowspan="15"| A. Luce Vision
+|-
+| "PondCreek Road" 
+|- 
+| "Buzz Won't Last" 
+|- 
+| "Who" 
+|- 
+| "The Oven" 
+|- 
+| "My Neck of the Woods" 
+|- 
+| "Spotlight" 
+|-
+| "Yz"
+|-
+| "Don't Come Knockin"
+|-
+| rowspan="7"| 2019
+| "Cheatham"
+|-
+| "Dukes of Hazzard"
+|-
+| "Blue Moon"
+|-
+| "Ghost Ranch"
+|-
+| "Holler Boys"
+|-
+| "Fallen"
+|-
+| "Hooligan"
+| A. Luce Vision / Drake McGuire
+|-
+| rowspan="5"| 2020
+| "Roots Run Deep"
+| rowspan="2"| A. Luce Vision
+|-
+| "Everlasting Country" 
+|-
+| "Said F**k It"
+| Upchurch / A. Luce Vision
+|-
+| "A Little While"<br/>(with [[Clay Walker]])
+| rowspan="19" | A. Luce Vision
+|-
+| "Miss My Buddies"
+|-
+| rowspan="2"| 2021
+| "Real Country"
+|-
+| "Broadway Girls (Remix)"<br/>(with Chase Matthew)
+|-
+| rowspan="7" | 2022
+|"Peoples Champ"
+|-
+|"Look At These Dudes"
+|-
+|"Necks Too Red"
+|-
+|"Superstar"
+|-
+|"Built Like That"
+|-
+|"The Other Country Boy"
+|-
+|"Desperado"
+|-
+| rowspan="8" | 2023
+|"Silver Circles"
+|-
+|"Pioneer"
+|-
+|-
+|"Middle Of the Night Ft. Brianna Harness"
+|-
+|-
+|"Bloodline" (Creeker Sessions)
+|-
+|"Flowers all Bloom" (Creeker Sessions)
+|-
+|"Ice Cold" (Creeker Sessions)
+|-
+|"Magic Mountain" (Creeker Sessions)
+|-
+|"Here There Now Then" (Creeker Sessions)
+|-
+|"Lonestar" (Blue Genes)
+|"Jumps the Gun"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|https://upchurchmerch.com|name=Official website}}
+*{{allMusic}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Upchurch}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:21st-century American comedians]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:American heavy metal musicians]]
+[[Category:American male rappers]]
+[[Category:American male singer-songwriters]]
+[[Category:Comedians from Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Country rap musicians]]
+[[Category:Country rock musicians]]
+[[Category:People from Cheatham County, Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Rappers from Tennessee]]
+[[Category:Southern hip hop musicians]]
+[[Category:Southern rock musicians]]
+|}

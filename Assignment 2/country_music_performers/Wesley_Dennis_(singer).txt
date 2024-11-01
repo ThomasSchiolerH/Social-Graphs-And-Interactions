@@ -1,0 +1,118 @@
+{{short description|American singer-songwriter}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Wesley Dennis
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = 
+| birth_place         =
+| birth_date          = {{Birth date and age|1963|04|22}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|date=August 2008|pages=122|isbn=978-0-89820-177-2}}</ref>
+| origin              = [[Clanton, Alabama]], United States
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1995-2002, 2012–present
+| label               = [[Mercury Nashville]]<br/>Dirt Road
+| associated_acts     = [[Keith Stegall]]
+| website                 = 
+}}
+'''Wesley Dennis''' (born April 22, 1963, in [[Clanton, Alabama]]) is an American [[country music]] artist. A native of [[Alabama]], Dennis previously held a job installing car windshields before he took to singing in bars.<ref name="bee">{{cite news |author=No byline |title=Up and country: Wesley Dennis used to install car windshields. Now he's looking at life just a little bit differently |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=SB&p_theme=sb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB0DB21A8296F7B&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |work=[[The Sacramento Bee]] |pages=C1 |date=March 2, 1995|accessdate=August 27, 2008}}</ref> In 1995, he signed to [[Mercury Nashville Records]], releasing a self-titled debut album, and charting three singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts. He also toured with [[Alan Jackson]] that same year.<ref name="bee"/>
+
+Dennis's debut album was produced by [[Keith Stegall]], who has also produced for Jackson, and was released on March 7, 1995, to mostly favorable reviews. ''New Country'' magazine critic Chris Dickinson gave it three-and-a-half stars out of five, calling him "as honestly neo-trad as they come", although he said that the tracks "This Hat Ain't No Act" and "Bubbaland" were "dime-a-gross."<ref name="newcountry">{{cite journal|last=Dickinson|first=Chris|date=March 1995|title=Music reviews|journal=New Country|volume=2|issue=3|pages=61}}</ref> ''[[USA Today]]'' also gave a favorable review, comparing Dennis' vocals to those of [[Keith Whitley]], but criticizing "This Hat Ain't No Act" as a "trite" song.<ref>{{cite news|url=https://pqasb.pqarchiver.com/USAToday/access/19341859.html?dids=19341859:19341859&FMT=ABS&FMTS=ABS:FT&type=current&date=Apr+03%2C+1995&author=Edna+Gundersen%3B+David+Zimmerman%3B+James+T.+Jones+IV%3B+David+Patrick+Stearns&pub=USA+TODAY+%28pre-1997+Fulltext%29&desc=A+knockout+from+Morphine&pqatl=google|title=A knockout from Morphine|date=April 3, 1995|work=USA Today|pages=D4|accessdate=September 13, 2009|first=Edna|last=Gundersen|archive-date=October 22, 2012|archive-url=https://web.archive.org/web/20121022141926/http://pqasb.pqarchiver.com/USAToday/access/19341859.html?dids=19341859:19341859&FMT=ABS&FMTS=ABS:FT&type=current&date=Apr+03,+1995&author=Edna+Gundersen;+David+Zimmerman;+James+T.+Jones+IV;+David+Patrick+Stearns&pub=USA+TODAY+(pre-1997+Fulltext)&desc=A+knockout+from+Morphine&pqatl=google|url-status=dead}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Wesley Dennis''
+| 
+* Release date: March 7, 1995
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+|-
+! scope="row"| ''Country to the Core''
+| 
+* Release date: 1999
+* Label: Self-released
+|-
+! scope="row"| ''Country Enough''
+| 
+* Release date: 2012
+* Label: Dirt Road Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1995
+! scope="row"| "I Don't Know (But I've Been Told)"
+| 46
+| 60
+| align="left" rowspan="3"| ''Wesley Dennis''
+|-
+! scope="row"| "Don't Make Me Feel at Home"
+| 51
+| 70
+|-
+! scope="row"| "Who's Counting"
+| 58
+| —
+|-
+|-
+| rowspan="1"| 2012
+! scope="row"| "You"
+| —
+| —
+| align="left" rowspan="1"| ''Country Enough''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="3"| 1995
+! scope="row"| "I Don't Know (But I've Been Told)"
+| Jim Hershleder
+|-
+! scope="row"| "Don't Make Me Feel at Home"
+| 
+|-
+! scope="row"| "Who's Counting"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://myspace.com/Wesleydennismusic Wesley Dennis] on [[Myspace]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dennis, Wesley}}
+[[Category:1963 births]]
+[[Category:People from Clanton, Alabama]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Mercury Records artists]]
+[[Category:Country musicians from Alabama]]
+[[Category:Singer-songwriters from Alabama]]

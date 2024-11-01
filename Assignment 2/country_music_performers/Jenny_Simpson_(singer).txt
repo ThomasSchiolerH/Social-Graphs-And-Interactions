@@ -1,0 +1,81 @@
+{{short description|American country music singer (born 1973)}}
+{{for|the middle distance runner|Jenny Simpson}}
+{{Infobox musical artist
+| name            = Jenny Simpson
+| image           =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = 1973
+| origin          = [[Nashville, Tennessee]]
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = [[Singing|Singer]]
+| years_active    = 1998
+| label           = [[Universal Music Group Nashville|Mercury Nashville]]
+| associated_acts =
+| website         = 
+}}
+
+'''Jenny Simpson''' (born in 1973 in [[Nashville, Tennessee]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=382|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer. She was signed to [[Universal Music Group Nashville|Mercury Nashville]] and released her self-titled debut album in 1998.<ref>{{cite web|url={{AllMusic|class=artist|id=p350451/biography|pure_url=yes}}|title=Jenny Simpson Biography|work=[[Allmusic]]|accessdate=May 14, 2012}}</ref>
+
+Simpson's only single, "Ticket Out of Kansas", peaked at number 54 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" /> It received a favorable review from Deborah Evans Price of ''Billboard'', who said that "Simpson's nuanced vocal performance makes listeners feel as if they are boarding the bus with her."<ref>{{cite news|last=Price|first=Deborah Evans|title=Reviews & Previews|url=https://books.google.com/books?id=FQoEAAAAMBAJ&q=%22jenny+simpson%22+%22ticket+out+of+kansas%22&pg=PA24|accessdate=May 14, 2012|newspaper=[[Billboard (magazine)|Billboard]]|date=October 10, 1998}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''[[Jenny Simpson (album)|Jenny Simpson]]''
+| 
+* Release date: November 3, 1998
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1998
+! scope="row"| "Ticket Out of Kansas"
+| 54
+| align="left"| ''Jenny Simpson''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1998
+! scope="row"| "Ticket Out of Kansas"<ref>{{cite web|url=http://www.cmt.com/videos/jenny-simpson/308593/ticket-out-of-kansas.jhtml|title=CMT : Videos : Jenny Simpson : Ticket Out Of Kansas|publisher=[[Country Music Television]]|accessdate=May 14, 2012}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| [[Adolfo Doring]]
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Simpson, Jenny}}
+[[Category:1973 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+
+
+{{US-country-singer-stub}}

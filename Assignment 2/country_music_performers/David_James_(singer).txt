@@ -1,0 +1,198 @@
+{{short description|Canadian country pop singer-songwriter}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox musical artist
+| name            = David James
+| image           =
+| caption         =
+| image_size      =
+| birth_date      =
+| birth_name      =
+| birth_place     = [[Winnipeg]], Manitoba, Canada<ref>{{cite news|last1=Melanson|first1=Jenna|title=Interview – David James|url=http://canadianbeats.ca/2015/10/15/interview-david-james/|accessdate=February 19, 2016|work=Canadian Beats|date=October 15, 2015}}</ref>
+| origin          =
+| instrument      =
+| genre           = [[Country pop]]<ref>{{cite news|title=David James - Spotify|url=https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147?si=C2heO-xTSKuz4Rxylx6mJw|accessdate=March 23, 2020|work=[[Spotify]]}}</ref>
+| occupation      = Singer-songwriter
+| years_active    = 2013–present
+| label           = [[MDM Recordings Inc.|MDM]]
+| associated_acts =
+| website         = {{URL|davidjamesmusic.ca/}}
+}}
+'''David James''' is a Canadian [[country music]] singer-songwriter. James was nominated for the 2014 [[Canadian Country Music Association]] Discovery Award and 2017 Rising Star Award.<ref>{{cite news|title=Media Release: Top Six Finalists Announced For The 2014 CCMA Discovery Program|url=http://www.ccma.org/cgi/page.cgi/_article.html/News/Media_Release_Top_Six_Finalists_Announced_for_the_2014_CCMA_Discovery_Program-2014-06-11|accessdate=February 19, 2016|work=[[Canadian Country Music Association]]|date=April 30, 2014|archive-date=March 2, 2016|archive-url=https://web.archive.org/web/20160302194551/http://www.ccma.org/cgi/page.cgi/_article.html/News/Media_Release_Top_Six_Finalists_Announced_for_the_2014_CCMA_Discovery_Program-2014-06-11|url-status=dead}}</ref>
+
+==Career==
+In August 2014, he signed to [[MDM Recordings Inc.]]<ref>{{cite news|last1=Harr|first1=Dan|title=MDM Recordings Inc. Signs CCMA Nominee David James|url=http://www.musicnewsnashville.com/mdm-recordings-inc-signs-ccma-nominee-david-james/|accessdate=February 19, 2016|work=Music News Nashville|date=August 14, 2014|archive-date=March 3, 2016|archive-url=https://web.archive.org/web/20160303020057/http://www.musicnewsnashville.com/mdm-recordings-inc-signs-ccma-nominee-david-james/|url-status=dead}}</ref> His first single for the label, "What We Weren't Looking For", was released in February 2015.<ref name="cmr">{{cite news|title=David James Releases New Single "What We Weren't Looking For"|url=http://cmrnashville.com/news-details.php?id=20957|accessdate=February 19, 2016|work=CMR Nashville|date=February 18, 2015|archive-date=March 1, 2016|archive-url=https://web.archive.org/web/20160301193335/http://cmrnashville.com/news-details.php?id=20957|url-status=dead}}</ref> A music video for the song debuted on [[CMT (Canadian TV channel)|CMT]] in March.<ref name="cmr" /> The song peaked at number 27 on the ''[[Billboard (magazine)|Billboard]]'' [[Canada Country]] chart in June.<ref name="Canada Country" /> James' second single for MDM, "Some Hearts", was released in September.<ref>{{cite news|last1=Melanson|first1=Jenna|title=New single released by David James|url=http://canadianbeats.ca/2015/09/29/new-single-released-by-david-james/|accessdate=February 19, 2016|work=Canadian Beats|date=September 29, 2015}}</ref> His third single for the label, "Lonely Girl", was released on March 8, 2016.<ref name="beats">{{cite news|last1=Dagg|first1=Nanci|title=Interview – David James|url=http://canadianbeats.ca/2016/02/14/interview-david-james-2/|accessdate=February 19, 2016|work=Canadian Beats|date=February 14, 2016}}</ref> All three songs are included on an [[extended play]], ''Songs About a Girl'', released on March 11.<ref name="beats" /> In 2020, James released the extended play ''[[If I Were You (EP)|If I Were You]]'', which included the singles "Cars, Girls, And The Radio",<ref>{{cite web|title=David James releases new single, "Cars, Girls, & The Radio"|url=https://canadianbeats.ca/2018/11/06/david-james-releases-new-single-cars-girls-the-radio/|work=Canadian Beats Media|first=Amanda|last=Hather|date=November 6, 2018}}</ref> "All the Time",<ref>{{cite web|title=EXCLUSIVE PREMIERE: David James "All The Time"|url=https://www.completecountry.ca/article.php?article_id=5362|work=Complete Country|date=October 15, 2019}}</ref> and the title track whose co-writers include [[Tyler Hubbard]] of [[Florida Georgia Line]] and [[Hardy (singer)|Hardy]].<ref>{{cite news|title= CANADIAN COUNTRY ARTIST DAVID JAMES DELIVERS NEW EP "IF I WERE YOU", AVAILABLE TODAY|url= https://davidjamesmusic.ca/canadian-country-artist-david-james-delivers-new-ep-if-i-were-you-available-today/ |accessdate=March 31, 2020|work=David James Official Website|date=March 13, 2020}}</ref><ref>{{cite web|title=David James releases new EP, If I Were You |url=https://canadianbeats.ca/2020/03/25/david-james-releases-new-ep-if-i-were-you/ |work=Canadian Beats Media|first=Max|last=Reid|date=March 25, 2020}}</ref><ref>{{cite web|title=Top Country Pick: David James 'If I Were You'|url=https://topcountry.ca/top-country-pick-david-james-if-i-were-you/|work=Top Country|date=March 13, 2020}}</ref>
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''This Must Be It''
+| 
+* Release date: April 8, 2013
+* Label: self-released
+|-
+! scope="row"| ''Songs About a Girl''
+| 
+* Release date: March 11, 2016
+* Label: [[MDM Recordings Inc.]]
+|-
+! scope="row"| ''Downtown Kids''
+| 
+* Release date: October 20, 2017
+* Label: [[MDM Recordings Inc.]]
+|-
+! scope="row"| ''[[If I Were You (EP)|If I Were You]]''
+| 
+* Release date: March 13, 2020
+* Label: [[MDM Recordings Inc.]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! Peak<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! [[Canada Country|CAN<br />Country]]<br /><ref name="Canada Country">{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2ADavid%20James%2A&f%5B1%5D=itm_field_chart_id%3A1240&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=David%20James|title=David James Album & Song Chart History – Canada Country|magazine=[[Billboard (magazine)|Billboard]]|accessdate=February 19, 2016}}
+*"If I Were You": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2020-07-18/|title=Canada Country chart for July 18, 2020|magazine=Billboard |accessdate=February 16, 2023|url-access=subscription}}
+*"Then There's You": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2021-01-30/|title=Canada Country chart for January 30, 2021|magazine=Billboard |accessdate=February 16, 2023|url-access=subscription}}
+*"Don't Mind If I Do": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2021-06-05/|title=Canada Country chart for June 5, 2021|magazine=Billboard |accessdate=February 16, 2023|url-access=subscription}}
+*"That's the Life": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2022-03-26|title=Canada Country chart for March 26, 2022|magazine=Billboard |accessdate=March 22, 2022|url-access=subscription}}</ref>
+|-
+| 2014
+! scope="row"| "Letting Love Get Reckless"
+| —
+| {{n/a|Non-album single}}
+|-
+| rowspan="2"| 2015
+! scope="row"| "What We Weren't Looking For"
+| 27
+| align="left" rowspan="4"| ''Songs About a Girl''
+|-
+! scope="row"| "Some Hearts"
+| —
+|-
+| rowspan="2"| 2016
+! scope="row"| "Lonely Girl"
+| 39
+|-
+! scope="row"| "Starts with a Girl"
+| —
+|-
+| 2017
+! scope="row"| "What If I Don't"
+| 40
+| align="left" rowspan="3" | ''Downtown Kids''
+|-
+| 2017
+! scope="row"| "Sun Set On It"
+| 12
+|-
+| 2017
+! scope="row"| "Downtown Kids"
+| 13
+|-
+| 2018
+! scope="row"| "Cars, Girls and the Radio"
+| 37
+| align="left" rowspan="4"| ''If I Were You''
+|-
+| 2019
+! scope="row"| "All the Time"
+| 24
+|-
+| rowspan="2"| 2020
+! scope="row"| "If I Were You"
+| 40
+|-
+! scope="row"| "Then There's You"<br/>(featuring Genevieve Fisher)
+| 35
+|-
+| rowspan="2"| 2021
+! scope="row"| "Don't Mind If I Do"
+| 29
+| align="left" rowspan="4" {{N/A|Non-album singles}}
+|-
+! scope="row"| "That's the Life"
+| 42
+|-
+| rowspan="2"| 2022
+! scope="row"| "Wreck My Weekend"
+| —
+|-
+! scope="row"| "Let Her Go"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2013
+! scope="row"| "Letting Love Get Reckless"
+| David James
+|-
+| rowspan="2"| 2015
+! scope="row"| "What We Weren't Looking For"
+| Amit Dabrai
+|-
+! scope="row"| "Some Hearts"
+| David James
+|-
+| 2016
+! scope="row"| "Starts with a Girl"
+| Ben Knechtel
+|-
+| rowspan="3"| 2017
+! scope="row"| "What If I Don't"
+|
+|-
+! scope="row"| "Later"
+| Travis Laidlaw
+|-
+! scope="row"| "Sun Set On It"
+| David James
+|-
+| 2018
+! scope="row"| "Downtown Kids"
+| Stephano Barberis
+|-
+| 2019
+! scope="row"| "All the Time"
+|
+|-
+| 2022
+! scope="row"| "That's the Life"
+| Travis Didluck
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://davidjamesmusic.ca/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:James, David}}
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Winnipeg]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Singers from Manitoba]]

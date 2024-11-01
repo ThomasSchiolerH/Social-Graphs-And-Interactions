@@ -1,0 +1,99 @@
+{{short description|American country music singer (born 1981)}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = Andy Gibson
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1981|9|15}}
+| birth_place     = [[Spokane, Washington]]
+| origin          = [[Nashville, Tennessee]]
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals
+| years_active    = 2011–present
+| label           = [[R&J Records|R&J]], [[Curb Records|Curb]]
+| associated_acts = [[Jason Aldean]], [[Kelly Clarkson]]
+| website         = {{URL|andygibson.com}}
+}}
+'''Andy Gibson''' (born September 15, 1981) is an American [[country music]] singer.  He co-wrote "[[Don't You Wanna Stay]]", a duet between [[Jason Aldean]] and [[Kelly Clarkson]] which reached No. 1 on the country music charts in 2011. Later in the year, he signed to R&J Records and released his debut single, "Wanna Make You Love Me".<ref>{{cite web|url=http://randjrecords.com/index.cfm?id=19|title=Andy Gibson|work=R&J Records|accessdate=October 4, 2011|archive-url=https://web.archive.org/web/20120424225454/http://www.randjrecords.com/index.cfm?id=19|archive-date=April 24, 2012|url-status=dead}}</ref> Billy Dukes of ''Taste of Country'' gave the song four stars out of five, saying that it "begin[s] gathering attention after frequent listens."<ref>{{cite web|url=http://tasteofcountry.com/andy-gibson-wanna-make-you-love-me/|title=Andy Gibson — "Wanna Make You Love Me"|last=Dukes|first=Billy|date=September 30, 2011|work=Taste of Country|accessdate=October 4, 2011}}</ref> The song has been made into a music video directed by David McClister, which has aired on [[Country Music Television|CMT]].<ref name="cmt">{{cite web|url=http://www.cmt.com/videos/andy-gibson/692555/wanna-make-you-love-me.jhtml|archive-url=https://web.archive.org/web/20111121014604/http://www.cmt.com/videos/andy-gibson/692555/wanna-make-you-love-me.jhtml|url-status=dead|archive-date=November 21, 2011|title="Wanna Make You Love Me" video|work=CMT|accessdate=October 4, 2011}}</ref> Gibson moved to [[Curb Records]] in April 2012 following the closure of R&J,<ref>{{cite web|url=http://www.allaccess.com/net-news/archive/story/105086/andy-gibson-moves-to-curb-records|title=Andy Gibson Moves To Curb Records|date=April 20, 2012|work=All Access|accessdate=April 21, 2012}}</ref><ref>{{cite web|url=http://www.roughstock.com/blog/r-j-records-to-close-andy-gibson-to-curb |title=R&J Records To Close; Andy Gibson To Curb |last=Bjorke |first=Matt |date=April 23, 2012 |work=Roughstock |accessdate=April 23, 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120425225405/http://www.roughstock.com/blog/r-j-records-to-close-andy-gibson-to-curb |archivedate=April 25, 2012  }}</ref> although some R&J staff continued promotion of "Wanna Make You Love Me".<ref>{{cite web|url=http://www.musicrow.com/2012/04/rj-records-closing/|title=R&J Records Closing|last=Freeman|first=Jon|date=April 23, 2012|work=Music Row|accessdate=April 23, 2012}}</ref> Gibson's first Curb single, "Summer Back", entered the charts in late 2012.
+
+==Discography==
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Best of Andy Gibson''
+| 
+* Release date: June 29, 2015
+* Label: Curb Records
+* Formats: CD
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|- 
+| 2011
+! scope="row"| "[[Wanna Make You Love Me]]"
+| 27
+|- 
+| 2012
+! scope="row"| "Summer Back"
+| 58
+|- 
+| 2013
+! scope="row"| "Best Thing"
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|- 
+| rowspan="2"| 2011
+! scope="row"| "Wanna Make You Love Me"<ref name="cmt" />
+| David McClister
+|- 
+! scope="row"| "[[The Christmas Song]]"<ref>{{cite web|url=http://www.cmt.com/videos/andy-gibson/719642/the-christmas-song.jhtml|archive-url=https://web.archive.org/web/20120121071130/http://www.cmt.com/videos/andy-gibson/719642/the-christmas-song.jhtml|url-status=dead|archive-date=January 21, 2012|title=CMT : Videos : Andy Gibson : The Christmas Song|publisher=[[Country Music Television]]|accessdate=December 18, 2011}}</ref>
+| Nathan Juarez
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gibson, Andy}}
+[[Category:1981 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Curb Records artists]]
+[[Category:Living people]]
+[[Category:Country musicians from Washington (state)]]
+[[Category:Musicians from Spokane, Washington]]
+[[Category:R&J Records artists]]
+[[Category:Singer-songwriters from Washington (state)]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American male singers]]
+
+
+{{Washington-musician-stub}}

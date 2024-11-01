@@ -1,0 +1,144 @@
+{{short description|American country music singer}}
+{{Infobox musical artist
+| name         = Billy Hoffman
+| image        =
+| image_size   =
+| birth_name   = Billy Ray Hoffman<ref name="ok">{{cite web | url=https://okwnews.com/news/whatzup/billy-hoffman-friends-in-concert-thursday-night-september-12th | title=Billy Hoffman & Friends in Concert Thursday Night September 12th | publisher=OK News | date=August 23, 2019 | accessdate=September 7, 2021}}</ref>
+| alias        =
+| birth_date   =
+| birth_place  = [[Arkansas]]
+| instrument   = Vocals, guitar
+| genre        = [[Country music|Country]]
+| occupation   = Singer
+| years_active = 2000–2002
+| label        = Critter
+| website      = 
+}}
+
+'''Billy Ray Hoffman''' is an American [[country music]] singer and songwriter. He released one album, ''All I Wanted Was You'', in 2000. This album charted the singles "Perfect Night" and "You're the Ticket".
+
+==Biography==
+Billy Ray Hoffman was born in [[Arkansas]] and raised in [[Poteau, Oklahoma]].<ref>{{cite web|url=http://countrymusic.about.com/library/blbillyhoffmanbio.htm|title=Billy Hoffman Bio|work=[[About.com]]|accessdate=May 16, 2012|archive-url=https://web.archive.org/web/20091126093049/http://countrymusic.about.com/library/blbillyhoffmanbio.htm|archive-date=November 26, 2009|url-status=dead}}</ref> He was born with a hearing problem and is only three percent away from being [[deafness|deaf]]. He also learned to play guitar to gain dexterity after being born with underdeveloped hands.<ref>{{cite news|last=Roberts|first=M. B.|title=Who's New ... Billy Hoffman|url=http://www.countryweekly.com/vault/whos-new-billy-hoffman|accessdate=May 16, 2012|newspaper=[[Country Weekly]]|date=May 7, 2000 |archive-url=https://web.archive.org/web/20150912173236/http://www.countryweekly.com/vault/whos-new-billy-hoffman|archive-date=September 12, 2015}}</ref>
+
+In 2000, he was the first artist signed to Critter Records, which was managed by [[Joe Stampley]].<ref>{{cite news|title=COUNTRY BEAT: Billy Ray Cyrus, Kathy Mattea, Robbie Fulks ...|url=http://www.mtv.com/news/articles/1224076/country-beat-billy-ray-cyrus-kathy-mattea.jhtml|accessdate=May 16, 2012|newspaper=[[MTV]]|date=October 27, 2000|url-status=dead|archiveurl=https://web.archive.org/web/20140427013435/http://www.mtv.com/news/articles/1224076/country-beat-billy-ray-cyrus-kathy-mattea.jhtml|archivedate=April 27, 2014}}</ref> Stampley produced Hoffman's debut album, which included a cover of [[Paul Davis (singer)|Paul Davis]]' "[[I Go Crazy (Paul Davis song)|I Go Crazy]]."<ref>{{cite web|url={{AllMusic|class=artist|id=p437184/biography|pure_url=yes}}|title=Billy Hoffman Biography|work=[[Allmusic]]|accessdate=May 16, 2012}}</ref> Two singles from the album charted on the ''Billboard'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=191|year=2008|isbn=978-0-89820-177-2}}</ref> The album received a mixed review from Ray Waddell of ''[[Billboard (magazine)|Billboard]]'', who wrote that "while lacking the vocal gymnastics heard in much of what populates current country radio, Hoffman's easygoing style mostly serves this material well."<ref>{{cite news|last=Waddell|first=Ray|title=Reviews & Previews|url=https://books.google.com/books?id=-g8EAAAAMBAJ&q=billy+hoffman&pg=PA39|accessdate=May 16, 2012|newspaper=[[Billboard (magazine)|Billboard]]|date=July 15, 2000}}</ref> Hoffman retired from the music business after his first album and moved back to Poteau to focus on various business ventures.<ref name="ok"/>
+
+==Discography==
+===''All I Wanted Was You'' (2000)===
+{{Infobox album
+| name       = All I Wanted Was You
+| type       = studio
+| artist     = Billy Hoffman
+| cover      = 
+| alt        =
+| italic_title = no
+| released   = {{Start date|2000|7|11}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     =
+| label      = Critter
+| producer   = Joe Stampley
+}}
+
+====Track listing====
+#"All I Wanted Was You" ([[Jon Bon Jovi]]) - 4:01
+#"[[I Go Crazy (Paul Davis song)|I Go Crazy]]" ([[Paul Davis (singer)|Paul Davis]]) - 4:42
+#"Destination Unknown" (Tom Botkin, Les Rawlins, Donnie Skaggs) - 3:22
+#"Crossing Fences" (Botkin, Toni Dae, Elliott James) - 3:56
+#"It Just Hurts a Little" (Botkin, Skaggs, Hoffman) - 3:40
+#"You're the Ticket" (Jess Brown, Wade Kirby, [[Keith Follesé]]) - 2:37
+#"One Bad Habit" (Tony Stampley, Hoffman) - 3:24
+#"Perfect Night" (Stampley, Dae) - 3:25
+#"You Call That a Mountain" (Michael Garvin, Bucky Jones) - 3:25
+#"Saved by a Southern Belle" ([[Marv Green]], [[Trey Bruce]]) - 3:12
+
+====Personnel====
+From ''All I Wanted Was You'' liner notes.<ref name="liner">{{Cite AV media notes |title=All I Wanted Was You |others=Billy Hoffman |year=2000 |type=CD booklet |publisher=Critter Records |id=20022}}</ref>
+
+*Larry Beaird - acoustic guitar
+*Dennis Burnside - piano, organ
+*Mike Chapman - bass guitar
+*[[J. T. Corenflos]] - lead guitar
+*Jeffrey C. King - lead guitar
+*Tammy Pierce - background vocals
+*[[John Wesley Ryles]] - background vocals
+*Scott Sanders - steel guitar
+*Milton Sledge - drums
+*Joe Spivey - fiddle, mandolin
+*[[Joe Stampley]] - producer
+*Jamie Tate - engineering
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2000
+! scope="row"| "Perfect Night"
+| 69
+| align="left" rowspan="4"| ''All I Wanted Was You''
+|-
+! scope="row"| "You're the Ticket"
+| 75
+|-
+| 2001
+! scope="row"| "All I Wanted Was You"
+| —
+|-
+| rowspan="2"| 2002
+! scope="row"| "It Just Hurts a Little"
+| —
+|-
+! scope="row"| "Bar Room Athlete"
+| —
+| align="left"{{N/a}}
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2000
+! scope="row"| "You're the Ticket"
+| 
+|-
+| 2001
+! scope="row"| "All I Wanted Was You"
+| J.R. Davis
+|-
+| rowspan="2"| 2002
+! scope="row"| "Bar Room Athlete"
+| 
+|-
+! scope="row"| "It Just Hurts a Little"
+| Jeff Moseley
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Hoffman, Billy}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Deaf musicians]]
+[[Category:People from Poteau, Oklahoma]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:American deaf people]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American musicians with disabilities]]
