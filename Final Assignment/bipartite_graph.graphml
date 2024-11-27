@@ -1,0 +1,1765 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="sentiment" attr.type="double" />
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="bipartite" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Democratic Media">
+      <data key="d0">0</data>
+      <data key="d1">Media</data>
+    </node>
+    <node id="Republican Media">
+      <data key="d0">0</data>
+      <data key="d1">Media</data>
+    </node>
+    <node id="Marty Walsh">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Brian Mast">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Brett Guthrie">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jennifer Granholm">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Chip Roy">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Ryan Zinke">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Haley Stevens">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mary Peltola">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Bernie Sanders">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Cory Booker">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Vicente Gonzalez">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Brett Kavanaugh">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Hakeem Jeffries">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mike Lawler">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Brian Kemp">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Ron DeSantis">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Anna Paulina Luna">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mondaire Jones">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Paul Gosar">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Laurel M. Lee">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="John Joyce">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jen Kiggans">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Kyrsten Sinema">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Bryan Steil">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Marco Rubio">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Nikki Haley">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mark Pocan">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Tom Cotton">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Young Kim">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="George W. Bush">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mike Garcia">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Lisa Blunt Rochester">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Chrissy Houlahan">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Stephanie Bice">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Andrew Cuomo">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Alejandro Mayorkas">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Alexandria Ocasio-Cortez">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Ayanna Pressley">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Adam Kinzinger">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Steve Scalise">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Elissa Slotkin">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Elizabeth Warren">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Andy Biggs">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jan Schakowsky">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Tim Scott">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mitch McConnell">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Chuck Schumer">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Steven Horsford">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Susie Lee">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Colin Allred">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Lloyd Austin">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Elena Kagan">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Abigail Spanberger">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="John Roberts">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Donald Trump">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jared Golden">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Xavier Becerra">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="J.D. Vance">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Dina Titus">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Dean Phillips">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jim Cooper">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="David Valadao">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Josh Hawley">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Susan Wild">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Don Bacon">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Dan Newhouse">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Larry Hogan">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Ruben Gallego">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Pat Ryan">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Deb Haaland">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jim Clyburn">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Troy Nehls">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Phil Murphy">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Ilhan Omar">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Rudy Giuliani">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Tony Evers">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Kristi Noem">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Barbara Lee">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Greg Casar">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Daniel S. Goldman">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Andy Harris">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Beth Van Duyne">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Lauren Boebert">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jim McGovern">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jim Jordan">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Clarence Thomas">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Barry Loudermilk">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Byron Donalds">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Madeleine Dean">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="James Comer">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Markwayne Mullin">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Miguel Cardona">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Gwen Moore">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Scott Perry">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Elise Stefanik">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Ro Khanna">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Zoe Lofgren">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Bill Clinton">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Cyrus Vance">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jim Banks">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Adam Schiff">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Fred Upton">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jamaal Bowman">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Katie Porter">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Amy Klobuchar">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mark Green">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Greg Murphy">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="John Kerry">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Brandon Williams">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Gavin Newsom">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Marjorie Taylor Greene">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Zach Nunn">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mike Pence">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mitt Romney">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mike D. Rogers">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Franklin D. Roosevelt">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Neil Gorsuch">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Gina Raimondo">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Merrick Garland">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Sheila Jackson Lee">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Pramila Jayapal">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="María Elvira Salazar">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Peter Welch">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jerrold Nadler">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Pete Buttigieg">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="William Burns">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Gretchen Whitmer">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Deborah Dingell">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Henry Cuellar">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Rashida Tlaib">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Katie Hobbs">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Emilia Sykes">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Bill de Blasio">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Kamala Harris">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Michelle Park Steel">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Pete Aguilar">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Tom Emmer">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Richard Hudson">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Kevin McCarthy">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Dan Crenshaw">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Pete Sessions">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Joe Manchin">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Kathy Hochul">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Ronny Jackson">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Amy Coney Barrett">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Tom Tiffany">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="John Duarte">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mike Collins">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Roger Williams">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Nancy Pelosi">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Lindsey Graham">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Lauren Underwood">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Ted Cruz">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Raja Krishnamoorthi">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mariannette Miller-Meeks">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Eric Adams">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Maxine Waters">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Gary Palmer">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Ken Calvert">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="August Pfluger">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="J.B. Pritzker">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Mikie Sherrill">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Tom Vilsack">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Bennie Thompson">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Joe Biden">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="John Fetterman">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jay Inslee">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Antony Blinken">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Stacey Abrams">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Sonia Sotomayor">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Gabe Vasquez">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Morgan Griffith">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Wesley Hunt">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Liz Cheney">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Marie Gluesenkamp Perez">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jahana Hayes">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Hillary Clinton">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Rob Menendez">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Marcy Kaptur">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Jamie Raskin">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Barack Obama">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Anna Eshoo">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <node id="Harriet Hageman">
+      <data key="d0">1</data>
+      <data key="d1">Politician</data>
+    </node>
+    <edge source="Democratic Media" target="Marty Walsh">
+      <data key="d2">2</data>
+      <data key="d3">0.0006000000000000449</data>
+    </edge>
+    <edge source="Democratic Media" target="Jennifer Granholm">
+      <data key="d2">1</data>
+      <data key="d3">0.9784</data>
+    </edge>
+    <edge source="Democratic Media" target="Ryan Zinke">
+      <data key="d2">1</data>
+      <data key="d3">0.9185</data>
+    </edge>
+    <edge source="Democratic Media" target="Haley Stevens">
+      <data key="d2">1</data>
+      <data key="d3">0.9991</data>
+    </edge>
+    <edge source="Democratic Media" target="Mary Peltola">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Bernie Sanders">
+      <data key="d2">7</data>
+      <data key="d3">0.9654999999999999</data>
+    </edge>
+    <edge source="Democratic Media" target="Cory Booker">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Brett Kavanaugh">
+      <data key="d2">4</data>
+      <data key="d3">0.802975</data>
+    </edge>
+    <edge source="Democratic Media" target="Hakeem Jeffries">
+      <data key="d2">4</data>
+      <data key="d3">0.98075</data>
+    </edge>
+    <edge source="Democratic Media" target="Brian Kemp">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Ron DeSantis">
+      <data key="d2">7</data>
+      <data key="d3">0.6939428571428571</data>
+    </edge>
+    <edge source="Democratic Media" target="Anna Paulina Luna">
+      <data key="d2">1</data>
+      <data key="d3">0.9997</data>
+    </edge>
+    <edge source="Democratic Media" target="Paul Gosar">
+      <data key="d2">2</data>
+      <data key="d3">-0.0013000000000000234</data>
+    </edge>
+    <edge source="Democratic Media" target="Kyrsten Sinema">
+      <data key="d2">4</data>
+      <data key="d3">0.997675</data>
+    </edge>
+    <edge source="Democratic Media" target="Nikki Haley">
+      <data key="d2">12</data>
+      <data key="d3">0.6572583333333334</data>
+    </edge>
+    <edge source="Democratic Media" target="Tom Cotton">
+      <data key="d2">1</data>
+      <data key="d3">-0.9958</data>
+    </edge>
+    <edge source="Democratic Media" target="Young Kim">
+      <data key="d2">1</data>
+      <data key="d3">0.9941</data>
+    </edge>
+    <edge source="Democratic Media" target="George W. Bush">
+      <data key="d2">8</data>
+      <data key="d3">0.27222500000000005</data>
+    </edge>
+    <edge source="Democratic Media" target="Mike Garcia">
+      <data key="d2">1</data>
+      <data key="d3">0.9941</data>
+    </edge>
+    <edge source="Democratic Media" target="Lisa Blunt Rochester">
+      <data key="d2">1</data>
+      <data key="d3">0.9898</data>
+    </edge>
+    <edge source="Democratic Media" target="Andrew Cuomo">
+      <data key="d2">1</data>
+      <data key="d3">-0.9951</data>
+    </edge>
+    <edge source="Democratic Media" target="Alejandro Mayorkas">
+      <data key="d2">5</data>
+      <data key="d3">-0.40282</data>
+    </edge>
+    <edge source="Democratic Media" target="Alexandria Ocasio-Cortez">
+      <data key="d2">4</data>
+      <data key="d3">0.4983</data>
+    </edge>
+    <edge source="Democratic Media" target="Ayanna Pressley">
+      <data key="d2">1</data>
+      <data key="d3">-0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Adam Kinzinger">
+      <data key="d2">3</data>
+      <data key="d3">-0.3313333333333333</data>
+    </edge>
+    <edge source="Democratic Media" target="Elissa Slotkin">
+      <data key="d2">3</data>
+      <data key="d3">0.8002666666666668</data>
+    </edge>
+    <edge source="Democratic Media" target="Elizabeth Warren">
+      <data key="d2">6</data>
+      <data key="d3">0.9993500000000001</data>
+    </edge>
+    <edge source="Democratic Media" target="Andy Biggs">
+      <data key="d2">2</data>
+      <data key="d3">0.9071</data>
+    </edge>
+    <edge source="Democratic Media" target="Tim Scott">
+      <data key="d2">4</data>
+      <data key="d3">0.059524999999999995</data>
+    </edge>
+    <edge source="Democratic Media" target="Mitch McConnell">
+      <data key="d2">7</data>
+      <data key="d3">0.20391428571428574</data>
+    </edge>
+    <edge source="Democratic Media" target="Chuck Schumer">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Steven Horsford">
+      <data key="d2">1</data>
+      <data key="d3">0.9994</data>
+    </edge>
+    <edge source="Democratic Media" target="Susie Lee">
+      <data key="d2">1</data>
+      <data key="d3">0.9994</data>
+    </edge>
+    <edge source="Democratic Media" target="Colin Allred">
+      <data key="d2">12</data>
+      <data key="d3">0.6102166666666666</data>
+    </edge>
+    <edge source="Democratic Media" target="Lloyd Austin">
+      <data key="d2">5</data>
+      <data key="d3">-0.60134</data>
+    </edge>
+    <edge source="Democratic Media" target="Elena Kagan">
+      <data key="d2">1</data>
+      <data key="d3">0.979</data>
+    </edge>
+    <edge source="Democratic Media" target="John Roberts">
+      <data key="d2">2</data>
+      <data key="d3">0.9949</data>
+    </edge>
+    <edge source="Democratic Media" target="Donald Trump">
+      <data key="d2">365</data>
+      <data key="d3">0.325460821917808</data>
+    </edge>
+    <edge source="Democratic Media" target="Xavier Becerra">
+      <data key="d2">1</data>
+      <data key="d3">0.9954</data>
+    </edge>
+    <edge source="Democratic Media" target="J.D. Vance">
+      <data key="d2">1</data>
+      <data key="d3">0.9961</data>
+    </edge>
+    <edge source="Democratic Media" target="Josh Hawley">
+      <data key="d2">4</data>
+      <data key="d3">-0.8553000000000001</data>
+    </edge>
+    <edge source="Democratic Media" target="Susan Wild">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Don Bacon">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Larry Hogan">
+      <data key="d2">2</data>
+      <data key="d3">0.9942500000000001</data>
+    </edge>
+    <edge source="Democratic Media" target="Ruben Gallego">
+      <data key="d2">3</data>
+      <data key="d3">0.9971</data>
+    </edge>
+    <edge source="Democratic Media" target="Pat Ryan">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Deb Haaland">
+      <data key="d2">1</data>
+      <data key="d3">0.9911</data>
+    </edge>
+    <edge source="Democratic Media" target="Phil Murphy">
+      <data key="d2">1</data>
+      <data key="d3">0.9912</data>
+    </edge>
+    <edge source="Democratic Media" target="Ilhan Omar">
+      <data key="d2">2</data>
+      <data key="d3">-0.006849999999999967</data>
+    </edge>
+    <edge source="Democratic Media" target="Rudy Giuliani">
+      <data key="d2">7</data>
+      <data key="d3">-0.02764285714285714</data>
+    </edge>
+    <edge source="Democratic Media" target="Kristi Noem">
+      <data key="d2">4</data>
+      <data key="d3">0.975775</data>
+    </edge>
+    <edge source="Democratic Media" target="Greg Casar">
+      <data key="d2">1</data>
+      <data key="d3">0.9528</data>
+    </edge>
+    <edge source="Democratic Media" target="Andy Harris">
+      <data key="d2">3</data>
+      <data key="d3">-0.3344666666666667</data>
+    </edge>
+    <edge source="Democratic Media" target="Jim Jordan">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Clarence Thomas">
+      <data key="d2">4</data>
+      <data key="d3">-0.18792499999999998</data>
+    </edge>
+    <edge source="Democratic Media" target="Barry Loudermilk">
+      <data key="d2">1</data>
+      <data key="d3">-0.9948</data>
+    </edge>
+    <edge source="Democratic Media" target="Byron Donalds">
+      <data key="d2">2</data>
+      <data key="d3">0.0033500000000000196</data>
+    </edge>
+    <edge source="Democratic Media" target="Scott Perry">
+      <data key="d2">1</data>
+      <data key="d3">0.9998</data>
+    </edge>
+    <edge source="Democratic Media" target="Zoe Lofgren">
+      <data key="d2">1</data>
+      <data key="d3">0.9245</data>
+    </edge>
+    <edge source="Democratic Media" target="Bill Clinton">
+      <data key="d2">5</data>
+      <data key="d3">0.2024</data>
+    </edge>
+    <edge source="Democratic Media" target="Cyrus Vance">
+      <data key="d2">4</data>
+      <data key="d3">0.4854</data>
+    </edge>
+    <edge source="Democratic Media" target="Adam Schiff">
+      <data key="d2">3</data>
+      <data key="d3">-0.19353333333333333</data>
+    </edge>
+    <edge source="Democratic Media" target="Fred Upton">
+      <data key="d2">1</data>
+      <data key="d3">0.9842</data>
+    </edge>
+    <edge source="Democratic Media" target="Jamaal Bowman">
+      <data key="d2">1</data>
+      <data key="d3">0.9941</data>
+    </edge>
+    <edge source="Democratic Media" target="Katie Porter">
+      <data key="d2">1</data>
+      <data key="d3">0.9941</data>
+    </edge>
+    <edge source="Democratic Media" target="Amy Klobuchar">
+      <data key="d2">2</data>
+      <data key="d3">0.99915</data>
+    </edge>
+    <edge source="Democratic Media" target="Gavin Newsom">
+      <data key="d2">2</data>
+      <data key="d3">-0.0050000000000000044</data>
+    </edge>
+    <edge source="Democratic Media" target="Marjorie Taylor Greene">
+      <data key="d2">5</data>
+      <data key="d3">-0.005740000000000008</data>
+    </edge>
+    <edge source="Democratic Media" target="Mike Pence">
+      <data key="d2">19</data>
+      <data key="d3">-0.0631894736842105</data>
+    </edge>
+    <edge source="Democratic Media" target="Mitt Romney">
+      <data key="d2">4</data>
+      <data key="d3">0.9917749999999999</data>
+    </edge>
+    <edge source="Democratic Media" target="Mike D. Rogers">
+      <data key="d2">2</data>
+      <data key="d3">0.70065</data>
+    </edge>
+    <edge source="Democratic Media" target="Franklin D. Roosevelt">
+      <data key="d2">1</data>
+      <data key="d3">-0.9992</data>
+    </edge>
+    <edge source="Democratic Media" target="Neil Gorsuch">
+      <data key="d2">2</data>
+      <data key="d3">0.6142</data>
+    </edge>
+    <edge source="Democratic Media" target="Gina Raimondo">
+      <data key="d2">1</data>
+      <data key="d3">0.9998</data>
+    </edge>
+    <edge source="Democratic Media" target="Merrick Garland">
+      <data key="d2">4</data>
+      <data key="d3">0.49740000000000006</data>
+    </edge>
+    <edge source="Democratic Media" target="Pramila Jayapal">
+      <data key="d2">2</data>
+      <data key="d3">0.9968</data>
+    </edge>
+    <edge source="Democratic Media" target="Peter Welch">
+      <data key="d2">1</data>
+      <data key="d3">-0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Jerrold Nadler">
+      <data key="d2">1</data>
+      <data key="d3">-0.837</data>
+    </edge>
+    <edge source="Democratic Media" target="William Burns">
+      <data key="d2">1</data>
+      <data key="d3">-0.9988</data>
+    </edge>
+    <edge source="Democratic Media" target="Gretchen Whitmer">
+      <data key="d2">3</data>
+      <data key="d3">0.34170000000000006</data>
+    </edge>
+    <edge source="Democratic Media" target="Rashida Tlaib">
+      <data key="d2">1</data>
+      <data key="d3">0.9991</data>
+    </edge>
+    <edge source="Democratic Media" target="Katie Hobbs">
+      <data key="d2">1</data>
+      <data key="d3">0.9993</data>
+    </edge>
+    <edge source="Democratic Media" target="Bill de Blasio">
+      <data key="d2">2</data>
+      <data key="d3">0.0009500000000000064</data>
+    </edge>
+    <edge source="Democratic Media" target="Kamala Harris">
+      <data key="d2">297</data>
+      <data key="d3">0.3786545454545453</data>
+    </edge>
+    <edge source="Democratic Media" target="Michelle Park Steel">
+      <data key="d2">2</data>
+      <data key="d3">0.9964500000000001</data>
+    </edge>
+    <edge source="Democratic Media" target="Pete Aguilar">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Kevin McCarthy">
+      <data key="d2">2</data>
+      <data key="d3">0.99955</data>
+    </edge>
+    <edge source="Democratic Media" target="Pete Sessions">
+      <data key="d2">1</data>
+      <data key="d3">0.9993</data>
+    </edge>
+    <edge source="Democratic Media" target="Joe Manchin">
+      <data key="d2">10</data>
+      <data key="d3">0.98643</data>
+    </edge>
+    <edge source="Democratic Media" target="Ronny Jackson">
+      <data key="d2">4</data>
+      <data key="d3">-0.03434999999999999</data>
+    </edge>
+    <edge source="Democratic Media" target="Amy Coney Barrett">
+      <data key="d2">3</data>
+      <data key="d3">0.9963666666666667</data>
+    </edge>
+    <edge source="Democratic Media" target="Nancy Pelosi">
+      <data key="d2">8</data>
+      <data key="d3">0.29786250000000003</data>
+    </edge>
+    <edge source="Democratic Media" target="Lindsey Graham">
+      <data key="d2">7</data>
+      <data key="d3">0.19681428571428575</data>
+    </edge>
+    <edge source="Democratic Media" target="Ted Cruz">
+      <data key="d2">16</data>
+      <data key="d3">0.33771249999999997</data>
+    </edge>
+    <edge source="Democratic Media" target="Eric Adams">
+      <data key="d2">3</data>
+      <data key="d3">-0.31266666666666665</data>
+    </edge>
+    <edge source="Democratic Media" target="Mikie Sherrill">
+      <data key="d2">1</data>
+      <data key="d3">0.7817</data>
+    </edge>
+    <edge source="Democratic Media" target="Tom Vilsack">
+      <data key="d2">1</data>
+      <data key="d3">0.9998</data>
+    </edge>
+    <edge source="Democratic Media" target="Joe Biden">
+      <data key="d2">199</data>
+      <data key="d3">0.3961010050251255</data>
+    </edge>
+    <edge source="Democratic Media" target="Jay Inslee">
+      <data key="d2">1</data>
+      <data key="d3">0.8035</data>
+    </edge>
+    <edge source="Democratic Media" target="Antony Blinken">
+      <data key="d2">4</data>
+      <data key="d3">-0.996475</data>
+    </edge>
+    <edge source="Democratic Media" target="Stacey Abrams">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Sonia Sotomayor">
+      <data key="d2">1</data>
+      <data key="d3">0.2291</data>
+    </edge>
+    <edge source="Democratic Media" target="Liz Cheney">
+      <data key="d2">11</data>
+      <data key="d3">0.2687727272727273</data>
+    </edge>
+    <edge source="Democratic Media" target="Marie Gluesenkamp Perez">
+      <data key="d2">1</data>
+      <data key="d3">0.9995</data>
+    </edge>
+    <edge source="Democratic Media" target="Hillary Clinton">
+      <data key="d2">10</data>
+      <data key="d3">0.42203999999999997</data>
+    </edge>
+    <edge source="Democratic Media" target="Rob Menendez">
+      <data key="d2">1</data>
+      <data key="d3">-0.9971</data>
+    </edge>
+    <edge source="Democratic Media" target="Jamie Raskin">
+      <data key="d2">5</data>
+      <data key="d3">0.18516</data>
+    </edge>
+    <edge source="Democratic Media" target="Barack Obama">
+      <data key="d2">14</data>
+      <data key="d3">0.7076928571428571</data>
+    </edge>
+    <edge source="Republican Media" target="Marty Walsh">
+      <data key="d2">1</data>
+      <data key="d3">0.9743</data>
+    </edge>
+    <edge source="Republican Media" target="Brian Mast">
+      <data key="d2">1</data>
+      <data key="d3">-0.9958</data>
+    </edge>
+    <edge source="Republican Media" target="Brett Guthrie">
+      <data key="d2">1</data>
+      <data key="d3">0.9953</data>
+    </edge>
+    <edge source="Republican Media" target="Chip Roy">
+      <data key="d2">1</data>
+      <data key="d3">0.4407</data>
+    </edge>
+    <edge source="Republican Media" target="Mary Peltola">
+      <data key="d2">3</data>
+      <data key="d3">0.9956333333333335</data>
+    </edge>
+    <edge source="Republican Media" target="Bernie Sanders">
+      <data key="d2">13</data>
+      <data key="d3">0.41973076923076913</data>
+    </edge>
+    <edge source="Republican Media" target="Vicente Gonzalez">
+      <data key="d2">1</data>
+      <data key="d3">0.989</data>
+    </edge>
+    <edge source="Republican Media" target="Hakeem Jeffries">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="Mike Lawler">
+      <data key="d2">2</data>
+      <data key="d3">0.9966999999999999</data>
+    </edge>
+    <edge source="Republican Media" target="Brian Kemp">
+      <data key="d2">2</data>
+      <data key="d3">0.015649999999999997</data>
+    </edge>
+    <edge source="Republican Media" target="Ron DeSantis">
+      <data key="d2">11</data>
+      <data key="d3">0.10139090909090905</data>
+    </edge>
+    <edge source="Republican Media" target="Mondaire Jones">
+      <data key="d2">1</data>
+      <data key="d3">0.9877</data>
+    </edge>
+    <edge source="Republican Media" target="Laurel M. Lee">
+      <data key="d2">1</data>
+      <data key="d3">0.9538</data>
+    </edge>
+    <edge source="Republican Media" target="John Joyce">
+      <data key="d2">1</data>
+      <data key="d3">-0.9989</data>
+    </edge>
+    <edge source="Republican Media" target="Jen Kiggans">
+      <data key="d2">2</data>
+      <data key="d3">0.98015</data>
+    </edge>
+    <edge source="Republican Media" target="Kyrsten Sinema">
+      <data key="d2">1</data>
+      <data key="d3">0.9877</data>
+    </edge>
+    <edge source="Republican Media" target="Bryan Steil">
+      <data key="d2">5</data>
+      <data key="d3">0.56792</data>
+    </edge>
+    <edge source="Republican Media" target="Marco Rubio">
+      <data key="d2">3</data>
+      <data key="d3">-0.0684</data>
+    </edge>
+    <edge source="Republican Media" target="Nikki Haley">
+      <data key="d2">9</data>
+      <data key="d3">0.273111111111111</data>
+    </edge>
+    <edge source="Republican Media" target="Mark Pocan">
+      <data key="d2">1</data>
+      <data key="d3">0.976</data>
+    </edge>
+    <edge source="Republican Media" target="Tom Cotton">
+      <data key="d2">3</data>
+      <data key="d3">0.9925666666666667</data>
+    </edge>
+    <edge source="Republican Media" target="George W. Bush">
+      <data key="d2">5</data>
+      <data key="d3">0.31024</data>
+    </edge>
+    <edge source="Republican Media" target="Mike Garcia">
+      <data key="d2">2</data>
+      <data key="d3">0.99895</data>
+    </edge>
+    <edge source="Republican Media" target="Chrissy Houlahan">
+      <data key="d2">1</data>
+      <data key="d3">-0.9838</data>
+    </edge>
+    <edge source="Republican Media" target="Stephanie Bice">
+      <data key="d2">1</data>
+      <data key="d3">0.9538</data>
+    </edge>
+    <edge source="Republican Media" target="Andrew Cuomo">
+      <data key="d2">2</data>
+      <data key="d3">-0.6615</data>
+    </edge>
+    <edge source="Republican Media" target="Alejandro Mayorkas">
+      <data key="d2">11</data>
+      <data key="d3">-0.38798181818181815</data>
+    </edge>
+    <edge source="Republican Media" target="Alexandria Ocasio-Cortez">
+      <data key="d2">2</data>
+      <data key="d3">0.6698500000000001</data>
+    </edge>
+    <edge source="Republican Media" target="Adam Kinzinger">
+      <data key="d2">3</data>
+      <data key="d3">-0.7160333333333333</data>
+    </edge>
+    <edge source="Republican Media" target="Steve Scalise">
+      <data key="d2">3</data>
+      <data key="d3">0.924</data>
+    </edge>
+    <edge source="Republican Media" target="Elissa Slotkin">
+      <data key="d2">7</data>
+      <data key="d3">0.6124285714285714</data>
+    </edge>
+    <edge source="Republican Media" target="Elizabeth Warren">
+      <data key="d2">7</data>
+      <data key="d3">-0.08947142857142856</data>
+    </edge>
+    <edge source="Republican Media" target="Jan Schakowsky">
+      <data key="d2">1</data>
+      <data key="d3">0.7582</data>
+    </edge>
+    <edge source="Republican Media" target="Tim Scott">
+      <data key="d2">7</data>
+      <data key="d3">0.6191285714285714</data>
+    </edge>
+    <edge source="Republican Media" target="Mitch McConnell">
+      <data key="d2">6</data>
+      <data key="d3">0.3519666666666666</data>
+    </edge>
+    <edge source="Republican Media" target="Chuck Schumer">
+      <data key="d2">9</data>
+      <data key="d3">0.7245333333333333</data>
+    </edge>
+    <edge source="Republican Media" target="Susie Lee">
+      <data key="d2">1</data>
+      <data key="d3">0.9974</data>
+    </edge>
+    <edge source="Republican Media" target="Colin Allred">
+      <data key="d2">5</data>
+      <data key="d3">0.11114000000000002</data>
+    </edge>
+    <edge source="Republican Media" target="Lloyd Austin">
+      <data key="d2">3</data>
+      <data key="d3">-0.3269666666666667</data>
+    </edge>
+    <edge source="Republican Media" target="Abigail Spanberger">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="John Roberts">
+      <data key="d2">3</data>
+      <data key="d3">0.8147666666666668</data>
+    </edge>
+    <edge source="Republican Media" target="Donald Trump">
+      <data key="d2">510</data>
+      <data key="d3">0.2733750980392152</data>
+    </edge>
+    <edge source="Republican Media" target="Jared Golden">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="J.D. Vance">
+      <data key="d2">5</data>
+      <data key="d3">-0.18314</data>
+    </edge>
+    <edge source="Republican Media" target="Dina Titus">
+      <data key="d2">1</data>
+      <data key="d3">0.9893</data>
+    </edge>
+    <edge source="Republican Media" target="Dean Phillips">
+      <data key="d2">1</data>
+      <data key="d3">-0.6369</data>
+    </edge>
+    <edge source="Republican Media" target="Jim Cooper">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="David Valadao">
+      <data key="d2">2</data>
+      <data key="d3">0.99895</data>
+    </edge>
+    <edge source="Republican Media" target="Josh Hawley">
+      <data key="d2">3</data>
+      <data key="d3">0.9993</data>
+    </edge>
+    <edge source="Republican Media" target="Dan Newhouse">
+      <data key="d2">1</data>
+      <data key="d3">0.993</data>
+    </edge>
+    <edge source="Republican Media" target="Larry Hogan">
+      <data key="d2">4</data>
+      <data key="d3">0.98735</data>
+    </edge>
+    <edge source="Republican Media" target="Ruben Gallego">
+      <data key="d2">4</data>
+      <data key="d3">0.18892499999999998</data>
+    </edge>
+    <edge source="Republican Media" target="Pat Ryan">
+      <data key="d2">2</data>
+      <data key="d3">-0.06374999999999997</data>
+    </edge>
+    <edge source="Republican Media" target="Deb Haaland">
+      <data key="d2">1</data>
+      <data key="d3">0.998</data>
+    </edge>
+    <edge source="Republican Media" target="Jim Clyburn">
+      <data key="d2">3</data>
+      <data key="d3">0.9770666666666666</data>
+    </edge>
+    <edge source="Republican Media" target="Troy Nehls">
+      <data key="d2">1</data>
+      <data key="d3">-0.9957</data>
+    </edge>
+    <edge source="Republican Media" target="Phil Murphy">
+      <data key="d2">2</data>
+      <data key="d3">0.9749</data>
+    </edge>
+    <edge source="Republican Media" target="Rudy Giuliani">
+      <data key="d2">2</data>
+      <data key="d3">-0.014000000000000012</data>
+    </edge>
+    <edge source="Republican Media" target="Tony Evers">
+      <data key="d2">2</data>
+      <data key="d3">0.9933000000000001</data>
+    </edge>
+    <edge source="Republican Media" target="Barbara Lee">
+      <data key="d2">3</data>
+      <data key="d3">0.9758666666666667</data>
+    </edge>
+    <edge source="Republican Media" target="Greg Casar">
+      <data key="d2">1</data>
+      <data key="d3">0.9891</data>
+    </edge>
+    <edge source="Republican Media" target="Daniel S. Goldman">
+      <data key="d2">1</data>
+      <data key="d3">-0.9933</data>
+    </edge>
+    <edge source="Republican Media" target="Beth Van Duyne">
+      <data key="d2">1</data>
+      <data key="d3">0.9875</data>
+    </edge>
+    <edge source="Republican Media" target="Lauren Boebert">
+      <data key="d2">1</data>
+      <data key="d3">-0.974</data>
+    </edge>
+    <edge source="Republican Media" target="Jim McGovern">
+      <data key="d2">1</data>
+      <data key="d3">0.7582</data>
+    </edge>
+    <edge source="Republican Media" target="Jim Jordan">
+      <data key="d2">8</data>
+      <data key="d3">0.37488750000000004</data>
+    </edge>
+    <edge source="Republican Media" target="Clarence Thomas">
+      <data key="d2">1</data>
+      <data key="d3">0.9939</data>
+    </edge>
+    <edge source="Republican Media" target="Byron Donalds">
+      <data key="d2">6</data>
+      <data key="d3">0.5918333333333333</data>
+    </edge>
+    <edge source="Republican Media" target="Madeleine Dean">
+      <data key="d2">1</data>
+      <data key="d3">0.9983</data>
+    </edge>
+    <edge source="Republican Media" target="James Comer">
+      <data key="d2">4</data>
+      <data key="d3">0.4526</data>
+    </edge>
+    <edge source="Republican Media" target="Markwayne Mullin">
+      <data key="d2">1</data>
+      <data key="d3">0.9948</data>
+    </edge>
+    <edge source="Republican Media" target="Miguel Cardona">
+      <data key="d2">1</data>
+      <data key="d3">0.9665</data>
+    </edge>
+    <edge source="Republican Media" target="Gwen Moore">
+      <data key="d2">1</data>
+      <data key="d3">0.976</data>
+    </edge>
+    <edge source="Republican Media" target="Scott Perry">
+      <data key="d2">2</data>
+      <data key="d3">0.012500000000000011</data>
+    </edge>
+    <edge source="Republican Media" target="Elise Stefanik">
+      <data key="d2">7</data>
+      <data key="d3">0.16952857142857145</data>
+    </edge>
+    <edge source="Republican Media" target="Ro Khanna">
+      <data key="d2">1</data>
+      <data key="d3">0.997</data>
+    </edge>
+    <edge source="Republican Media" target="Bill Clinton">
+      <data key="d2">4</data>
+      <data key="d3">0.489475</data>
+    </edge>
+    <edge source="Republican Media" target="Cyrus Vance">
+      <data key="d2">7</data>
+      <data key="d3">-0.15092857142857144</data>
+    </edge>
+    <edge source="Republican Media" target="Jim Banks">
+      <data key="d2">1</data>
+      <data key="d3">0.9958</data>
+    </edge>
+    <edge source="Republican Media" target="Adam Schiff">
+      <data key="d2">3</data>
+      <data key="d3">0.32289999999999996</data>
+    </edge>
+    <edge source="Republican Media" target="Fred Upton">
+      <data key="d2">1</data>
+      <data key="d3">-0.9673</data>
+    </edge>
+    <edge source="Republican Media" target="Amy Klobuchar">
+      <data key="d2">1</data>
+      <data key="d3">0.9423</data>
+    </edge>
+    <edge source="Republican Media" target="Mark Green">
+      <data key="d2">4</data>
+      <data key="d3">-0.83345</data>
+    </edge>
+    <edge source="Republican Media" target="Greg Murphy">
+      <data key="d2">1</data>
+      <data key="d3">0.9538</data>
+    </edge>
+    <edge source="Republican Media" target="John Kerry">
+      <data key="d2">1</data>
+      <data key="d3">-0.9377</data>
+    </edge>
+    <edge source="Republican Media" target="Brandon Williams">
+      <data key="d2">1</data>
+      <data key="d3">0.9952</data>
+    </edge>
+    <edge source="Republican Media" target="Gavin Newsom">
+      <data key="d2">5</data>
+      <data key="d3">0.034439999999999985</data>
+    </edge>
+    <edge source="Republican Media" target="Marjorie Taylor Greene">
+      <data key="d2">1</data>
+      <data key="d3">0.8908</data>
+    </edge>
+    <edge source="Republican Media" target="Zach Nunn">
+      <data key="d2">2</data>
+      <data key="d3">0.9978</data>
+    </edge>
+    <edge source="Republican Media" target="Mike Pence">
+      <data key="d2">1</data>
+      <data key="d3">0.9841</data>
+    </edge>
+    <edge source="Republican Media" target="Mike D. Rogers">
+      <data key="d2">8</data>
+      <data key="d3">0.6603499999999999</data>
+    </edge>
+    <edge source="Republican Media" target="Merrick Garland">
+      <data key="d2">11</data>
+      <data key="d3">0.0461</data>
+    </edge>
+    <edge source="Republican Media" target="Sheila Jackson Lee">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="Pramila Jayapal">
+      <data key="d2">1</data>
+      <data key="d3">0.997</data>
+    </edge>
+    <edge source="Republican Media" target="María Elvira Salazar">
+      <data key="d2">1</data>
+      <data key="d3">0.9702</data>
+    </edge>
+    <edge source="Republican Media" target="Jerrold Nadler">
+      <data key="d2">1</data>
+      <data key="d3">-0.9072</data>
+    </edge>
+    <edge source="Republican Media" target="Pete Buttigieg">
+      <data key="d2">1</data>
+      <data key="d3">-0.1633</data>
+    </edge>
+    <edge source="Republican Media" target="Gretchen Whitmer">
+      <data key="d2">7</data>
+      <data key="d3">0.4388428571428572</data>
+    </edge>
+    <edge source="Republican Media" target="Deborah Dingell">
+      <data key="d2">2</data>
+      <data key="d3">0.99065</data>
+    </edge>
+    <edge source="Republican Media" target="Henry Cuellar">
+      <data key="d2">1</data>
+      <data key="d3">0.989</data>
+    </edge>
+    <edge source="Republican Media" target="Emilia Sykes">
+      <data key="d2">2</data>
+      <data key="d3">0.26105</data>
+    </edge>
+    <edge source="Republican Media" target="Bill de Blasio">
+      <data key="d2">3</data>
+      <data key="d3">0.3292</data>
+    </edge>
+    <edge source="Republican Media" target="Kamala Harris">
+      <data key="d2">491</data>
+      <data key="d3">0.25519999999999965</data>
+    </edge>
+    <edge source="Republican Media" target="Michelle Park Steel">
+      <data key="d2">2</data>
+      <data key="d3">0.99895</data>
+    </edge>
+    <edge source="Republican Media" target="Tom Emmer">
+      <data key="d2">1</data>
+      <data key="d3">0.9948</data>
+    </edge>
+    <edge source="Republican Media" target="Richard Hudson">
+      <data key="d2">2</data>
+      <data key="d3">0.06990000000000002</data>
+    </edge>
+    <edge source="Republican Media" target="Kevin McCarthy">
+      <data key="d2">2</data>
+      <data key="d3">-0.0030999999999999917</data>
+    </edge>
+    <edge source="Republican Media" target="Dan Crenshaw">
+      <data key="d2">1</data>
+      <data key="d3">-0.9983</data>
+    </edge>
+    <edge source="Republican Media" target="Joe Manchin">
+      <data key="d2">18</data>
+      <data key="d3">0.5853333333333333</data>
+    </edge>
+    <edge source="Republican Media" target="Kathy Hochul">
+      <data key="d2">2</data>
+      <data key="d3">0.10685</data>
+    </edge>
+    <edge source="Republican Media" target="Ronny Jackson">
+      <data key="d2">3</data>
+      <data key="d3">0.3074</data>
+    </edge>
+    <edge source="Republican Media" target="Amy Coney Barrett">
+      <data key="d2">1</data>
+      <data key="d3">0.996</data>
+    </edge>
+    <edge source="Republican Media" target="Tom Tiffany">
+      <data key="d2">1</data>
+      <data key="d3">-0.3094</data>
+    </edge>
+    <edge source="Republican Media" target="John Duarte">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="Mike Collins">
+      <data key="d2">2</data>
+      <data key="d3">-0.9922</data>
+    </edge>
+    <edge source="Republican Media" target="Roger Williams">
+      <data key="d2">2</data>
+      <data key="d3">-0.0006499999999999839</data>
+    </edge>
+    <edge source="Republican Media" target="Nancy Pelosi">
+      <data key="d2">14</data>
+      <data key="d3">0.22727857142857144</data>
+    </edge>
+    <edge source="Republican Media" target="Lindsey Graham">
+      <data key="d2">3</data>
+      <data key="d3">0.3259333333333333</data>
+    </edge>
+    <edge source="Republican Media" target="Lauren Underwood">
+      <data key="d2">1</data>
+      <data key="d3">-0.9944</data>
+    </edge>
+    <edge source="Republican Media" target="Ted Cruz">
+      <data key="d2">13</data>
+      <data key="d3">0.34242307692307694</data>
+    </edge>
+    <edge source="Republican Media" target="Raja Krishnamoorthi">
+      <data key="d2">1</data>
+      <data key="d3">0.9891</data>
+    </edge>
+    <edge source="Republican Media" target="Mariannette Miller-Meeks">
+      <data key="d2">2</data>
+      <data key="d3">0.9978</data>
+    </edge>
+    <edge source="Republican Media" target="Maxine Waters">
+      <data key="d2">1</data>
+      <data key="d3">0.9953</data>
+    </edge>
+    <edge source="Republican Media" target="Gary Palmer">
+      <data key="d2">1</data>
+      <data key="d3">-0.9576</data>
+    </edge>
+    <edge source="Republican Media" target="Ken Calvert">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="August Pfluger">
+      <data key="d2">1</data>
+      <data key="d3">-0.9997</data>
+    </edge>
+    <edge source="Republican Media" target="J.B. Pritzker">
+      <data key="d2">1</data>
+      <data key="d3">-0.9994</data>
+    </edge>
+    <edge source="Republican Media" target="Bennie Thompson">
+      <data key="d2">1</data>
+      <data key="d3">0.7582</data>
+    </edge>
+    <edge source="Republican Media" target="Joe Biden">
+      <data key="d2">387</data>
+      <data key="d3">0.17442661498708023</data>
+    </edge>
+    <edge source="Republican Media" target="John Fetterman">
+      <data key="d2">2</data>
+      <data key="d3">0.02779999999999999</data>
+    </edge>
+    <edge source="Republican Media" target="Jay Inslee">
+      <data key="d2">1</data>
+      <data key="d3">0.9743</data>
+    </edge>
+    <edge source="Republican Media" target="Antony Blinken">
+      <data key="d2">5</data>
+      <data key="d3">-0.13620000000000004</data>
+    </edge>
+    <edge source="Republican Media" target="Stacey Abrams">
+      <data key="d2">2</data>
+      <data key="d3">-0.95845</data>
+    </edge>
+    <edge source="Republican Media" target="Gabe Vasquez">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="Morgan Griffith">
+      <data key="d2">1</data>
+      <data key="d3">0.9953</data>
+    </edge>
+    <edge source="Republican Media" target="Wesley Hunt">
+      <data key="d2">1</data>
+      <data key="d3">-0.9983</data>
+    </edge>
+    <edge source="Republican Media" target="Liz Cheney">
+      <data key="d2">6</data>
+      <data key="d3">-0.5681666666666666</data>
+    </edge>
+    <edge source="Republican Media" target="Marie Gluesenkamp Perez">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="Jahana Hayes">
+      <data key="d2">1</data>
+      <data key="d3">0.989</data>
+    </edge>
+    <edge source="Republican Media" target="Hillary Clinton">
+      <data key="d2">27</data>
+      <data key="d3">0.3089</data>
+    </edge>
+    <edge source="Republican Media" target="Rob Menendez">
+      <data key="d2">1</data>
+      <data key="d3">-0.9576</data>
+    </edge>
+    <edge source="Republican Media" target="Marcy Kaptur">
+      <data key="d2">1</data>
+      <data key="d3">0.9982</data>
+    </edge>
+    <edge source="Republican Media" target="Jamie Raskin">
+      <data key="d2">3</data>
+      <data key="d3">0.9106666666666667</data>
+    </edge>
+    <edge source="Republican Media" target="Barack Obama">
+      <data key="d2">18</data>
+      <data key="d3">0.1941888888888889</data>
+    </edge>
+    <edge source="Republican Media" target="Anna Eshoo">
+      <data key="d2">1</data>
+      <data key="d3">0.9944</data>
+    </edge>
+    <edge source="Republican Media" target="Harriet Hageman">
+      <data key="d2">1</data>
+      <data key="d3">-0.9881</data>
+    </edge>
+  </graph>
+</graphml>
