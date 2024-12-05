@@ -582,7 +582,6 @@ peer 8
 choice 98
 stated 78
 peace 30
-http 55
 31 29
 seven 83
 month 295
@@ -1597,7 +1596,6 @@ saturday 94
 eager 8
 familiar 26
 dynamic 14
-axios 44
 hit 95
 trail 93
 aside 13
@@ -2000,7 +1998,6 @@ bryan 7
 steil 23
 purpose 23
 nonpartisan 134
-newswire 111
 legitimate 127
 publisher 128
 republished 112

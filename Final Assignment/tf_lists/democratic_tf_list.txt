@@ -912,7 +912,6 @@ stop 127
 talking 150
 squirrel 23
 named 30
-peanut 38
 instagram 17
 nut 5
 tiny 15
@@ -1749,7 +1748,6 @@ session 24
 feel 181
 identify 37
 continues 36
-slate 50
 interviewed 11
 prioritize 10
 finance 25
@@ -1988,7 +1986,6 @@ desire 26
 visible 16
 susan 10
 hakeem 7
-jeffries 53
 speaker 83
 holding 54
 thread 5
@@ -4437,7 +4434,6 @@ oh 23
 inappropriate 7
 please 12
 charlie 9
-kirk 42
 tribal 29
 disagrees 5
 collins 5
@@ -4622,7 +4618,6 @@ marginal 11
 discovered 9
 revolutionary 5
 weaker 6
-hbcu 24
 elite 17
 skill 5
 navigate 5
@@ -4963,7 +4958,6 @@ embargo 6
 committing 5
 ecra 26
 inevitably 5
-penny 44
 elia 7
 wagner 19
 ranked 5
@@ -5314,7 +5308,6 @@ gila 9
 tribe 36
 manage 7
 empowered 5
-navajo 41
 boom 6
 cared 5
 empower 5
